@@ -23,8 +23,10 @@
 <title>
   {% if site.title == 'blank' %}
     {% capture title %}{{ author_name }}{% endcapture %}
+  {% elsif site.title_plain %}
+    {% capture title %}{{ site.title_plain }}{% endcapture %}
   {% else %}
-    {% capture title %}{{ site.title }}{% endcapture %}
+    {% capture title %}{{ site.title | strip_html }}{% endcapture %}
   {% endif %}
   {% if page.url == '/blog/index.html' %}
     {{ page.title }} | {{ title }}

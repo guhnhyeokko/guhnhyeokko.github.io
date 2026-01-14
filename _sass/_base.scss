@@ -299,6 +299,25 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
+    display: flex;
+    align-items: center;
+
+    .navbar-logo {
+      height: 30px;
+      width: auto;
+      margin-right: 8px;
+    }
+
+    .title-highlight {
+      color: #28a745;
+      font-weight: bold;
+    }
+
+    .title-line1,
+    .title-line2 {
+      display: block;
+      line-height: 1.2;
+    }
   }
 
   .navbar-nav .nav-item .nav-link {

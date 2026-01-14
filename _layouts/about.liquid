@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-<div class="post">
+
+{% include hero.liquid %}
+
+<div class="container mt-5">
+<div id="main-content" class="post">
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
@@ -56,6 +60,14 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+    <!-- Projects -->
+    {% if page.projects and page.projects.enabled %}
+      <h2>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">projects</a>
+      </h2>
+      {% include projects_home.liquid limit=page.projects.limit %}
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
@@ -77,4 +89,5 @@ layout: default
       {% include newsletter.liquid center=true %}
     {% endif %}
   </article>
+</div>
 </div>
