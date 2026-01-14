@@ -31,9 +31,9 @@ horizontal: false
 <h2 class="category" style="text-align: left; border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.5rem;">Support</h2>
 
 {% if site.support %}
-  {% assign sorted_support = site.support | sort: "importance" %}
+{% assign sorted_support = site.support | sort: "importance" %}
 {% else %}
-  {% assign sorted_support = "" | split: "" %}
+{% assign sorted_support = "" | split: "" %}
 {% endif %}
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
