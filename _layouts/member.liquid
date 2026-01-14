@@ -1,0 +1,75 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.profile.name }}</h1>
+    <p class="desc">{{ page.profile.position }}</p>
+  </header>
+
+  <article>
+    {% if page.profile %}
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+        {% if page.profile.image %}
+          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+          {% if page.profile.image_circular %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% else %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+          {% endif %}
+          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+          {%
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.name
+            cache_bust=true
+          %}
+        {% endif %}
+        <div class="more-info">
+          {% if page.profile.email %}
+            <p><i class="fa-solid fa-envelope"></i> <a href="mailto:{{ page.profile.email }}">{{ page.profile.email }}</a></p>
+          {% endif %}
+          {% if page.profile.phone %}
+            <p><i class="fa-solid fa-phone"></i> {{ page.profile.phone }}</p>
+          {% endif %}
+          {% if page.profile.address %}
+            <p><i class="fa-solid fa-location-dot"></i> {{ page.profile.address }}</p>
+          {% endif %}
+        </div>
+        <div class="social-icons mt-2">
+          {% if page.profile.orcid %}
+            <a href="https://orcid.org/{{ page.profile.orcid }}" target="_blank" rel="noopener noreferrer" title="ORCID"><i class="fa-brands fa-orcid"></i></a>
+          {% endif %}
+          {% if page.profile.github %}
+            <a href="https://github.com/{{ page.profile.github }}" target="_blank" rel="noopener noreferrer" title="GitHub"><i class="fa-brands fa-github"></i></a>
+          {% endif %}
+          {% if page.profile.twitter %}
+            <a href="https://twitter.com/{{ page.profile.twitter }}" target="_blank" rel="noopener noreferrer" title="Twitter"><i class="fa-brands fa-twitter"></i></a>
+          {% endif %}
+          {% if page.profile.linkedin %}
+            <a href="https://www.linkedin.com/in/{{ page.profile.linkedin }}" target="_blank" rel="noopener noreferrer" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+          {% endif %}
+          {% if page.profile.website %}
+            <a href="{{ page.profile.website }}" target="_blank" rel="noopener noreferrer" title="Website"><i class="fa-solid fa-globe"></i></a>
+          {% endif %}
+        </div>
+      </div>
+    {% endif %}
+
+    <div class="clearfix">{{ content }}</div>
+
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+      </h2>
+      {% include selected_papers.liquid %}
+    {% endif %}
+
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% include social.liquid %}</div>
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
+  </article>
+</div>

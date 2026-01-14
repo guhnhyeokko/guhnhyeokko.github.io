@@ -1,0 +1,57 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign groups_order = "PI|Postdoc|PhD|Master|Alumni" | split: "|" %}
+
+{% for group in groups_order %}
+  {% assign members_in_group = site.members | where: "group", group | sort: "lastname" %}
+  {% if members_in_group.size > 0 %}
+    <h2 class="mt-4">{{ group }}</h2>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mb-4">
+      {% for member in members_in_group %}
+        <div class="col">
+          <div class="card h-100 hoverable">
+            {% if member.profile.image %}
+              {% assign member_image_path = member.profile.image | prepend: 'assets/img/' %}
+              <a href="{{ member.url | relative_url }}">
+                {%
+                  include figure.liquid
+                  loading="lazy"
+                  path=member_image_path
+                  class="card-img-top"
+                  alt=member.profile.name
+                %}
+              </a>
+            {% endif %}
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="{{ member.url | relative_url }}">{{ member.profile.name }}</a>
+              </h5>
+              <p class="card-subtitle mb-2 text-muted">{{ member.profile.position }}</p>
+              {% if member.description %}
+                <p class="card-text">{{ member.description }}</p>
+              {% endif %}
+              <div class="social-icons">
+                {% if member.profile.email %}
+                  <a href="mailto:{{ member.profile.email }}" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                {% endif %}
+                {% if member.profile.orcid %}
+                  <a href="https://orcid.org/{{ member.profile.orcid }}" target="_blank" rel="noopener noreferrer" title="ORCID"><i class="fa-brands fa-orcid"></i></a>
+                {% endif %}
+                {% if member.profile.github %}
+                  <a href="https://github.com/{{ member.profile.github }}" target="_blank" rel="noopener noreferrer" title="GitHub"><i class="fa-brands fa-github"></i></a>
+                {% endif %}
+                {% if member.profile.website %}
+                  <a href="{{ member.profile.website }}" target="_blank" rel="noopener noreferrer" title="Website"><i class="fa-solid fa-globe"></i></a>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+{% endfor %}

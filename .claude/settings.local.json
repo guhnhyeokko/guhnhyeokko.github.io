@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git reset:*)",
+      "Bash(git push:*)",
+      "Bash(git checkout:*)",
+      "Bash(git stash:*)",
+      "Bash(git remote add:*)",
+      "Bash(git fetch:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd hero landing page and customize for OBUS Lab\n\n- Add full-screen hero section with image/video/youtube support\n- Customize navbar title with OBUS highlighting \\(green bold\\)\n- Add custom domain \\(jnu-obus.com\\) configuration\n- Add team page and member profiles\n- Update publications and site settings\n- Remove footer text, enable last_updated\n\nNew files:\n- _includes/hero.liquid\n- _sass/_hero.scss\n- assets/js/hero.js\n- CNAME\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}
