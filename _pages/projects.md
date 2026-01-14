@@ -35,7 +35,7 @@ horizontal: false
   <!-- NRF Card -->
   <div class="col">
     <div class="card h-100">
-      <img src="/assets/img/support/nrf.png" class="card-img-top p-3" alt="NRF" style="height: 150px; object-fit: contain; background-color: #f8f9fa;">
+      <img src="/assets/img/support/nrf.jpg" class="card-img-top p-3" alt="NRF" style="height: 150px; object-fit: contain; background-color: #f8f9fa;">
       <div class="card-body">
         <h5 class="card-title">National Research Foundation of Korea (NRF)</h5>
         <ul class="list-unstyled">
@@ -49,7 +49,7 @@ horizontal: false
   <!-- MSIT Card -->
   <div class="col">
     <div class="card h-100">
-      <img src="/assets/img/support/msit.png" class="card-img-top p-3" alt="MSIT" style="height: 150px; object-fit: contain; background-color: #f8f9fa;">
+      <img src="/assets/img/support/fusf.png" class="card-img-top p-3" alt="MSIT" style="height: 150px; object-fit: contain; background-color: #f8f9fa;">
       <div class="card-body">
         <h5 class="card-title">Ministry of Science and ICT</h5>
         <ul class="list-unstyled">
@@ -62,7 +62,7 @@ horizontal: false
   <!-- JNU Card -->
   <div class="col">
     <div class="card h-100">
-      <img src="/assets/img/support/jnu.png" class="card-img-top p-3" alt="JNU" style="height: 150px; object-fit: contain; background-color: #f8f9fa;">
+      <img src="/assets/img/support/erc.png" class="card-img-top p-3" alt="JNU" style="height: 150px; object-fit: contain; background-color: #f8f9fa;">
       <div class="card-body">
         <h5 class="card-title">Jeju National University</h5>
         <ul class="list-unstyled">
