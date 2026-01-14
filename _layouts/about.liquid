@@ -35,6 +35,17 @@ layout: default
               cache_bust=true
             %}
           {% endif %}
+          {% if page.profile.name %}
+            <div class="profile-name text-center mt-3 mb-2">
+              {% if page.profile.link %}
+                <a href="{{ page.profile.link | relative_url }}" style="color: var(--global-text-color); text-decoration: none; font-weight: 600; font-size: 1.1rem;">
+                  {{ page.profile.name }}
+                </a>
+              {% else %}
+                <div style="font-weight: 600; font-size: 1.1rem;">{{ page.profile.name }}</div>
+              {% endif %}
+            </div>
+          {% endif %}
           {% if page.profile.more_info %}
             <div class="more-info">{{ page.profile.more_info }}</div>
           {% endif %}

@@ -8,6 +8,8 @@ profile:
   align: right
   image: prof.jpg
   image_circular: false # crops the image to make it circular
+  name: Prof. Dong-Guk Paeng
+  link: /members/dong-guk-paeng/
   more_info: >
     <div style="font-family: 'Noto Sans KR', sans-serif; font-size: 0.9rem; line-height: 1.8; color: #444;">
       <p style="margin: 0; font-weight: 500;"><i class="fa-solid fa-building-columns" style="color: var(--global-theme-color); margin-right: 6px;"></i>Jeju National University</p>
