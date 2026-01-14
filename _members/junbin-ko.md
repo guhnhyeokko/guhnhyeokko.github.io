@@ -9,7 +9,7 @@ description: Underwater acoustics, Signal processing
 profile:
   name: JunBin Ko
   position: PhD Student
-  image: junbin-ko.jpg
+  image: prof_pic.jpg
   email: kojb1982@jejunu.ac.kr
   github:
   address:

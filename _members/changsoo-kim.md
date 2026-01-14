@@ -9,7 +9,7 @@ description: Diagnostic and Therapeutic Ultrasound, Acoustic simulation
 profile:
   name: Changsoo Kim
   position: Postdoc
-  image: changsoo-kim.jpg
+  image: prof_pic.jpg
   email: yustchangjnu@jejunu.ac.kr
   github:
   address:

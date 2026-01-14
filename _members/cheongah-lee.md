@@ -9,7 +9,7 @@ description: Hemodynamics, Numerical simulation of RBC kinetics
 profile:
   name: Cheong-Ah Lee
   position: Postdoc
-  image: cheongah-lee.jpg
+  image: prof_pic.jpg
   email: cjddk7467@stu.jejunu.ac.kr
   github:
   address:
