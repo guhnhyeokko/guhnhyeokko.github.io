@@ -29,18 +29,7 @@ Our research focuses on non-invasive and precise therapeutic ultrasound treatmen
 
 ## Research Fields
 
-### Basic Research on Brain Tissue and Cerebral Blood Flow Interaction
-
-We investigate the fundamental interactions between brain tissue and cerebral blood flow, exploring how ultrasound can modulate these relationships for therapeutic benefit.
-
-### 40Hz Gamma Band Stimulation and Cerebral Blood Flow Monitoring
-
-Our research explores the effects of 40Hz gamma band auditory and visual stimulation combined with focused ultrasound stimulation on the brain. We continuously monitor cerebral blood flow changes to understand the therapeutic mechanisms.
-
-### Shock Wave Brain Stimulation Using CNT Transducers
-
-We develop and investigate novel shock wave brain stimulation techniques utilizing carbon nanotube (CNT) transducers, pushing the boundaries of non-invasive neuromodulation.
-
-### Brain Stimulation Research with Disease Models
-
-Using Parkinson's and Alzheimer's disease transgenic mouse models, we conduct comprehensive brain stimulation research to develop targeted therapeutic interventions for neurodegenerative conditions.
+- Basic Research on Brain Tissue and Cerebral Blood Flow Interaction
+- 40Hz gamma band auditory and visual stimulation and focused ultrasound stimulation for brain and monitoring of cerebral blood flow changes
+- Shock wave brain stimulation using CNT transducers
+- Brain stimulation research using Parkinson's and Alzheimer's disease transgenic mouse models
