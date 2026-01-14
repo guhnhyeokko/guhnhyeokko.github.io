@@ -1,9 +1,9 @@
 ---
 layout: member
-group: Alumni
-group_rank: 10
-title: Sample Alumni
-lastname: Alumni
+group: postdoc
+group_rank: 2
+title: Postdoc
+lastname: Changsoo Kim
 description: Former PhD student, now at Company Z
 
 profile:

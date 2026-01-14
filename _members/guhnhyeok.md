@@ -2,24 +2,24 @@
 layout: member
 group: PhD
 group_rank: 3
-title: GuhnHyeok ko
-lastname:
+title: GuhnHyeok Ko
+lastname: Ko
 description: Underwater Acoustics, Signal Processing
 
 profile:
-  name: GuhnHyeok ko
+  name: GuhnHyeok Ko
   position: PhD Student
-  image: guhnhyeok.jpg
+  image: rhino.png
   email: guhnhyeokko@stu.jejunu.ac.kr
   github:
-  address: >
-    Building A, Room 201
+  address:
 ---
 
 ## About
 
-This is a sample PhD student profile. Replace this content with actual information.
+PhD student specializing in underwater acoustics and signal processing.
 
-## Research Topic
+## Research Interests
 
-Description of the PhD research topic goes here.
+- Underwater Acoustics
+- Signal Processing
