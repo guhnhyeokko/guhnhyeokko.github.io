@@ -6,6 +6,6 @@ importance: 1
 projects:
   - period: 2023.12-2028.12
     title: Focused Ultrasound-stimulated Gamma Band for Alzheimer Disease Therapy and the Resulting Brain Pulsatility
-  - period: 2022-2025
-    title: Sample Project Title 2
+  - period: 20XX-20XX
+    title: Center for Precision Medicine Platform Based on Smart Hemo-Dynamic Index
 ---
