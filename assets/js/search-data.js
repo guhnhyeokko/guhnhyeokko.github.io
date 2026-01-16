@@ -35,6 +35,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "members-jiah-son",
+          title: 'Jiah Son',
+          description: "~~",
+          section: "Members",handler: () => {
+              window.location.href = "/members/Jiah-son/";
             },},{id: "members-changsoo-kim",
           title: 'Changsoo Kim',
           description: "Diagnostic and Therapeutic Ultrasound, Acoustic simulation",
@@ -65,6 +70,16 @@ ninja.data = [{
           description: "Professor of the Ocean System Engineering Department",
           section: "Members",handler: () => {
               window.location.href = "/members/prof/";
+            },},{id: "members-sanghyeok-jang",
+          title: 'Sanghyeok Jang',
+          description: "~~",
+          section: "Members",handler: () => {
+              window.location.href = "/members/sanghyeok-jang/";
+            },},{id: "members-seungju-jeong",
+          title: 'Seungju Jeong',
+          description: "~~",
+          section: "Members",handler: () => {
+              window.location.href = "/members/seungju-jeong/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
