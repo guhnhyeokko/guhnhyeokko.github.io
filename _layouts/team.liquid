@@ -9,16 +9,21 @@ layout: page
 
 <!-- Member Count Summary -->
 <p class="mb-5">
-  We have
+  {% assign total_members = 0 %}
   {% assign populated_groups = '' | split: '|' %}
+
   {% for group in groups_order %}
     {% assign members_in_group = site.members | where: 'group', group %}
     {% if members_in_group.size > 0 %}
-      {% assign group_info = group | append: '##' | append: members_in_group.size %}
-      {% assign populated_groups = populated_groups | push: group_info %}
+      {% assign total_members = total_members | plus: members_in_group.size %}
+      {% if group != 'Principal Investigator' %}
+        {% assign group_info = group | append: '##' | append: members_in_group.size %}
+        {% assign populated_groups = populated_groups | push: group_info %}
+      {% endif %}
     {% endif %}
   {% endfor %}
 
+  Our team consists of {{ total_members }} members in total, including
   {% for item in populated_groups %}
     {% assign parts = item | split: '##' %}
     {% assign g_name = parts[0] %}
