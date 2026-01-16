@@ -91,11 +91,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-diagnostic-ultrasound",
-          title: 'Diagnostic Ultrasound',
+          section: "News",},{id: "projects-biomedical-ultrasound",
+          title: 'Biomedical Ultrasound',
           description: "RBC aggregation analysis for circulatory disease diagnosis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/diagnostic_ultrasound/";
+            },},{id: "projects-therapeutic-ultrasound",
+          title: 'Therapeutic Ultrasound',
+          description: "Non-invasive precision treatments for neurological conditions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/therapeutic_ultrasound%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8/";
             },},{id: "projects-therapeutic-ultrasound",
           title: 'Therapeutic Ultrasound',
           description: "Non-invasive precision treatments for neurological conditions",
