@@ -1,3 +1,771 @@
 metadata:
-  last_updated: '2026-01-15'
+  last_updated: '2026-01-16'
 papers:
+  Z8N1TMIAAAAJ:-_dYPAW6P2MC:
+    citations: 3
+    title: 'Improving sonication efficiency in transcranial MR-guided focused ultrasound treatment: A patient-data simulation study'
+    year: '2023'
+  Z8N1TMIAAAAJ:-f6ydRqryjwC:
+    citations: 8
+    title: 'Computation of the mutual radiation impedance in the acoustic transducer array: A literature survey'
+    year: '2009'
+  Z8N1TMIAAAAJ:08ZZubdj9fEC:
+    citations: 0
+    title: "Computation of bit error rate for underwater communication with and without low\u2010salinity water in the western sea of Jeju."
+    year: '2011'
+  Z8N1TMIAAAAJ:0KyAp5RtaNEC:
+    citations: 1
+    title: Sound Absorption of the Water Column and Its Calibration for Multibeam Echosounder Backscattered Mapping in the East Sea of Korea
+    year: '2025'
+  Z8N1TMIAAAAJ:1qzjygNMrQYC:
+    citations: 0
+    title: '1437: Temperature Distributions Estimated from the Image of the Thermal Lesions Visualized in an Optically Transparent Polyacrylamide Hydro-Gel Containing a Thermo-Sensitive Agent'
+    year: '2009'
+  Z8N1TMIAAAAJ:1sJd4Hv_s6UC:
+    citations: 9
+    title: Feasibility of rotational scan ultrasound imaging by an angled high frequency transducer for the posterior segment of the eye
+    year: '2009'
+  Z8N1TMIAAAAJ:1yQoGdGgb4wC:
+    citations: 0
+    title: "Characterization of the diffusion properties of different gadolinium-based MRI contrast agents after ultrasound induced blood\u2013brain barrier permeabilization"
+    year: '2017'
+  Z8N1TMIAAAAJ:2KloaMYe4IUC:
+    citations: 0
+    title: A study on the prediction model of water column sound absorption coefficients considering the characteristics of the East Sea of South Korea
+    year: '2023'
+  Z8N1TMIAAAAJ:2P1L_qKh6hAC:
+    citations: 18
+    title: Ultrasonic backscatter from rat blood in aggregating media under in vitro rotational flow
+    year: '2009'
+  Z8N1TMIAAAAJ:2osOgNQ5qMEC:
+    citations: 53
+    title: 3D reconstruction of a carotid bifurcation from 2D transversal ultrasound images
+    year: '2014'
+  Z8N1TMIAAAAJ:35N4QoGY0k4C:
+    citations: 0
+    title: '2282: Echogenic variation from porcine blood around a severe stenosis under pulsatile flow in a mock flow loop'
+    year: '2006'
+  Z8N1TMIAAAAJ:35r97b3x0nAC:
+    citations: 0
+    title: "Correction to \u201CElectroencephalographic Response of Brain Stimulation by Shock Waves From Laser Generated Carbon Nanotube Transducer\u201D"
+    year: '2023'
+  Z8N1TMIAAAAJ:3fE2CSJIrl8C:
+    citations: 1
+    title: Erythrocyte aggregability from human, horse, and rat blood by ultrasound backscattering measurements
+    year: '2006'
+  Z8N1TMIAAAAJ:3s1wT3WcHBgC:
+    citations: 61
+    title: Changes in ultrasonic properties of liver tissue in vitro during heating-cooling cycle concomitant with thermal coagulation
+    year: '2011'
+  Z8N1TMIAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: Performance of Parametric Array Communication System in Underwater AWGN Channel
+    year: '2013'
+  Z8N1TMIAAAAJ:4JMBOYKVnBMC:
+    citations: 5
+    title: Ultrasonic characterization of thermal distribution in vicinity for a cylindrical thermal lesion in a biological tissue
+    year: '2006'
+  Z8N1TMIAAAAJ:4OULZ7Gr8RgC:
+    citations: 0
+    title: A preliminary study of ultrasound blood imaging in the common carotid artery of stroke patients
+    year: '2012'
+  Z8N1TMIAAAAJ:4TOpqqG69KYC:
+    citations: 0
+    title: Temporal variation of transmission loss by internal tide in the southern sea of Jeju island in summer
+    year: '2015'
+  Z8N1TMIAAAAJ:4fKUyHm3Qg0C:
+    citations: 0
+    title: Attenuation coefficients of human skull cadavers measured by shockwave from a CNT composite transducer and simulated by Sim4Life software
+    year: '2019'
+  Z8N1TMIAAAAJ:5Ul4iDaHHb8C:
+    citations: 0
+    title: '3511: Ultrasonic characterization on thermal lesions in a biological tissue produced by a cylindrical heat source'
+    year: '2006'
+  Z8N1TMIAAAAJ:5ugPr518TE4C:
+    citations: 9
+    title: Quantification of acoustic cavitation produced by a clinical extracorporeal shock wave therapy system using a passive cylindrical detector
+    year: '2008'
+  Z8N1TMIAAAAJ:70eg2SAEIzsC:
+    citations: 5
+    title: Feasibility Study of Ex Ovo Chick Chorioallantoic Artery Model for Investigating Pulsatile Variation of Arterial Geometry
+    year: '2015'
+  Z8N1TMIAAAAJ:738O_yMBCRsC:
+    citations: 1
+    title: Echogenicity from disturbed blood flow by an eccentric stenosis under pulsatile flow
+    year: '2004'
+  Z8N1TMIAAAAJ:7PzlFSSx8tAC:
+    citations: 52
+    title: Improvement of ultrasound speckle image velocimetry using image enhancement techniques
+    year: '2014'
+  Z8N1TMIAAAAJ:7T2F9Uy0os0C:
+    citations: 1
+    title: "Reply to Marino et al. Choroidal Thickness Measurements in the Case of Diabetic Macular Edema. Comment on \u201CAmjad et al. Choroidal Thickness in Different Patterns of Diabetic \u2026"
+    year: '2023'
+  Z8N1TMIAAAAJ:8AbLer7MMksC:
+    citations: 2
+    title: Characteristics of Backscattering of Harmful Algae Using Underwater Ultrasound
+    year: '2005'
+  Z8N1TMIAAAAJ:8k81kl-MbHgC:
+    citations: 4
+    title: Ultrasonic Doppler measurements of blood flow velocity of rabbit retinal vessels using a 45-MHz needle transducer
+    year: '2010'
+  Z8N1TMIAAAAJ:9Nmd_mFXekcC:
+    citations: 6
+    title: "Effects of Mucuna pruriens (L.) DC. and Levodopa in Improving Parkinson\u2019s Disease in Rotenone Intoxicated Mice"
+    year: '2024'
+  Z8N1TMIAAAAJ:9ZlFYXVOiuMC:
+    citations: 1
+    title: Three-dimensional pulsation of rat carotid artery bifurcation observed using a high-resolution ultrasound imaging system
+    year: '2015'
+  Z8N1TMIAAAAJ:9vf0nzSNQJEC:
+    citations: 3
+    title: '5th International Symposium on Focused Ultrasound: North Bethesda, MD, USA. 28 August-1 September 2016'
+    year: '2016'
+  Z8N1TMIAAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: Cyclic and radial variation of the echogenicity from human carotid artery and porcine blood
+    year: '2002'
+  Z8N1TMIAAAAJ:AXPGKjj_ei8C:
+    citations: 0
+    title: SECTION 15-BIO & MEDICAL NDE-An Automated Measurement System of Ultrasonic Properties of Tofu and Acorn Curd (Dotori Muk)
+    year: '2006'
+  Z8N1TMIAAAAJ:B3FOqHPlNUQC:
+    citations: 0
+    title: ECHO-PIV MEASUREMENTS OF BLOOD FLOW BY TRACING RBC AGGREGATES
+    year: Unknown Year
+  Z8N1TMIAAAAJ:BqipwSGYUEgC:
+    citations: 34
+    title: Reusable ultrasonic tissue mimicking hydrogels containing nonionic surface-active agents for visualizing thermal lesions
+    year: '2009'
+  Z8N1TMIAAAAJ:CHSYGLWDkRkC:
+    citations: 0
+    title: Correlation between the pulse wave and the blood echogenicity in the radial artery.
+    year: '2011'
+  Z8N1TMIAAAAJ:D03iK_w7-QYC:
+    citations: 28
+    title: Effects of red blood cell aggregates dissociation on the estimation of ultrasound speckle image velocimetry
+    year: '2014'
+  Z8N1TMIAAAAJ:D_sINldO8mEC:
+    citations: 118
+    title: Temperature-dependent thermal properties of ex vivo liver undergoing thermal ablation
+    year: '2013'
+  Z8N1TMIAAAAJ:EUQCXRtRnyEC:
+    citations: 1
+    title: The computer simulation of microscopic interactions of RBC aggregation based on the depletion model under pulsatile flow
+    year: '2013'
+  Z8N1TMIAAAAJ:EkHepimYqZsC:
+    citations: 2
+    title: Monitoring of wild and rehabilitating dolphin interactions during rehabilitation period using surveillance technologies
+    year: '2025'
+  Z8N1TMIAAAAJ:Fu2w8maKXqMC:
+    citations: 0
+    title: Method for automatic setting of sound signal in an apparatus for space monitoring by using sound signal
+    year: '2023'
+  Z8N1TMIAAAAJ:GnPB-g6toBAC:
+    citations: 11
+    title: Feasibility study of high-frequency ultrasonic blood imaging in human radial artery
+    year: '2015'
+  Z8N1TMIAAAAJ:HDshCWvjkbEC:
+    citations: 7
+    title: Mobility of Amphidinium carterae Hulburt measured by high-frequency ultrasound
+    year: '2017'
+  Z8N1TMIAAAAJ:HE397vMXCloC:
+    citations: 4
+    title: Characterization of the harmonic generation from cavitating bubbles interacted with a diagnostic ultrasound in the focal region of high intensity focused ultrasound
+    year: '2006'
+  Z8N1TMIAAAAJ:HoB7MX3m0LUC:
+    citations: 16
+    title: 'Extracorporeal shock wave therapy: Its acoustical aspects'
+    year: '2010'
+  Z8N1TMIAAAAJ:IWHjjKOFINEC:
+    citations: 3
+    title: The spatio-temporal variation of rat carotid artery bifurcation by ultrasound imaging
+    year: '2014'
+  Z8N1TMIAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Simulation of Temporal Variation of Acoustic Transmission Loss by Internal Tide in the Southern Sea of Jeju Island in Summer
+    year: '2015'
+  Z8N1TMIAAAAJ:J-pR_7NvFogC:
+    citations: 13
+    title: Low-salinity-induced surface sound channel in the western sea of Jeju Island during summer
+    year: '2015'
+  Z8N1TMIAAAAJ:JV2RwH3_ST0C:
+    citations: 2
+    title: 'An electromagnetic shock wave generator employing a solenoid coil for extracorporeal shock wave therapy: Construction and acoustical properties'
+    year: '2005'
+  Z8N1TMIAAAAJ:J_g5lzvAfSwC:
+    citations: 0
+    title: Measurements of diel variation of acoustic backscatter power from phytoplankton
+    year: '2013'
+  Z8N1TMIAAAAJ:JoZmwDi-zQgC:
+    citations: 215
+    title: A systemic review of available low-cost EEG headsets used for drowsiness detection
+    year: '2020'
+  Z8N1TMIAAAAJ:K3LRdlH-MEoC:
+    citations: 1
+    title: Waveform characteristics of ultrasonic wave generated from CNT/PDMS composite
+    year: '2019'
+  Z8N1TMIAAAAJ:KlAtU1dfN6UC:
+    citations: 4
+    title: Classification of Transient Signals in Ocean Background Noise Using Bayesian Classifier
+    year: '2012'
+  Z8N1TMIAAAAJ:KxtntwgDAa4C:
+    citations: 6
+    title: Communication performance analysis according to seasons in West Sea
+    year: '2011'
+  Z8N1TMIAAAAJ:L8Ckcad2t8MC:
+    citations: 1
+    title: "\uC120\uCCB4\uD1B5\uC2E0\uC744 \uC704\uD55C \uC0C8\uB85C\uC6B4 AFSK \uD1B5\uC2E0\uBC29\uC2DD \uC81C\uC548"
+    year: '2013'
+  Z8N1TMIAAAAJ:LPZeul_q3PIC:
+    citations: 0
+    title: A study of blood disturbance by an eccentric stenosis under pulsatile flow using ultrasound imaging
+    year: '2004'
+  Z8N1TMIAAAAJ:LkGwnXOMwfcC:
+    citations: 28
+    title: "The \u201Cblack hole\u201D phenomenon in ultrasonic backscattering measurement under pulsatile flow with porcine whole blood in a rigid tube"
+    year: '2001'
+  Z8N1TMIAAAAJ:M05iB0D1s5AC:
+    citations: 22
+    title: 'Ultrasound: An unexplored tool for blood flow visualization and hemodynamic measurements'
+    year: '2003'
+  Z8N1TMIAAAAJ:M3NEmzRMIkIC:
+    citations: 28
+    title: Ultrasound backscattered power from Cochlodinium polykrikoides, the main red tide species in the Southern Sea of Korea
+    year: '2010'
+  Z8N1TMIAAAAJ:M3ejUd6NZC8C:
+    citations: 28
+    title: 'Ultrasonic observation of blood disturbance in a stenosed tube: Effects of flow acceleration and turbulence downstream'
+    year: '2008'
+  Z8N1TMIAAAAJ:MXK_kJrjxJIC:
+    citations: 1
+    title: IMPLEMENTATION OF CORONARY ARTERY PHANTOM WITH ARTIFICIAL HYPEREMIA AND ANALYSIS OF PRESSURE AND FLOW VELOCITY DEPENDING ON THE DEGREE OF STENOSIS
+    year: '2019'
+  Z8N1TMIAAAAJ:Mojj43d5GZwC:
+    citations: 0
+    title: Acoustic Surface Channel formed by Low-Salinity Water in the Yellow Sea
+    year: Unknown Year
+  Z8N1TMIAAAAJ:N5tVd3kTz84C:
+    citations: 12
+    title: Production enhancement of human adipose-derived mesenchymal stem cells by low-intensity ultrasound stimulation
+    year: '2022'
+  Z8N1TMIAAAAJ:NJ774b8OgUMC:
+    citations: 2
+    title: The survival of a flukeless juvenile dolphin (Tursiops aduncus) in the wild
+    year: '2022'
+  Z8N1TMIAAAAJ:NMxIlDl6LWMC:
+    citations: 0
+    title: 2P1-3 Waveform Characteristics of the Shockwaves from the CNT/PDMS Optoacoustic Transducer
+    year: '2018'
+  Z8N1TMIAAAAJ:NaGl4SEjCO4C:
+    citations: 0
+    title: Digital acoustic communication for ship body area network (SBAN)
+    year: '2012'
+  Z8N1TMIAAAAJ:O3NaXMp0MMsC:
+    citations: 0
+    title: 1P5-1 Transmission of shock waves by a focused carbon nano tube coated transducer through human skull cadaver
+    year: '2017'
+  Z8N1TMIAAAAJ:OU6Ihb5iCvQC:
+    citations: 0
+    title: A novel scan method using angled high frequency single element needle transducers
+    year: '2008'
+  Z8N1TMIAAAAJ:P5F9QuxV20EC:
+    citations: 2
+    title: Fabrication of a 40 MHz single element ultrasonic transducer using a PMN-PT single crystal
+    year: '2006'
+  Z8N1TMIAAAAJ:PR6Y55bgFSsC:
+    citations: 28
+    title: Semantic segmentation-based whistle extraction of Indo-Pacific Bottlenose Dolphin residing at the coast of Jeju island
+    year: '2022'
+  Z8N1TMIAAAAJ:QIV2ME_5wuYC:
+    citations: 3
+    title: Asymmetric pulsation of rat carotid artery bifurcation in three-dimension observed by ultrasound imaging
+    year: '2016'
+  Z8N1TMIAAAAJ:R3hNpaxXUhUC:
+    citations: 0
+    title: 3P5-5 Ultrasonic observation of 3 dimensional arterial bifurcation geometry using a chick chorioallantoic membrane model
+    year: '2015'
+  Z8N1TMIAAAAJ:RGFaLdJalmkC:
+    citations: 7
+    title: Depletion-model-based numerical simulation of the kinetics of red blood cell aggregation under sinusoidal pulsatile flow
+    year: '2018'
+  Z8N1TMIAAAAJ:RHpTSmoSYBkC:
+    citations: 1
+    title: Probability distribution variation in high-frequency ultrasound blood echogenicity under in-vitro and in-vivo blood flow
+    year: '2013'
+  Z8N1TMIAAAAJ:RYcK_YlVTxYC:
+    citations: 0
+    title: Mobility of dinoflagellates measured by high-frequency ultrasound
+    year: '2015'
+  Z8N1TMIAAAAJ:SP6oXDckpogC:
+    citations: 0
+    title: Potential for the Diagnosis of Micro Bone Fractures Using an Ultrasonic C-Scan Technique
+    year: '2004'
+  Z8N1TMIAAAAJ:SdhP9T11ey4C:
+    citations: 2
+    title: In Situ Measurement of Sound Attenuation by Fish Schools (Japanese Horse Mackerel, Trachurus japonicus) at Mid-Frequency Bands
+    year: '2021'
+  Z8N1TMIAAAAJ:TFP_iSt0sucC:
+    citations: 1
+    title: Determination of thermal dose threshold for brain tissue lesioning via transcranial MR-guided focused ultrasound in a porcine model
+    year: '2018'
+  Z8N1TMIAAAAJ:TQgYirikUcIC:
+    citations: 38
+    title: "Echogenicity variations from porcine blood II: the \u201Cbright ring\u201D under oscillatory flow"
+    year: '2004'
+  Z8N1TMIAAAAJ:Tiz5es2fbqcC:
+    citations: 0
+    title: Seafloor Sediment Classification Using Nakagami Probability Density Function of Acoustic Backscattered Signals
+    year: '2009'
+  Z8N1TMIAAAAJ:Tyk-4Ss8FVUC:
+    citations: 11
+    title: Attenuation of the human skull at broadband frequencies by using a carbon nanotube composite photoacoustic transducer
+    year: '2020'
+  Z8N1TMIAAAAJ:UHK10RUVsp4C:
+    citations: 3
+    title: Shock wave characterization using different diameters of an optoacoustic carbon nanotube composite transducer
+    year: '2022'
+  Z8N1TMIAAAAJ:ULOm3_A8WrAC:
+    citations: 6
+    title: A pilot study of blood echogenicity from the radial artery and the carotid artery of stroke patients
+    year: '2012'
+  Z8N1TMIAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: Radial distribution of the Doppler power from porcine blood over a pulsatile flow cycle
+    year: '2001'
+  Z8N1TMIAAAAJ:UebtZRa9Y70C:
+    citations: 2
+    title: Calculation of the Mutual Radiation Impedance by the Spatial Convolution in the Cylindrical Structure
+    year: '2010'
+  Z8N1TMIAAAAJ:UxriW0iASnsC:
+    citations: 5
+    title: Analysis of haline channel formed in the East China Sea and the Atlantic Ocean using the TS gradient diagram
+    year: '2014'
+  Z8N1TMIAAAAJ:V3AGJWp-ZtQC:
+    citations: 6
+    title: High spatial and temporal resolution observations of pulsatile changes in blood echogenicity in the common carotid artery of rats
+    year: '2013'
+  Z8N1TMIAAAAJ:VL0QpB8kHFEC:
+    citations: 13
+    title: Numerical simulation of spatiotemporal red blood cell aggregation under sinusoidal pulsatile flow
+    year: '2021'
+  Z8N1TMIAAAAJ:VLnqNzywnoUC:
+    citations: 0
+    title: Method for providing information necessary for evaluating severity of coronary artery stenosis
+    year: '2024'
+  Z8N1TMIAAAAJ:VOx2b1Wkg3QC:
+    citations: 2
+    title: Harmonic generation emitted from ultrasonic contrast agent in response to a typical diagnostic ultrasound
+    year: '2004'
+  Z8N1TMIAAAAJ:W5xh706n7nkC:
+    citations: 0
+    title: Apparatus for monitoring a space by using acoustic web
+    year: '2023'
+  Z8N1TMIAAAAJ:W7OEmFMy1HYC:
+    citations: 4
+    title: Measurement of acoustic properties of tofu and acorn curd as potential tissue-mimicking materials
+    year: '2005'
+  Z8N1TMIAAAAJ:WA5NYHcadZ8C:
+    citations: 6
+    title: An optically transparent tissue mimicking phantom for monitoring the thermal lesion produced by high intensity focused ultrasound
+    year: '2012'
+  Z8N1TMIAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: "\uC120\uCCB4\uD1B5\uC2E0 \uAE30\uBC18 \uBC00\uD3D0\uAD6C\uC5ED \uD658\uACBD \uBAA8\uB2C8\uD130\uB9C1 \uC2DC\uC2A4\uD15C"
+    year: '2013'
+  Z8N1TMIAAAAJ:WbkHhVStYXYC:
+    citations: 2
+    title: Survey of seafloor at Chagwi-do of Jeju Island to select 60-m-class sea test bed of wave energy converter
+    year: '2017'
+  Z8N1TMIAAAAJ:Wp0gIr-vW9MC:
+    citations: 6
+    title: Digital beamsteering system using acoustic transducer array.
+    year: '2011'
+  Z8N1TMIAAAAJ:XD-gHx7UXLsC:
+    citations: 0
+    title: CONTRAST INTENSITY ANALYSIS DEPENDING ON THE DEGREE OF STENOSIS IN A CORONARY ARTERY PHANTOM
+    year: '2022'
+  Z8N1TMIAAAAJ:XiSMed-E-HIC:
+    citations: 0
+    title: '3501: Survey on performance of ultrasonic probes used in clinics in Cheju province, Republic of Korea: Preliminary report'
+    year: '2006'
+  Z8N1TMIAAAAJ:XiVPGOgt02cC:
+    citations: 1
+    title: Numerical simulation of red blood cell aggregation under pulsatile flow with depletion model
+    year: '2011'
+  Z8N1TMIAAAAJ:Y0pCki6q_DkC:
+    citations: 1
+    title: An automated measurement system of ultrasonic properties of Tofu and Acorn Curd (Dotori Muk)
+    year: '2006'
+  Z8N1TMIAAAAJ:Y5dfb0dijaUC:
+    citations: 26
+    title: Cyclic and radial variation of the Doppler power from porcine whole blood
+    year: '2003'
+  Z8N1TMIAAAAJ:YFjsv_pBGBYC:
+    citations: 19
+    title: Three-dimensional reconstruction of the" bright ring" echogenicity from porcine blood upstream in a stenosed tube
+    year: '2009'
+  Z8N1TMIAAAAJ:YOwf2qJgpHMC:
+    citations: 5
+    title: 'Magnitudes of the Harmonic Components Emitted from Utrasonic Contrast Agents in Response to a Diagnostic Utrasound: Theoretical Consideration'
+    year: '2005'
+  Z8N1TMIAAAAJ:YsMSGLbcyi4C:
+    citations: 12
+    title: 'Acoustic streaming in lithotripsy fields: preliminary observation using a particle image velocimetry method'
+    year: '2006'
+  Z8N1TMIAAAAJ:ZHo1McVdvXMC:
+    citations: 2
+    title: Cyclic and radial variation of ultrasonic backscatter from flowing porcine blood
+    year: '2002'
+  Z8N1TMIAAAAJ:ZeXyd9-uunAC:
+    citations: 0
+    title: Estimation of Phase Variance of Acoustic Signals Depending on Turbulence Strength Near the Mukho Port in the East Sea of Korea
+    year: '2009'
+  Z8N1TMIAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: Communication performance analysis according to seasons in Yellow Sea.
+    year: '2011'
+  Z8N1TMIAAAAJ:ZuybSZzF8UAC:
+    citations: 0
+    title: "Digital reconstruction of Bernhard Heine\u2019s Osteotome"
+    year: Unknown Year
+  Z8N1TMIAAAAJ:_B80troHkn4C:
+    citations: 1
+    title: Performance of Underwater Communication in Low Salinity Layer at the Western Sea of Jeju
+    year: '2011'
+  Z8N1TMIAAAAJ:_FxGoFyzp5QC:
+    citations: 4
+    title: Extraction of an Underwater Transient Signal Using Sound Mask-filter
+    year: '2012'
+  Z8N1TMIAAAAJ:_Qo2XoVZTnwC:
+    citations: 10
+    title: Ultrasonic visualization of dynamic behavior of red blood cells in flowing blood
+    year: '2009'
+  Z8N1TMIAAAAJ:_Ybze24A_UAC:
+    citations: 6
+    title: Electroencephalographic response of brain stimulation by shock waves from laser generated carbon nanotube transducer
+    year: '2022'
+  Z8N1TMIAAAAJ:_kc_bZDykSQC:
+    citations: 7
+    title: Surveillance-Alert System based on USN using PDR sensors
+    year: '2011'
+  Z8N1TMIAAAAJ:_xSYboBqXhAC:
+    citations: 3
+    title: Parametric array signal generating system using transducer array
+    year: '2013'
+  Z8N1TMIAAAAJ:a0OBvERweLwC:
+    citations: 46
+    title: Cyclic and radial variation of the echogenicity of blood in human carotid arteries observed by harmonic imaging
+    year: '2010'
+  Z8N1TMIAAAAJ:aqlVkmm33-oC:
+    citations: 15
+    title: Parametric Array Sonar System Based on Maximum Likelihood Detection
+    year: '2011'
+  Z8N1TMIAAAAJ:b0M2c_1WBrUC:
+    citations: 4
+    title: Digital communication system using beamsteering for difference frequency in a parametric array
+    year: '2012'
+  Z8N1TMIAAAAJ:bEWYMUwI8FkC:
+    citations: 4
+    title: Ultrasound backscattering from erythrocyte aggregation of human, horse and rat blood under rotational flow in a cylindrical chamber
+    year: '2006'
+  Z8N1TMIAAAAJ:bFI3QPDXJZMC:
+    citations: 9
+    title: Analysis of surface sound channel by low salinity water and its mid-frequency acoustic characteristics in the East China Sea and the Gulf of Guinea
+    year: '2015'
+  Z8N1TMIAAAAJ:blknAaTinKkC:
+    citations: 0
+    title: "Variation of the \u2018\u2018Black Hole\u2019\u2019phenomenon with speed and stroke rate"
+    year: '2002'
+  Z8N1TMIAAAAJ:bnK-pcrLprsC:
+    citations: 0
+    title: "Acoustic measurements of volume backscattering strength from red tide phytoplankton, Cochlodinium\u2008polykrikoides"
+    year: '2006'
+  Z8N1TMIAAAAJ:dTyEYWd-f8wC:
+    citations: 142
+    title: A tissue mimicking polyacrylamide hydrogel phantom for visualizing thermal lesions generated by high intensity focused ultrasound
+    year: '2013'
+  Z8N1TMIAAAAJ:dfsIfKJdRG4C:
+    citations: 5
+    title: In vivo observation of blood echogenicity variation during a cardiac cycle on human carotid arteries
+    year: '2003'
+  Z8N1TMIAAAAJ:dhFuZR0502QC:
+    citations: 3
+    title: "The temperature dependent thermal properties of ex vivo porcine liver tissue heated from 20\xB0 C to 90\xB0 C"
+    year: '2012'
+  Z8N1TMIAAAAJ:dshw04ExmUIC:
+    citations: 0
+    title: Pulsatile changes of blood echogenicity in rat arteries using a high-frequency ultrasound system
+    year: '2012'
+  Z8N1TMIAAAAJ:e5wmG9Sq2KIC:
+    citations: 0
+    title: The smoking acute effect on the cyclic variation in blood echogenicity from the common carotid artery
+    year: '2010'
+  Z8N1TMIAAAAJ:eJXPG6dFmWUC:
+    citations: 13
+    title: "Optimizing computer\u2013brain Interface parameters for non-invasive brain-to-brain Interface"
+    year: '2020'
+  Z8N1TMIAAAAJ:eMMeJKvmdy0C:
+    citations: 0
+    title: 3P5-9 Asymmetric Three-dimensional Pulsation of Rat Carotid Artery Bifurcation Observed Using a High-resolution Ultrasound Imaging
+    year: '2015'
+  Z8N1TMIAAAAJ:eQOLeE2rZwMC:
+    citations: 1
+    title: A simulation model of cyclic variation of red blood cell aggregation under Couette and Poiseuille flows
+    year: '2013'
+  Z8N1TMIAAAAJ:eflP2zaiRacC:
+    citations: 3
+    title: Ultrasonic backscatter response to blood flow disturbance by a severe eccentric stenosis
+    year: '2004'
+  Z8N1TMIAAAAJ:epqYDVWIO7EC:
+    citations: 0
+    title: Principles of Doppler ultrasound and emerging blood flow imaging
+    year: '2025'
+  Z8N1TMIAAAAJ:eq2jaN3J8jMC:
+    citations: 4
+    title: High frequency ultrasound and its applications to animal and human imaging focusing on vessel and blood
+    year: '2010'
+  Z8N1TMIAAAAJ:evX43VCCuoAC:
+    citations: 0
+    title: Acoustical and visual monitoring of the discharge process of the last captive Indo-Pacific Bottlenose Dolphin in South Korea
+    year: '2023'
+  Z8N1TMIAAAAJ:f2IySw72cVMC:
+    citations: 13
+    title: In vivo sonothrombolysis of ear marginal vein of rabbits monitored with high-frequency ultrasound needle transducer
+    year: '2013'
+  Z8N1TMIAAAAJ:fEOibwPWpKIC:
+    citations: 5
+    title: "\uCD5C\uB300\uC6B0\uB3C4 \uAC80\uD30C\uC5D0 \uAE30\uBC18\uD55C \uD30C\uB77C\uBA54\uD2B8\uB9AD \uC5B4\uB808\uC774 \uC18C\uB098 \uC2DC\uC2A4\uD15C"
+    year: '2011'
+  Z8N1TMIAAAAJ:fPk4N6BV_jEC:
+    citations: 0
+    title: "60m \uAE09 \uD30C\uB825\uBC1C\uC804 \uC2E4\uD574\uC5ED \uC2DC\uD5D8\uC7A5 \uC120\uC815\uC744 \uC704\uD55C \uC81C\uC8FC\uB3C4 \uCC28\uADC0\uB3C4 \uD574\uC5ED\uC758 \uD574\uC800 \uC9C0\uCE35 \uD0D0\uC0AC"
+    year: '2017'
+  Z8N1TMIAAAAJ:fQNAKQ3IYiAC:
+    citations: 0
+    title: Cyclic variation of three-dimensional geometry of the rat carotid artery bifurcation assessed by high-frequency ultrasound imaging
+    year: '2013'
+  Z8N1TMIAAAAJ:g5m5HwL7SMYC:
+    citations: 24
+    title: An open-source phase correction toolkit for transcranial focused ultrasound
+    year: '2020'
+  Z8N1TMIAAAAJ:geHnlv5EZngC:
+    citations: 0
+    title: 1P5-12
+    year: '2014'
+  Z8N1TMIAAAAJ:hC7cP41nSMkC:
+    citations: 48
+    title: Doppler power variation from porcine blood under steady and pulsatile flow
+    year: '2001'
+  Z8N1TMIAAAAJ:hFOr9nPyWt4C:
+    citations: 2
+    title: Evaluation of synthetic setae pads for dry attachment of an ultrasound transducer
+    year: '2019'
+  Z8N1TMIAAAAJ:hkOj_22Ku90C:
+    citations: 6
+    title: Circadian and Tidal Changes in Snapping Shrimp (Alpheus brevicristatus) Sound Observed by a Moored Hydrophone in the Coastal Sea of Western Jeju
+    year: '2022'
+  Z8N1TMIAAAAJ:hqOjcs7Dif8C:
+    citations: 4
+    title: 'International Society for Therapeutic Ultrasound Conference 2016: Tel Aviv, Israel. 14-18 March, 2016'
+    year: '2017'
+  Z8N1TMIAAAAJ:iH-uZ7U-co4C:
+    citations: 15
+    title: Acoustic channel formation and sound speed variation by low-salinity water in the western sea of Jeju during summer
+    year: '2013'
+  Z8N1TMIAAAAJ:isC4tDSrTZIC:
+    citations: 1
+    title: Time-synchronized measurement and cyclic analysis of ultrasound imaging from blood with blood pressure in the mock pulsatile blood circulation system
+    year: '2017'
+  Z8N1TMIAAAAJ:j3f4tGmQtD8C:
+    citations: 0
+    title: SVM based Classification for Underwater Transient Signals in Ocean Background Noise
+    year: '2012'
+  Z8N1TMIAAAAJ:j8SEvjWlNXcC:
+    citations: 0
+    title: "\uACE0\uC8FC\uD30C \uCD08\uC74C\uD30C\uC758 \uADF8 \uC751\uC6A9: \uD608\uAD00\uACFC \uD608\uC561\uC744 \uC911\uC2EC\uC73C\uB85C\uD55C \uB3D9\uBB3C\uACFC \uC778\uCCB4 \uC601\uC0C1"
+    year: '2010'
+  Z8N1TMIAAAAJ:kRWSkSYxWN8C:
+    citations: 2
+    title: Influence of cell packing by centrifugation on 40-MHz ultrasound backscatter
+    year: '2011'
+  Z8N1TMIAAAAJ:kzcrU_BdoSEC:
+    citations: 7
+    title: 'Axial shear rate: A hemorheological factor for erythrocyte aggregation under Womersley flow in an elastic vessel based on numerical simulation'
+    year: '2023'
+  Z8N1TMIAAAAJ:lSLTfruPkqcC:
+    citations: 27
+    title: Asymmetric radial expansion and contraction of rat carotid artery observed using a high-resolution ultrasound imaging system
+    year: '2014'
+  Z8N1TMIAAAAJ:ldfaerwXgEUC:
+    citations: 0
+    title: Quantification of acoustic cavitation produced by a clinical extracorporeal shock wave therapy system using a passive cylindrical detector.
+    year: '2008'
+  Z8N1TMIAAAAJ:mVmsd5A6BfQC:
+    citations: 1
+    title: Observation of blood echogenicity variation in rat arteries using high-frequency ultrasound
+    year: '2012'
+  Z8N1TMIAAAAJ:maZDTaKrznsC:
+    citations: 0
+    title: The Reasons Why Fractional Flow Reserve and Instance Wave-Free Ratio are Similar Using Wave Separation Analysis
+    year: '2020'
+  Z8N1TMIAAAAJ:mvPsJ3kp5DgC:
+    citations: 1
+    title: "In Vivo Observation of the Hypo-echoic \u201CBlack Hole\u201D Phenomenon in Rat Arterial Bloodstream: A Preliminary Study"
+    year: '2014'
+  Z8N1TMIAAAAJ:nb7KW1ujOQ8C:
+    citations: 3
+    title: Feature extraction algorithm for underwater transient signal using cepstral coefficients based on wavelet packet
+    year: '2014'
+  Z8N1TMIAAAAJ:nrtMV_XWKgEC:
+    citations: 0
+    title: Aortic integral distensibility based on the auto-segmented dynamic motion of the aortic wall
+    year: '2024'
+  Z8N1TMIAAAAJ:ns9cj8rnVeAC:
+    citations: 4
+    title: "Spontaneous echo\u2010contrast in the internal jugular veins of patients with ischemic stroke"
+    year: '2015'
+  Z8N1TMIAAAAJ:p2g8aNsByqUC:
+    citations: 0
+    title: Classification of Transient Sonar Signals Using Support Vector Machine
+    year: Unknown Year
+  Z8N1TMIAAAAJ:pqnbT2bcN3wC:
+    citations: 13
+    title: Diel variation in high-frequency acoustic backscatter from Cochlodinium polykrikoides
+    year: '2013'
+  Z8N1TMIAAAAJ:pyW8ca7W8N0C:
+    citations: 3
+    title: "Implementation of a Rotational Ultrasound Biomicroscopy System Equipped with a High-Frequency Angled Needle Transducer \u2014 Ex Vivo Ultrasound Imaging of \u2026"
+    year: '2014'
+  Z8N1TMIAAAAJ:q3oQSFYPqjQC:
+    citations: 2
+    title: Physics of Harmonic Imaging
+    year: '2012'
+  Z8N1TMIAAAAJ:qUcmZB5y_30C:
+    citations: 0
+    title: "\uC120\uCCB4\uD1B5\uC2E0\uB9DD (SBAN)"
+    year: '2013'
+  Z8N1TMIAAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: Cyclic variation of the Doppler power from porcine blood under pulsatile flow in tubes of varying compliance
+    year: '2000'
+  Z8N1TMIAAAAJ:qxL8FJ1GzNcC:
+    citations: 18
+    title: The acute effects of smoking on the cyclic variations in blood echogenicity of carotid artery
+    year: '2011'
+  Z8N1TMIAAAAJ:r0BpntZqJG4C:
+    citations: 9
+    title: Visualization of acoustic streaming produced by lithotripsy field using a PIV method
+    year: '2004'
+  Z8N1TMIAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Ultrasonic evaluation of blood coagulation from stroke patients
+    year: '2006'
+  Z8N1TMIAAAAJ:sSrBHYA8nusC:
+    citations: 2
+    title: The reasons why fractional flow reserve and instantaneous wave-free ratio are similar using wave separation analysis
+    year: '2021'
+  Z8N1TMIAAAAJ:t7zJ5fGR-2UC:
+    citations: 0
+    title: 'A Novel Method for Angiographic Contrast-Based Diagnosis of Stenosis in Coronary Artery Disease: In Vivo and In Vitro Analyses'
+    year: '2024'
+  Z8N1TMIAAAAJ:tKAzc9rXhukC:
+    citations: 0
+    title: Acoustic propagation in surface channel formed by low salinity water in the East China Sea and the tropical Atlantic Ocean
+    year: '2014'
+  Z8N1TMIAAAAJ:tOudhMTPpwUC:
+    citations: 4
+    title: A functional analysis of two 3D-scanned antique pistols from New Zealand
+    year: '2020'
+  Z8N1TMIAAAAJ:tS2w5q8j5-wC:
+    citations: 13
+    title: Influences of the sea surface wind on current and thermal structures in the southwestern part of the east sea of Korea
+    year: '1992'
+  Z8N1TMIAAAAJ:tkaPQYYpVKoC:
+    citations: 0
+    title: "SECTION 15-BIO & MEDICAL NDE-Characterization of the Harmonic Generation from Cavitating Bubbles Interacted with a Diagnostic Ultrasound in the Focal Region of High Intensity \u2026"
+    year: '2006'
+  Z8N1TMIAAAAJ:tzM49s52ZIMC:
+    citations: 7
+    title: Acute neuro-biochemical changes induced by nitrogen-tungsten co-doped titanium dioxide nanoparticles
+    year: '2023'
+  Z8N1TMIAAAAJ:u-x6o8ySG0sC:
+    citations: 5
+    title: Implementing short baseline acoustic positioning system for small-sized remotely operated vehicle
+    year: '2012'
+  Z8N1TMIAAAAJ:u5HHmVD_uO8C:
+    citations: 1
+    title: 'Pulsatility Index of Blood Echogenicity of the Human Radial and Common Carotid Arteries: Relation with Age and Stroke'
+    year: '2012'
+  Z8N1TMIAAAAJ:u9iWguZQMMsC:
+    citations: 0
+    title: '3500: Low contrast sensitivity of B-mode images against ultrasonic probe defects'
+    year: '2006'
+  Z8N1TMIAAAAJ:uJ-U7cs_P_0C:
+    citations: 0
+    title: 'Correction: Acute neuro-biochemical changes induced by nitrogen-tungsten co-doped titanium dioxide nanoparticles'
+    year: '2024'
+  Z8N1TMIAAAAJ:uLbwQdceFCQC:
+    citations: 11
+    title: Choroidal thickness in different patterns of diabetic macular edema
+    year: '2022'
+  Z8N1TMIAAAAJ:uWQEDVKXjbEC:
+    citations: 8
+    title: Thickness effects of the metallic and the insulating membranes of a cylindrical electromagnetic shock wave transducer
+    year: '2011'
+  Z8N1TMIAAAAJ:u_35RYKgDlwC:
+    citations: 7
+    title: Investigation of blood under pulsatile flow using ultrasound imaging
+    year: '2004'
+  Z8N1TMIAAAAJ:uc_IGeMz5qoC:
+    citations: 0
+    title: Acute neuro-biochemical changes induced by nitrogen-tungsten co-doped titanium dioxide nanoparticles (vol 66, 83, 2023)
+    year: '2024'
+  Z8N1TMIAAAAJ:ufrVoPGSRksC:
+    citations: 50
+    title: "Echogenicity variations from porcine blood I: the \u201Cbright collapsing ring\u201D under pulsatile flow"
+    year: '2004'
+  Z8N1TMIAAAAJ:vDijr-p_gm4C:
+    citations: 0
+    title: Acoustic characteristics of Indo-Pacific bottlenose dolphin (Tursiops aduncus) whistle repertoire in Jeju Island
+    year: '2025'
+  Z8N1TMIAAAAJ:vRqMK49ujn8C:
+    citations: 0
+    title: Ultrasonic Doppler measurements of blood flow velocity of rabbit retinal vessels with high-frequency angled needle transducer
+    year: '2008'
+  Z8N1TMIAAAAJ:vV6vV6tmYwMC:
+    citations: 1
+    title: Implementation of an ultrasound biomicroscopy system by rotational scanning of a high-frequency angled needle transducer
+    year: '2011'
+  Z8N1TMIAAAAJ:wbdj-CoPYUoC:
+    citations: 0
+    title: "Cai, B., see Yang, B. 238 Carroll, AJ, see Zeqiri, B. 73 Castagnede, B., Saeid, M., Moussatov, A., Gusev, V. and Tournat, V. Reflection and transmission at normal incidence \u2026"
+    year: '2006'
+  Z8N1TMIAAAAJ:xtRiw3GOFMkC:
+    citations: 0
+    title: Smoking effects on cyclic variation of harmonic echogenicity in carotid artery.
+    year: '2011'
+  Z8N1TMIAAAAJ:yB1At4FlUx8C:
+    citations: 1
+    title: Bottlenose dolphin identification using synthetic image-based transfer learning
+    year: '2024'
+  Z8N1TMIAAAAJ:yD5IFk8b50cC:
+    citations: 0
+    title: Effects of Settings in Dynamic Ranges and Frequency Modes on Ultrasonic Images
+    year: '2009'
+  Z8N1TMIAAAAJ:zA6iFVUQeVQC:
+    citations: 3
+    title: Moored measurement of the ambient noise and analysis with environmental factors in the coastal sea of Jeju Island
+    year: '2020'
+  Z8N1TMIAAAAJ:zLWjf1WUPmwC:
+    citations: 0
+    title: 'Spatiotemporal blood viscosity by local hematocrit under pulsatile flow: Whole blood experiments and computational analysis'
+    year: '2025'
+  Z8N1TMIAAAAJ:zYLM7Y9cAGgC:
+    citations: 3
+    title: Effects of ultrasonic scanner setting parameters on the quality of ultrasonic images
+    year: '2008'
+  Z8N1TMIAAAAJ:z_wVstp3MssC:
+    citations: 0
+    title: "CHANGES IN ULTRASONIC PROPERTIES OF LIVER TISSUE IN VITRO DURING HEATING-COOLING CYCLE CONCOMITANT WITH THERMAL COAGULATION MIN JOO CHOI,* zk SITARAMANJANEYA REDDY GUNTUR,* JOO \u2026"
+    year: '2011'
