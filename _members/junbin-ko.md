@@ -4,12 +4,12 @@ group: PhD
 group_rank: 3
 title: JunBin Ko
 lastname: Ko
-description: Underwater acoustics, Signal processing
+description: Therapeutic Ultrasound
 
 profile:
   name: JunBin Ko
   position: PhD Student
-  image: prof_pic.jpg
+  image: kjb.jpg
   email: kojb1982@jejunu.ac.kr
   github:
   address:
@@ -17,10 +17,8 @@ profile:
 
 ## About
 
-PhD student researching underwater acoustics and marine acoustic signal processing.
+PhD student
 
 ## Research Interests
 
-- Underwater acoustics
-- Jeju coastal ambient noise analysis
-- Signal processing for marine acoustic and dolphin sound
+- 

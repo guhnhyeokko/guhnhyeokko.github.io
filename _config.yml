@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "<span class='title-line1'><span class='title-highlight'>O</span>cean <span class='title-highlight'>B</span>iomedical</span><br><span class='title-line2'><span class='title-highlight'>U</span>ltra<span class='title-highlight'>S</span>ound Lab</span>" # the website title (if blank, full name will be used instead)
+title: "<span class='title-line1'><span class='title-highlight'>O</span>cean <span class='title-highlight'>B</span>iomedical</span> <span class='title-line2'><span class='title-highlight'>U</span>ltra<span class='title-highlight'>S</span>ound Lab</span>" # the website title (if blank, full name will be used instead)
 title_plain: "OBUS Lab" # plain text title for browser tab
 first_name: Ocean Biomedical UltraSound
 middle_name:

@@ -308,6 +308,11 @@ ul.task-list input[type="checkbox"] {
       margin-right: 8px;
     }
 
+    .title {
+      display: flex;
+      flex-direction: column;
+    }
+
     .title-highlight {
       color: #28a745;
       font-weight: bold;
