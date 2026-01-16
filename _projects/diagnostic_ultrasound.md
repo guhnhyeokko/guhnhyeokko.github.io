@@ -31,4 +31,3 @@ related_publications: true
 </div>
 
 ## Research Fields
-
