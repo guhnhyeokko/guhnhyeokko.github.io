@@ -3,7 +3,9 @@ layout: page
 ---
 {{ content }}
 
-{% assign groups_order = 'Principal Investigator|Postdoctoral Researcher|PhD Student|Master Student|Undergraduate Student|Alumni' | split: '|' %}
+{% assign groups_order = 'Principal Investigator|Postdoctoral Researcher|PhD Student|Master Student|Researcher|Undergraduate Student|Alumni'
+  | split: '|'
+%}
 
 {% for group in groups_order %}
   {% assign members_in_group = site.members | where: 'group', group | sort: 'lastname' %}
@@ -64,6 +66,15 @@ layout: page
                     {% if member.profile.scholar_userid contains 'http' %}
                       <a
                         href="{{ member.profile.scholar_userid }}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        title="Google Scholar"
+                        ><i class="ai ai-google-scholar"></i
+                      ></a>
+                    {% elsif member.profile.scholar_userid contains ':' %}
+                      {% assign scholar_parts = member.profile.scholar_userid | split: ':' %}
+                      <a
+                        href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ scholar_parts[0] }}&sortby=pubdate&citation_for_view={{ member.profile.scholar_userid }}"
                         target="_blank"
                         rel="noopener noreferrer"
                         title="Google Scholar"
