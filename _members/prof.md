@@ -1,7 +1,6 @@
 ---
 layout: member
-group: PI
-group_rank: 1
+group: Principal Investigator
 title: Dong-Guk Paeng
 lastname:
 description: Professor of the Ocean System Engineering Department

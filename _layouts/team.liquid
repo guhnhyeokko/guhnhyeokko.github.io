@@ -3,7 +3,7 @@ layout: page
 ---
 {{ content }}
 
-{% assign groups_order = 'PI|Postdoc|PhD|Master|Alumni' | split: '|' %}
+{% assign groups_order = 'Principal Investigator|Postdoctoral Researcher|PhD Student|Master Student|Undergraduate Student|Alumni' | split: '|' %}
 
 {% for group in groups_order %}
   {% assign members_in_group = site.members | where: 'group', group | sort: 'lastname' %}
@@ -21,15 +21,37 @@ layout: page
                 {% else %}
                   {% assign member_link = member.url | relative_url %}
                 {% endif %}
-                <a href="{{ member_link }}" class="d-block h-100">
-                  <img
-                    src="{{ member_image_path | relative_url }}"
-                    alt="{{ member.profile.name }}"
-                    class="rounded h-100"
-                    style="width: 150px; object-fit: cover;"
-                    loading="lazy"
-                  >
-                </a>
+                <div>
+                  <a href="{{ member_link }}" class="d-block">
+                    <img
+                      src="{{ member_image_path | relative_url }}"
+                      alt="{{ member.profile.name }}"
+                      class="rounded"
+                      style="width: 150px; height: 150px; object-fit: cover;"
+                      loading="lazy"
+                    >
+                  </a>
+                  <div class="social-icons mt-2" style="font-size: 0.9rem;">
+                    {% if member.profile.email %}
+                      <a href="mailto:{{ member.profile.email }}" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                    {% endif %}
+                    {% if member.profile.orcid %}
+                      <a href="https://orcid.org/{{ member.profile.orcid }}" target="_blank" rel="noopener noreferrer" title="ORCID"
+                        ><i class="fa-brands fa-orcid"></i
+                      ></a>
+                    {% endif %}
+                    {% if member.profile.github %}
+                      <a href="https://github.com/{{ member.profile.github }}" target="_blank" rel="noopener noreferrer" title="GitHub"
+                        ><i class="fa-brands fa-github"></i
+                      ></a>
+                    {% endif %}
+                    {% if member.profile.website %}
+                      <a href="{{ member.profile.website }}" target="_blank" rel="noopener noreferrer" title="Website"
+                        ><i class="fa-solid fa-globe"></i
+                      ></a>
+                    {% endif %}
+                  </div>
+                </div>
               </div>
             {% endif %}
             <div class="card flex-grow-1 hoverable h-100">

@@ -1,7 +1,6 @@
 ---
 layout: member
-group: PhD
-group_rank: 3
+group: PhD Student
 title: GuhnHyeok Ko
 lastname: Ko
 description: Underwater Acoustics, Signal Processing

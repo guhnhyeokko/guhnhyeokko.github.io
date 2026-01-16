@@ -1,7 +1,6 @@
 ---
 layout: member
-group: Postdoc
-group_rank: 1
+group: Postdoctoral Researcher
 title: Changsoo Kim
 lastname: Kim
 description: Diagnostic and Therapeutic Ultrasound, Acoustic simulation

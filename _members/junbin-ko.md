@@ -1,7 +1,6 @@
 ---
 layout: member
-group: PhD
-group_rank: 3
+group: PhD Student
 title: JunBin Ko
 lastname: Ko
 description: Therapeutic Ultrasound

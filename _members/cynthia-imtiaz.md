@@ -1,7 +1,6 @@
 ---
 layout: member
-group: MS
-group_rank: 4
+group: Master Student
 title: Cynthia Imtiaz
 lastname: Imtiaz
 description: Diagnostic Imaging analysis and Image Processing
