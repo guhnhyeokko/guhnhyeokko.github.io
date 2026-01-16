@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/members/Jiah-son/";
             },},{id: "members-changsoo-kim",
           title: 'Changsoo Kim',
-          description: "Diagnostic and Therapeutic Ultrasound, Acoustic simulation",
+          description: "Underwater Acoustics, Diagnostic and Therapeutic Ultrasound",
           section: "Members",handler: () => {
               window.location.href = "/members/changsoo-kim/";
             },},{id: "members-cheong-ah-lee",
