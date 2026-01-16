@@ -5,6 +5,7 @@ group_rank: 1
 title: Dong-Guk Paeng
 lastname:
 description: Professor of the Ocean System Engineering Department
+redirect: /professor/
 
 profile:
   name: Dong-Guk Paeng
@@ -16,7 +17,7 @@ profile:
   website: https://jnu-obus.com
   address: >
     Room 5465, Marine Sciences Bldg. 4
-    102 Jejudaehak-ro, Jeju-si, 
+    102 Jejudaehak-ro, Jeju-si,
     Jeju-do, Republic of Korea (63243)
 ---
 
