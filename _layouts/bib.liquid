@@ -317,8 +317,9 @@
             ></span>
           {% endif %}
           {% if site.enable_publication_badges.google_scholar and entry_has_google_scholar_badge %}
+            {% assign pi_scholar_id = entry.scholar_id | default: 'Z8N1TMIAAAAJ' %}
             <a
-              href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ entry.scholar_id }}&citation_for_view={{ entry.scholar_id }}:{{ entry.google_scholar_id }}"
+              href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ pi_scholar_id }}&citation_for_view={{ pi_scholar_id }}:{{ entry.google_scholar_id }}"
               aria-label="Google Scholar link"
               role="button"
             >

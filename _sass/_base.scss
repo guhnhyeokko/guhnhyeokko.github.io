@@ -1588,13 +1588,6 @@ mjx-container[jax="CHTML"][display="true"] {
   ol.bibliography li {
     padding: 15px;
     background: var(--global-card-bg-color);
-    border-left: 3px solid transparent;
-    transition: all 0.2s;
     border-radius: 4px;
-
-    &:hover {
-      border-left-color: var(--global-theme-color);
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
-    }
   }
 }
