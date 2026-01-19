@@ -1,0 +1,507 @@
+# International Conference Presentations
+# Format: authors, title, conference, year
+
+- authors: "D.-G. Paeng"
+  title: "Ultrasonic measurement of red blood cell aggregation and its understanding by numerical simulation"
+  conference: "The 50th Annual Congress of Korean Society of Ultrasound in Medicine"
+  year: 2019
+
+- authors: "D.-G. Paeng"
+  title: "Ultrasonic measurement of hemorheology in the carotid and coronary arteries"
+  conference: "The 62nd Annual Scientific Meeting of the Korean Society of Cardiology"
+  year: 2018
+
+- authors: "J. Lee, G. Kang, C. Lee, S. Min, D-G. Paeng"
+  title: "Measurement of attenuation of the human skull cadaver using shock wave generated from a CNT-PDMS transducer"
+  conference: "6th International Symposium on Focused Ultrasound, P-BR-18"
+  year: 2018
+
+- authors: "D.-G. Paeng, C.-A. Lee, M. J. Choi, K. Ha"
+  title: "Carbon Nanotube Transducer design considering skull shape and sound speed using acoustic ray tracing method"
+  conference: "The 18th International Symposium on Therapeutic Ultrasound, pp.423-425"
+  year: 2018
+
+- authors: "S. Min, C. Lee, J. Lee, G. Kang, D.-G. Paeng, J. H. Choi"
+  title: "Implementation of coronary artery phantom with hyperemia"
+  conference: "2nd World Congress on Cardiology & 39th Annual Congress on Microbiology and Microbial Infection, p38"
+  year: 2018
+
+- authors: "S. Min, C. Lee, J. Lee, G. Kang, D.-G. Paeng, J. H. Choi"
+  title: "Implementation of coronary artery phantom with artificial hyperemia and analysis of pressure and flow velocity depending on the degree of stenosis"
+  conference: "American College of Cardiology, 153, Vol. 73"
+  year: 2019
+
+- authors: "C.-A. Lee, S. Min, M. Lee, D.-G. Paeng"
+  title: "Numerical study of red blood cell aggregation kinetics under sinusoidal pulsatile flow"
+  conference: "The European Society for Clinical Hemorheology and Microcirculation, pp.128-129"
+  year: 2018
+
+- authors: "D. Paeng"
+  title: "Research experiences as the 1st Richard Merkin fellow and post-fellow of Focused Ultrasound Foundation"
+  conference: "Taiwan Association of Therapeutic and Interventional Ultrasound, p48"
+  year: 2018
+
+- authors: "M. Lee, D. Paeng, K. Ha, M. J. Choi"
+  title: "Transcranial transmission of shock waves by a laser-generated carbon nano tube transducer"
+  conference: "International Congress on Ultrasonics, P15"
+  year: 2017
+
+- authors: "C. Lee, D. Paeng, K. Ha"
+  title: "Lens design simulation and fabrication of carbon nano tube transducer for transcranial applications"
+  conference: "International Congress on Ultrasonics, P30"
+  year: 2017
+
+- authors: "C. Lee, D. Paeng, K. Ha"
+  title: "Transmission of shock waves by a focused carbon nano tube coated transducer through human skull cadaver"
+  conference: "The 38th Symposium on Ultrasonic Electronics, p4"
+  year: 2017
+
+- authors: "D. Paeng"
+  title: "Transcranial focused ultrasound researches performed as a Merkin Fellow at Focused Ultrasound Foundation"
+  conference: "The 16th Annual Meeting of Japanese Society for Therapeutic Ultrasound, p13"
+  year: 2017
+
+- authors: "D. Paeng"
+  title: "Emerging technologies in therapeutic ultrasound"
+  conference: "The 48th Annual Congress of Korean Society of Ultrasound in Medicine, p23"
+  year: 2017
+
+- authors: "D. Paeng, J. Snell, A.H. Quigg, M. Eames, N. Kassell, C. Jin, Z. Xu, J.P. Sheehan, A.C. Everstine, B.S. Lopes"
+  title: "Correlation of the lesion size in histology and MR images of the pig brain tissue by transcranial MR-guided focused ultrasound"
+  conference: "The 17th International Symposium on Therapeutic Ultrasound, p31"
+  year: 2017
+
+- authors: "C. Jin, J. Snell, D. Paeng"
+  title: "A fast 3-D transcranical focused ultrasound simulation based on ray tracing"
+  conference: "The 17th International Symposium on Therapeutic Ultrasound, p41"
+  year: 2017
+
+- authors: "D. Paeng, J. Snell, A.H. Quigg, M. Eames, N. Kassell, C. Jin, Z. Xu, J.P. Sheehan, A.C. Everstine, B.S. Lopes"
+  title: "Thermal dose effects by MR-guided focused ultrasound on the pig brain tissue-preliminary results"
+  conference: "The 16th International Society for Therapeutic Ultrasound"
+  year: 2016
+
+- authors: "D. Paeng, J. Snell, A.H. Quigg, M. Eames, N. Kassell, C. Jin, Z. Xu, J.P. Sheehan, A.C. Everstine, B.S. Lopes"
+  title: "MR-guided focused ultrasound on the pig brain tissue and its histology as a function of thermal dose"
+  conference: "Focused Ultrasound Symposium, p55"
+  year: 2016
+
+- authors: "C. Jin, D. O. Brokman, M. Eames, J. Snell, D. Paeng"
+  title: "Cavitation localization using a modified trilateration method: Proof of Concept"
+  conference: "Focused Ultrasound Symposium, pp.189-190"
+  year: 2016
+
+- authors: "A. Quigg, J. Snell, D. Paeng, M Eames"
+  title: "Proportional integral temperature control during focused ultrasound treatment with clinical systems in the brain"
+  conference: "Focused Ultrasound Symposium, p202"
+  year: 2016
+
+- authors: "J. Sukovich, C. Cain, Z Xu, A Pandey, J. Snell, N Chaudhary, S Camelo-Piragua, S Allen, D. Paeng, J. Cannata, D Teofilovic, M Bertolina, N. Kassell, T. Hall, Z. Xu"
+  title: "In vivo porcine histotripsy brain treatments"
+  conference: "Focused Ultrasound Symposium, p73"
+  year: 2016
+
+- authors: "J. Kim, H. Kim, D.-G. Paeng, I.-C. Pang"
+  title: "Temporal variation of transmission loss by internal tide in the southern sea of Jeju island in summer"
+  conference: "J. Acoust. Soc. Am. 138(3), p1930"
+  year: 2015
+
+- authors: "H. Kim, T.-H. Bok, K.-H. Nam, J. Kim, D.-G. Paeng, S.-J. An, J.-B. Lee"
+  title: "Mobility of dinoflagellates measured by high-frequency ultrasound"
+  conference: "J. Acoust. Soc. Am. 137(4), p2197"
+  year: 2015
+
+- authors: "C. Jin, K.-H. Nam, D.-G. Paeng"
+  title: "Three-dimensional pulsation of rat carotid artery bifurcation observed using a high-resolution ultrasound imaging system"
+  conference: "J. Acoust. Soc. Am. 137(4), p2425"
+  year: 2015
+
+- authors: "C.-Z. Jin, K.-H. Nam, D.-G. Paeng"
+  title: "Asymmetric Three-dimensional Pulsation of Rat Carotid Artery Bifurcation Observed Using a High-resolution Ultrasound Imaging"
+  conference: "Proceedings of Symposium on Ultrasonic Electronics 2015, Vol. 36"
+  year: 2015
+
+- authors: "S. Min, G. Ra, C. Jin, K.-H. Nam, J. Kim, D.-G. Paeng"
+  title: "Ultrasonic observation of 3 dimensional arterial bifurcation geometry using a chick chorioallantoic membrane model"
+  conference: "Proceedings of Symposium on Ultrasonic Electronics 2015, Vol. 36"
+  year: 2015
+
+- authors: "G. Ra, K.-H. Nam, J. Kim, D.-G. Paeng"
+  title: "Pulsatile variation of the chick extraembryonic arterial bifurcation observed by ultrasound and optical microscope"
+  conference: "Proceedings of Symposium on Ultrasonic Electronics 2014, 35, pp.147-148"
+  year: 2014
+
+- authors: "C. Jin, K.-H. Nam, D.-G. Paeng"
+  title: "The spatio-temporal variation of rat carotid artery bifurcation by ultrasound imaging"
+  conference: "IEEE International Ultrasonics Symposium, pp.1900-1903"
+  year: 2014
+
+- authors: "J. Kim, H. Kim, D.-G. Paeng, J. Lee"
+  title: "Acoustic propagation in surface channel formed by low salinity water in the East China Sea and the tropical Atlantic Ocean"
+  conference: "J. Acoust. Soc. Am. 135, p2304"
+  year: 2014
+
+- authors: "C. Jin, K.-H. Nam, T.-H. Bok, D.-G. Paeng"
+  title: "Cyclic variation of three-dimensional geometry of the rat carotid artery bifurcation assessed by high-frequency ultrasound imaging"
+  conference: "J. Acoust. Soc. Am. 134(5), p4215"
+  year: 2013
+
+- authors: "Q. Kong, K.-H. Nam, T.-H. Bok, D.-G. Paeng"
+  title: "A simulation model of cyclic variation of red blood cell aggregation under Couette and Poiseuille flows"
+  conference: "J. Acoust. Soc. Am. 134(5), p4122"
+  year: 2013
+
+- authors: "S.-C. Kang, D.-G. Paeng"
+  title: "Water-level controlled wind instrument developed by a team-based project for an undergraduate acoustic class"
+  conference: "J. Acoust. Soc. Am. 134(5), p4016"
+  year: 2013
+
+- authors: "H. Kim, T.-H. Bok, J. Kim, D.-G. Paeng, M. M. R. Shah, J.-B. Lee"
+  title: "Measurements of diel variation of acoustic backscatter power from phytoplankton"
+  conference: "J. Acoust. Soc. Am. 134(5), p3989"
+  year: 2013
+
+- authors: "T.-H. Bok, K.-H. Nam, D.-G. Paeng, J. Kim"
+  title: "Probability distribution variation in high-frequency ultrasound blood echogenicity under in-vitro and in-vivo blood flow"
+  conference: "J. Acoust. Soc. Am. 133(5), p3541"
+  year: 2013
+
+- authors: "D.-G. Paeng, K.-H. Nam, C. Jin"
+  title: "Ultrasonic observation of vessel movement of rat carotid artery during a cardiac cycle"
+  conference: "International Conference on Biomedical Ultrasound 2013, Taiwan, 1, p38"
+  year: 2013
+
+- authors: "Q. Kong, K.-H. Nam, D.-G. Paeng, Y. Li"
+  title: "The computer simulation of microscopic interactions of RBC aggregation based on the depletion model under pulsatile flow"
+  conference: "IEEE Ultrasonics Symposium, Prague, pp.123-126"
+  year: 2013
+
+- authors: "D.-G. Paeng"
+  title: "Basic Principles of IVUS Imaging"
+  conference: "CIVUS Jeju Interventional Imaging Forum, pp.102-108"
+  year: 2013
+
+- authors: "J. Kim, T.-H. Bok, C. H. Lee, J. Bae, D.-G. Paeng, J. Lee"
+  title: "Underwater Communication Performance of Convex Array Sensors with Radii of Curvature"
+  conference: "Youngnam-Kyushu Joint Conference on Acoustics, Busan, p83"
+  year: 2013
+
+- authors: "D.-G. Paeng, T.-H. Bok, K.-H. Nam, J. H. Yang"
+  title: "Acoustic Physics in Ultrasound Imaging and Artifacts"
+  conference: "Korea Society of Ultrasound in Medicine Conference, pp.10-11"
+  year: 2013
+
+- authors: "K.-H. Nam, T.-H. Bok, Q. Kong, D.-G. Paeng"
+  title: "Pulsatile changes of blood echogenicity in rat arteries using a high-frequency ultrasound system"
+  conference: "Proceedings of IEEE Ultrasonics Symposium 2012, pp.5-8"
+  year: 2012
+
+- authors: "T.-H. Bok, Q. Kong, K.-H. Nam, Y. H. Oh, J. G. Kim, J. J. Lee, J. C. Choi, D.-G. Paeng"
+  title: "A Pilot Study of Blood Echogenicity from the Radial Artery and the Carotid Artery of Stroke Patients"
+  conference: "Proceedings of IEEE Ultrasonics Symposium 2012, pp.1-4"
+  year: 2012
+
+- authors: "J. Kim, T.-H. Bok, J. Bae, D.-G. Paeng, C. H. Lee, S. I. Kim"
+  title: "SVM based Classification for Underwater Transient Signals in Ocean Background Noise"
+  conference: "IEICE Technical Report, 112(186), pp.115-120"
+  year: 2012
+
+- authors: "C. H. Lee, J. Lee, J. Bae, D.-G. Paeng, S. W. Lee, J. Shin, J. W. Jung"
+  title: "Digital communication system using beamsteering for difference frequency in a parametric array"
+  conference: "J. Acoust. Soc. Am. 131(4), p3445"
+  year: 2012
+
+- authors: "K.-H. Nam, E. Yeom, S. J. Lee, D.-G. Paeng"
+  title: "Observation of blood echogenicity variation in rat arteries using high-frequency ultrasound"
+  conference: "J. Acoust. Soc. Am. 131(4), p3363"
+  year: 2012
+
+- authors: "T.-H. Bok, Q. Kong, Y. H. Oh, J. J. Lee, J. G. Kim, J. C. Choi, D.-G. Paeng"
+  title: "A preliminary study of ultrasound blood imaging in the common carotid artery of stroke patients"
+  conference: "J. Acoust. Soc. Am. 131(4), p3363"
+  year: 2012
+
+- authors: "M. J. Choi, S. R. Guntur, K. I. Lee, D.-G. Paeng, A. Coleman"
+  title: "The temperature dependent thermal properties of ex vivo porcine liver tissue heated from 20C to 90C"
+  conference: "J. Acoust. Soc. Am. 131(4), p3364"
+  year: 2012
+
+- authors: "M. J. Choi, S. R. Guntur, K. I. Lee, D.-G. Paeng, A. Coleman"
+  title: "An optically transparent tissue mimicking phantom for monitoring the thermal lesion produced by high intensity focused ultrasound"
+  conference: "J. Acoust. Soc. Am. 131(4), p3364"
+  year: 2012
+
+- authors: "T.-H. Bok, J. Kim, D.-G. Paeng, J. Bae, C. H. Lee"
+  title: "Implementation of an ultrasound biomicroscopy system by rotational scanning of a high-frequency angled needle transducer"
+  conference: "IEEE International Ultrasonics Symposium, pp.2025-2028"
+  year: 2011
+
+- authors: "Y. Li, T.-H. Bok, D.-G. Paeng"
+  title: "Numerical simulation of time for red blood cell aggregation under pulsatile flow with depletion model"
+  conference: "IEEE International Ultrasonics Symposium, Orlando, pp.442-445"
+  year: 2011
+
+- authors: "J. Kim, T.-H. Bok, D.-G. Paeng, I.-C. Pang, J. Lee"
+  title: "Acoustic Surface Channel formed by Low-Salinity Water in the Yellow Sea"
+  conference: "Pacific Rim Underwater Acoustics Conference 2011, pp.128-129"
+  year: 2011
+
+- authors: "C. H. Lee, J. Bae, D.-G. Paeng, S. I. Kim"
+  title: "Classification of Transient Sonar Signals Using Support Vector Machine"
+  conference: "Pacific Rim Underwater Acoustics Conference 2011, pp.93-95"
+  year: 2011
+
+- authors: "C. H. Lee, J. Bae, D.-G. Paeng, J. Lee"
+  title: "Digital beamsteering system using acoustic transducer array"
+  conference: "J. Acoust. Soc. Am. 129(4) Pt.2, p2675"
+  year: 2011
+
+- authors: "J. Kim, T.-H. Bok, C. H. Lee, D.-G. Paeng, J. Bae"
+  title: "Communication performance analysis according to seasons in Yellow Sea"
+  conference: "J. Acoust. Soc. Am. 129(4) Pt.2, p2667"
+  year: 2011
+
+- authors: "T.-H. Bok, J. Kim, D.-G. Paeng, C. H. Lee, J. Bae"
+  title: "Computation of bit error rate for underwater communication with and without low-salinity water in the western sea of Jeju"
+  conference: "J. Acoust. Soc. Am. 129(4) Pt.2, p2667"
+  year: 2011
+
+- authors: "Y. Li, T.-H. Bok, D.-G. Paeng"
+  title: "Smoking effects on cyclic variation of harmonic echogenicity in carotid artery"
+  conference: "J. Acoust. Soc. Am. 129(4) Pt.2, p2575"
+  year: 2011
+
+- authors: "D.-G. Paeng, T.-H. Bok, H.-J. Kang"
+  title: "Cyclic variation of blood echogenicity in the radial artery measured by ultrasound biomicroscopy"
+  conference: "9th Congress of Asian Federation of Societies for Ultrasound in Medicine and Biology, p16"
+  year: 2010
+
+- authors: "Y. Li, T.-H. Bok, J.-H. Yang, M.-J. Choi, D.-G. Paeng"
+  title: "The smoking effect on the cyclic variation of blood echogenicity from the common carotid artery"
+  conference: "IEEE International Ultrasonics Symposium, p153"
+  year: 2010
+
+- authors: "D.-G. Paeng, T.-H. Bok"
+  title: "Acoustic volume backscattering from phytoplankton and seafloor sediment"
+  conference: "5th International Symposium on Acoustic Engineering & Technology, pp.12-13"
+  year: 2010
+
+- authors: "J. Kim, I.-Y. Yoon, J. Bae, D.-G. Paeng, C.-H. Lee, M. Choe"
+  title: "Parametric array speaker using nonlinearity of ultrasound"
+  conference: "5th International Symposium on Acoustic Engineering & Technology, pp.19-21"
+  year: 2010
+
+- authors: "K.-H. Nam, E. Yeom, D.-G. Paeng, S.-J. Lee"
+  title: "Echo PIV in blood flow traced by red blood cell aggregates"
+  conference: "International Symposium on Flow Visualization"
+  year: 2010
+
+- authors: "D.-G. Paeng, R. Chen, N. Matsuoka, W. Abdallah, Q. Zhou, A. Fawzi, M. S. Humayun, K. K. Shung"
+  title: "In vivo Sonothrombolysis of Ear Marginal Vein and Retinal Vein of Rabbits"
+  conference: "IEEE Ultrasonics Symposium Proceeding, pp.847-850"
+  year: 2009
+
+- authors: "Y. Li, T.-H. Bok, J.-H. Yang, M.-J. Choi, D.-G. Paeng"
+  title: "Smoking: An impact on the cyclic variation of blood echogenicity of the carotid artery"
+  conference: "The 10th Western Pacific Acoustics Conference, p70"
+  year: 2009
+
+- authors: "T.-H. Bok, Y. Li, J.-H. Yang, D.-G. Paeng"
+  title: "Characteristics of Blood Echogenicity of the Radial Artery in High Frequency Ultrasound Imaging"
+  conference: "The 10th Western Pacific Acoustics Conference, p69"
+  year: 2009
+
+- authors: "Y. Li, T.-H. Bok, D.-G. Paeng, J. C. Choi, M. J. Choi"
+  title: "In vivo Observation of the Cyclic Variation of Echogenicity and Doppler Power from Carotid Artery using Hough Transform"
+  conference: "Proceedings of the Youngnam-Kyushu Joint Conference on Acoustics 2009, pp.73-76"
+  year: 2009
+
+- authors: "T.-H. Bok, Y. Li, D.-G. Paeng, J. Lee, K.-K. Shin, C.-Y. Joh"
+  title: "Computation of Mutual Radiation Impedance in a Curved Baffle by Spatial Convolution"
+  conference: "Proceedings of the Youngnam-Kyushu Joint Conference on Acoustics 2009, pp.21-24"
+  year: 2009
+
+- authors: "R. Chen, D.-G. Paeng, N. Matsuoka, H. Ameri, Q. Zhou, M. Humayun, K. K. Shung"
+  title: "Ultrasonic Doppler measurements of blood flow velocity of rabbit retinal vessels with high frequency angled needle transducers"
+  conference: "IEEE Ultrasonics Symposium Proceeding, pp.1607-1610"
+  year: 2008
+
+- authors: "J. H. Chang, D.-G. Paeng, R. Chen, M. S. Humayun, K. K. Shung"
+  title: "A novel scan method using angled high frequency single element needle transducers"
+  conference: "IEEE Ultrasonics Symposium Proceeding, pp.1734-1737"
+  year: 2008
+
+- authors: "D.-G. Paeng, R. Chen, M. Humayun, K. K. Shung"
+  title: "Characterization of porcine lens hardness by very high frequency ultrasound"
+  conference: "The 6th International Conference on Ultrasonic Biomedical Microscanning & 9th Annual Ultrasonic Transducer Conference, p11"
+  year: 2008
+
+- authors: "D.-G. Paeng, Y. Li, K. H. Nam, M. Humayun, K. K. Shung"
+  title: "Cyclic and Radial Variation of Blood Echogenicity from in vitro Porcine Blood and in vivo Human Carotid Artery"
+  conference: "The 13th International Congress of Biorheology & 6th International Conference on Clinical Hemorheology (Biorheology), vol 45, pp.98-99"
+  year: 2008
+
+- authors: "Y. Li, D.-G. Paeng, S. R. R. Guntur, M. J. Choi, Y. R. Kim, J. C. Choi"
+  title: "Ultrasonic evaluation of blood coagulation from stroke patients"
+  conference: "The 152nd Proceedings of the Acoustical Society of America, p3111"
+  year: 2006
+
+- authors: "K. H. Nam, D.-G. Paeng, T. H. Bok, M. J. Choi"
+  title: "Erythrocyte aggregability from human, horse, and rat blood by ultrasound backscattering measurements"
+  conference: "The 152nd Proceedings of the Acoustical Society of America, p3112"
+  year: 2006
+
+- authors: "T. H. Bok, D.-G. Paeng, E. H. Kim, J. Y. Na"
+  title: "Acoustic measurements of volume backscattering strength from red tide phytoplankton, Cochlodinium polykrikoides"
+  conference: "The 152nd Proceedings of the Acoustical Society of America, p3016"
+  year: 2006
+
+- authors: "E. H. Kim, T. H. Bok, J. Y. Na, D.-G. Paeng"
+  title: "Acoustic estimation of abundance of harmful algae using underwater ultrasound"
+  conference: "The 9th Western Pacific Acoustics Conference, p153"
+  year: 2006
+
+- authors: "J. Liu, J. W. Park, B. N. Kim, K. I. Lee, D.-G. Paeng, S. Y. Park, C. H. Oh"
+  title: "A study on acoustic characterization of human tissues with a high resolution ultrasound backscatter microscope"
+  conference: "The 9th Western Pacific Acoustics Conference, p146"
+  year: 2006
+
+- authors: "S. R. R. Guntur, Y. Li, M. J. Choi, Y. J. Jeon, J. C. Choi, Y. R. Kim, D.-G. Paeng"
+  title: "Acoustic measurements of plasma from stroke patients during coagulation"
+  conference: "The 9th Western Pacific Acoustics Conference, p142"
+  year: 2006
+
+- authors: "K. H. Nam, G. S. Kang, M. J. Choi, D.-G. Paeng"
+  title: "Ultrasonic measurements of erythrocyte aggregation tendency in human and rat blood"
+  conference: "The 9th Western Pacific Acoustics Conference, p142"
+  year: 2006
+
+- authors: "G. S. Kang, C. A. Kim, D.-G. Paeng, S. R. R. Guntur, N. Gibson, M. J. Choi"
+  title: "An improved method for quantifying the low contrast sensitivity on B-mode ultrasound phantom images"
+  conference: "The 9th Western Pacific Acoustics Conference, p105"
+  year: 2006
+
+- authors: "M. K. Jeong, M. J. Choi, S. J. Kwon, M. H. Bae, D.-G. Paeng, B. Zeqiri, L. Wright"
+  title: "Ultrasonic characterization on thermal lesions in biological tissue produced by a cylindrical heat source"
+  conference: "Official Proceedings of the 11th Congress of the World Federation for Ultrasound in Medicine and Biology, 32(5s), p279"
+  year: 2006
+
+- authors: "K. S. Lee, M. J. Choi, J. H. Yang, K. S. Kang, D.-G. Paeng, A. Coleman"
+  title: "Survey on performance of ultrasonic probes used in clinics in Cheju province, Republic of Korea: Preliminary report"
+  conference: "Official Proceedings of the 11th Congress of the World Federation for Ultrasound in Medicine and Biology, 32(5s), p277"
+  year: 2006
+
+- authors: "M. J. Choi, K. S. Kang, K. S. Lee, J. H. Yang, D.-G. Paeng, C. A. Kim, S. M. Rhim, N. Gibson, A. Coleman"
+  title: "Low contrast sensibility of B-mode images against ultrasonic probes defects"
+  conference: "Official Proceedings of the 11th Congress of the World Federation for Ultrasound in Medicine and Biology, 32(5s), p277"
+  year: 2006
+
+- authors: "K. H. Nam, D.-G. Paeng, M. J. Choi, K. K. Shung"
+  title: "Echogenic variation from porcine blood around a severe stenosis under pulsatile flow in a mock flow loop"
+  conference: "Official Proceedings of the 11th Congress of the World Federation for Ultrasound in Medicine and Biology, 32(5s), p146"
+  year: 2006
+
+- authors: "M. J. Choi, G. S. Kang, D.-G. Paeng, S. M. Rhim, B. Zeqiri, A. Coleman"
+  title: "Characterization on the harmonics in the diagnostic ultrasound echoed from the focal region of high intensity focused ultrasound"
+  conference: "ANDE 2005, 1, p252"
+  year: 2005
+
+- authors: "D.-G. Paeng, H. H. Kim, S. G. Lee, S. M. Rhim"
+  title: "Fabrication of a 40 MHz single element ultrasonic transducer using PMN-PT"
+  conference: "ANDE 2005, 1, p126"
+  year: 2005
+
+- authors: "K. H. Nam, M. J. Choi, K. K. Shung, D.-G. Paeng"
+  title: "Ultrasonic observation of blood flow disturbance by an eccentric stenosis under pulsatile flow"
+  conference: "ANDE 2005, 1, p124"
+  year: 2005
+
+- authors: "S. R. R. Guntur, Y. Li, M. J. Choi, D.-G. Paeng"
+  title: "Real time monitoring of blood and plasma coagulation using ultrasound"
+  conference: "ANDE 2005, 1, p124"
+  year: 2005
+
+- authors: "Y. Li, S. R. R. Guntur, M. J. Choi, D.-G. Paeng"
+  title: "An automated measurements system of ultrasonic backscatter of Tofu and Muk"
+  conference: "ANDE 2005, 1, p123"
+  year: 2005
+
+- authors: "M. J. Choi, D.-G. Paeng, A. Shaw, Y. Sutton, B. Zeqiri, M. Hodnet, A. Coleman"
+  title: "A novel method of reconstruction of the temperature distribution generated by high intensity focused ultrasound: Theory and numerical simulation"
+  conference: "ANDE 2005, 1, p68"
+  year: 2005
+
+- authors: "D.-G. Paeng, M. J. Choi, K. K. Shung"
+  title: "Investigation of Blood under Pulsatile Flow using Ultrasound Imaging"
+  conference: "7th Congress of the Asian Federation of Societies for Ultrasound in Medicine and Biology, pASY5-1"
+  year: 2004
+
+- authors: "D.-G. Paeng, M. J. Choi, S. W. Yoon, K. K. Shung"
+  title: "Echogenecity from disturbed blood flow by an eccentric stenosis under pulsatile flow"
+  conference: "The 184th Proceedings of the Acoustical Society of America, p2560"
+  year: 2004
+
+- authors: "M. J. Choi, W. K. Park, J. H. Park, M. K. Jeong, D.-G. Paeng, Y. J. Lee"
+  title: "Potential for the Diagnosis of the Micro Bone Fractures Using an Ultrasonic C Scan Technique"
+  conference: "11th Asia-Pacific Conference on Non-Destructive Testing, p100"
+  year: 2003
+
+- authors: "D.-G. Paeng, P. J. Cao, K. K. Shung, M. J. Choi"
+  title: "Ultrasonic Backscatter Response to Blood Flow Disturbance by a Severe Eccentric Stenosis"
+  conference: "11th Asia-Pacific Conference on Non-Destructive Testing, p101"
+  year: 2003
+
+- authors: "D.-G. Paeng, B. S. Kim, M. J. Choi, R. Y. Chiao, K. K. Shung"
+  title: "In vivo observation of blood echogenicity variation during a cardiac cycle on human carotid arteries"
+  conference: "IEEE Ultrasonics Symposium Proceeding, pp.847-850"
+  year: 2003
+
+- authors: "D.-G. Paeng, B. S. Kim, K. K. Shung"
+  title: "Formation and Variation of the Black Hole Phenomenon Observed from Porcine Whole Blood"
+  conference: "American Institute of Ultrasound in Medicine, 29(5), p21"
+  year: 2003
+
+- authors: "D.-G. Paeng, K. K. Shung"
+  title: "Variation of the Black Hole phenomenon with speed and stroke rate"
+  conference: "First Pan-American/Iberian Meeting on Acoustics (Proceedings of Acoustical Society of America), 112(5), p2433"
+  year: 2002
+
+- authors: "D.-G. Paeng, P. J. Cao, K. K. Shung, R. Y. Chiao"
+  title: "Cyclic and radial variation of the echogenicity from human carotid artery and porcine blood"
+  conference: "Proceedings of Acoustical Society of America, 111(5), p2483"
+  year: 2002
+
+- authors: "D.-G. Paeng, P. J. Cao, K. K. Shung"
+  title: "The influence of severe eccentric stenosis on ultrasonic backscattering power from flowing porcine blood in a mock flow loop"
+  conference: "American Institute of Ultrasound in Medicine, 21(3), p42"
+  year: 2002
+
+- authors: "D.-G. Paeng, P. J. Cao, R. Chiao, K. K. Shung"
+  title: "Temporal and spatial variation of the echogenicity from porcine blood under oscillatory flow"
+  conference: "American Institute of Ultrasound in Medicine, 21(3), p41"
+  year: 2002
+
+- authors: "D.-G. Paeng, P. J. Cao, R. Chiao, K. K. Shung"
+  title: "The Bright collapsing ring phenomenon over a pulsatile cycle observed from human carotid arteries and porcine blood in a rigid tube"
+  conference: "American Institute of Ultrasound in Medicine, 21(3), p20"
+  year: 2002
+
+- authors: "D.-G. Paeng, K. K. Shung"
+  title: "Radial distribution of the Doppler power from porcine blood over a pulsatile flow cycle"
+  conference: "IEEE Ultrasonics Symposium Proceeding, 2, pp.1281-1284"
+  year: 2001
+
+- authors: "D.-G. Paeng, P. J. Cao, K. K. Shung"
+  title: "Doppler power variation from porcine blood under steady and pulsatile flow in a mock flow loop"
+  conference: "American Institute of Ultrasound in Medicine, 23(3), p85"
+  year: 2001
+
+- authors: "D.-G. Paeng, K. K. Shung"
+  title: "The Black hole phenomenon in ultrasonic backscattering measurement under pulsatile flow with porcine whole blood in a rigid tube"
+  conference: "American Institute of Ultrasound in Medicine, 23(3), p24"
+  year: 2001
+
+- authors: "D.-G. Paeng, K. K. Shung"
+  title: "Cyclic variation of the Doppler power from porcine blood under pulsatile flow in tubes of varying compliance"
+  conference: "Proceeding of Acoustical Society of America, 107(5), p2787"
+  year: 2000
