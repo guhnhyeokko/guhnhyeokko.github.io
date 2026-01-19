@@ -2,7 +2,7 @@
 layout: page
 title: Therapeutic Ultrasound
 description: Non-invasive precision treatments for neurological conditions
-img: assets/img/therapeutic1.jpg
+img: assets/img/therapeutic1.png
 importance: 1
 category: work
 related_publications: false
