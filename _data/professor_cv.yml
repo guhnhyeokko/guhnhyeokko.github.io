@@ -21,20 +21,14 @@
       institution: The Pennsylvania State University (Penn State)
       year: 1998-2002
       logo: university-logos/penn.png
-      description:
-        - Add description here
     - title: M.S. in Ocean Engineering
       institution: Massachusetts Institute of Technology (MIT)
       year: 1995-1997
       logo: university-logos/mit.png
-      description:
-        - Add description here
     - title: M.S. in Earth and Marine Sciences
       institution: Hanyang University
       year: 1991-1993
       logo: university-logos/Hanyang.png
-      description:
-        - Add description here
     - title: B.S. in Engineering
       institution: Hanyang University
       year: 1985-1991
@@ -68,54 +62,81 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Therapeutic Ultrasound
+    - title: Underwater Acoustics for Bioacoustics
       items:
-        - High-Intensity Focused Ultrasound (HIFU)
-        - Ultrasound-mediated drug delivery
-        - Neuromodulation
-    - title: Diagnostic Ultrasound
+        - Bioacoustics research on marine mammals, specifically Indo-Pacific Bottlenose Dolphins in Jeju coastal waters.
+        - Application of advanced acoustic analysis and machine learning to decode communication signals and behavior.
+    - title: Measuring of Ambient Noise in Coastal Jeju
       items:
-        - Medical imaging systems
-        - Image processing and analysis
-    - title: Ultrasound Transducers
+        - Investigation of various sources of ambient noise in coastal seas and their impact on marine life.
+        - Study of underwater sound scattering phenomena for oceanographic monitoring and environmental assessment.
+    - title: Biomedical Ultrasound for Understanding Hemodynamics
       items:
-        - Design and fabrication
-        - Phased array systems
+        - Non-invasive ultrasound imaging for assessing vascular structures and blood flow dynamics in large arteries.
+        - Analysis of red blood cell backscattered signals to understand vascular physiology and diagnose cardiovascular conditions.
+    - title: Therapeutic Ultrasound in Brain Applications
+      items:
+        - Development of novel ultrasound-based treatments for neurological conditions, specifically Alzheimer's disease.
+        - Research on using ultrasound to enhance natural defenses and promote neuroregeneration in the brain.
 
 - title: Selected Publications
   type: list
   contents:
-    - Add key publications here
-    - Publication 2
-    - Publication 3
+    - Jeong, Inyong, and Dong-Guk Paeng. "Circadian and Tidal Changes in Snapping Shrimp (Alpheus brevicristatus) Sound Observed by a Moored Hydrophone in the Coastal Sea of Western Jeju." Applied Sciences 12.13 (2022): 6493.
+    - Jin, Changzhu, et al. "Semantic segmentation-based whistle extraction of Indo-Pacific Bottlenose Dolphin residing at the coast of Jeju island." Ecological Indicators 137 (2022): 108792.
+    - Lee, Jooho, Sheher Bano Zaigham, and Dong-Guk Paeng. "Shock Wave Characterization Using Different Diameters of an Optoacoustic Carbon Nanotube Composite Transducer." Applied Sciences 12.14 (2022): 7300.
+    - Lee, Cheong-Ah, and Dong-Guk Paeng. "Numerical simulation of spatiotemporal red blood cell aggregation under sinusoidal pulsatile flow." Scientific reports 11.1 (2021): 1-13.
+    - Lee, Jooho, Dong-Guk Paeng, and Kanglyeol Ha. "Attenuation of the human skull at broadband frequencies by using a carbon nanotube composite photoacoustic transducer." The Journal of the Acoustical Society of America 148.3 (2020): 1121-1129.
 
-- title: Honors and Awards
+- title: Awards & Honors
   type: time_table
   contents:
-    - year: YYYY
+    - year: 2021-12-11
       items:
-        - Award name
-    - year: YYYY
+        - 순환기의공학회 학술상
+    - year: 2019-12-07
       items:
-        - Award name
+        - 박동흐름에서 탄성 튜브 운동에 의한 속도장의 공간 변화에 따른 적혈구 응집 수치 해석 시뮬레이션 (우수논문상)
+    - year: 2016-07-13
+      items:
+        - 제 26회 과학기술 우수 논문상
+    - year: 2014-11-28
+      items:
+        - 캡스톤 디자인 지도교수상
+    - year: 2014-11-14
+      items:
+        - 2014년도 추계 한국음향학회 학술발표상
+    - year: 2013-12-21
+      items:
+        - 랫 경동맥 분지 초음파 단면 영상에서 혈관 내강 형상의 자동 추출기법(우수논문상)
+    - year: 2010-11-12
+      items:
+        - 사단법인 한국음향학회 학술상
+    - year: 2007-07-01
+      items:
+        - Specail 10th Anniversary Edition of Who's Who in Science and Engineering
+    - year: 2006-10-05
+      items:
+        - Marquis who's who in Asia
+    - year: 2006-08-22
+      items:
+        - Marquis who's who in Science and Engineering 2006-2007
+    - year: 2004-11-12
+      items:
+        - 우수발표상
+    - year: 2004-05-19
+      items:
+        - 일본초음파학회상
+    - year: 2004-04-21
+      items:
+        - Kenneth Simowitz Memorial Award
 
-- title: Professional Activities
-  type: nested_list
-  contents:
-    - title: Journal Reviewer
-      items:
-        - Journal 1
-        - Journal 2
-    - title: Conference Organizer
-      items:
-        - Conference 1
-        - Conference 2
-
-- title: Research Grants
+- title: Academic books & translations
   type: time_table
   contents:
-    - title: Grant title
-      institution: Funding agency
-      year: YYYY - YYYY
-      description:
-        - Brief description of the project
+    - year: 2020-02-28
+      items:
+        - 이공학도를 위한 음향학 이론의 핵심 (국내출판, 북스힐, 하강렬, 김무준, 팽동국)
+    - year: 2010-05-10
+      items:
+        - 해양계측과 수중탐사 (국내출판, 온누리, 팽동국)
