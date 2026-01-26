@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-01-26'
 papers:
   Z8N1TMIAAAAJ:-_dYPAW6P2MC:
-    citations: 3
+    citations: 4
     title: 'Improving sonication efficiency in transcranial MR-guided focused ultrasound treatment: A patient-data simulation study'
     year: '2023'
   Z8N1TMIAAAAJ:-f6ydRqryjwC:
@@ -146,7 +146,7 @@ papers:
     title: Effects of red blood cell aggregates dissociation on the estimation of ultrasound speckle image velocimetry
     year: '2014'
   Z8N1TMIAAAAJ:D_sINldO8mEC:
-    citations: 118
+    citations: 119
     title: Temperature-dependent thermal properties of ex vivo liver undergoing thermal ablation
     year: '2013'
   Z8N1TMIAAAAJ:EUQCXRtRnyEC:
@@ -198,7 +198,7 @@ papers:
     title: Measurements of diel variation of acoustic backscatter power from phytoplankton
     year: '2013'
   Z8N1TMIAAAAJ:JoZmwDi-zQgC:
-    citations: 216
+    citations: 218
     title: A systemic review of available low-cost EEG headsets used for drowsiness detection
     year: '2020'
   Z8N1TMIAAAAJ:K3LRdlH-MEoC:
@@ -530,7 +530,7 @@ papers:
     title: Acoustical and visual monitoring of the discharge process of the last captive Indo-Pacific Bottlenose Dolphin in South Korea
     year: '2023'
   Z8N1TMIAAAAJ:f2IySw72cVMC:
-    citations: 13
+    citations: 14
     title: In vivo sonothrombolysis of ear marginal vein of rabbits monitored with high-frequency ultrasound needle transducer
     year: '2013'
   Z8N1TMIAAAAJ:fEOibwPWpKIC:
