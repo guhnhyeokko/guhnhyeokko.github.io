@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-09'
 papers:
   Z8N1TMIAAAAJ:-_dYPAW6P2MC:
     citations: 4
@@ -250,7 +250,7 @@ papers:
     title: Production enhancement of human adipose-derived mesenchymal stem cells by low-intensity ultrasound stimulation
     year: '2022'
   Z8N1TMIAAAAJ:NJ774b8OgUMC:
-    citations: 4
+    citations: 5
     title: The survival of a flukeless juvenile dolphin (Tursiops aduncus) in the wild
     year: '2022'
   Z8N1TMIAAAAJ:NMxIlDl6LWMC:
@@ -562,7 +562,7 @@ papers:
     title: Evaluation of synthetic setae pads for dry attachment of an ultrasound transducer
     year: '2019'
   Z8N1TMIAAAAJ:hkOj_22Ku90C:
-    citations: 6
+    citations: 5
     title: Circadian and Tidal Changes in Snapping Shrimp (Alpheus brevicristatus) Sound Observed by a Moored Hydrophone in the Coastal Sea of Western Jeju
     year: '2022'
   Z8N1TMIAAAAJ:hqOjcs7Dif8C:
@@ -615,7 +615,7 @@ papers:
     year: '2014'
   Z8N1TMIAAAAJ:nb7KW1ujOQ8C:
     citations: 3
-    title: Feature extraction algorithm for underwater transient signal using cepstral coefficients based on wavelet packet
+    title: Feature Extraction Algorithm for Underwater Transient Signal Using Cepstral Coefficients Based on Wavelet Packet
     year: '2014'
   Z8N1TMIAAAAJ:nrtMV_XWKgEC:
     citations: 0
@@ -722,7 +722,7 @@ papers:
     title: Acute neuro-biochemical changes induced by nitrogen-tungsten co-doped titanium dioxide nanoparticles (vol 66, 83, 2023)
     year: '2024'
   Z8N1TMIAAAAJ:ufrVoPGSRksC:
-    citations: 50
+    citations: 51
     title: "Echogenicity variations from porcine blood I: the \u201Cbright collapsing ring\u201D under pulsatile flow"
     year: '2004'
   Z8N1TMIAAAAJ:vDijr-p_gm4C:
