@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-20'
 papers:
   Z8N1TMIAAAAJ:-_dYPAW6P2MC:
     citations: 4
@@ -38,7 +38,7 @@ papers:
     title: Ultrasonic backscatter from rat blood in aggregating media under in vitro rotational flow
     year: '2009'
   Z8N1TMIAAAAJ:2osOgNQ5qMEC:
-    citations: 53
+    citations: 52
     title: 3D reconstruction of a carotid bifurcation from 2D transversal ultrasound images
     year: '2014'
   Z8N1TMIAAAAJ:35N4QoGY0k4C:
@@ -94,7 +94,7 @@ papers:
     title: Echogenicity from disturbed blood flow by an eccentric stenosis under pulsatile flow
     year: '2004'
   Z8N1TMIAAAAJ:7PzlFSSx8tAC:
-    citations: 52
+    citations: 53
     title: Improvement of ultrasound speckle image velocimetry using image enhancement techniques
     year: '2014'
   Z8N1TMIAAAAJ:7T2F9Uy0os0C:
@@ -110,7 +110,7 @@ papers:
     title: Ultrasonic Doppler measurements of blood flow velocity of rabbit retinal vessels using a 45-MHz needle transducer
     year: '2010'
   Z8N1TMIAAAAJ:9Nmd_mFXekcC:
-    citations: 6
+    citations: 7
     title: "Effects of Mucuna pruriens (L.) DC. and Levodopa in Improving Parkinson\u2019s Disease in Rotenone Intoxicated Mice"
     year: '2024'
   Z8N1TMIAAAAJ:9ZlFYXVOiuMC:
@@ -146,7 +146,7 @@ papers:
     title: Effects of red blood cell aggregates dissociation on the estimation of ultrasound speckle image velocimetry
     year: '2014'
   Z8N1TMIAAAAJ:D_sINldO8mEC:
-    citations: 119
+    citations: 121
     title: Temperature-dependent thermal properties of ex vivo liver undergoing thermal ablation
     year: '2013'
   Z8N1TMIAAAAJ:EUQCXRtRnyEC:
@@ -198,7 +198,7 @@ papers:
     title: Measurements of diel variation of acoustic backscatter power from phytoplankton
     year: '2013'
   Z8N1TMIAAAAJ:JoZmwDi-zQgC:
-    citations: 221
+    citations: 224
     title: A systemic review of available low-cost EEG headsets used for drowsiness detection
     year: '2020'
   Z8N1TMIAAAAJ:K3LRdlH-MEoC:
@@ -222,7 +222,7 @@ papers:
     title: A study of blood disturbance by an eccentric stenosis under pulsatile flow using ultrasound imaging
     year: '2004'
   Z8N1TMIAAAAJ:LkGwnXOMwfcC:
-    citations: 28
+    citations: 29
     title: "The \u201Cblack hole\u201D phenomenon in ultrasonic backscattering measurement under pulsatile flow with porcine whole blood in a rigid tube"
     year: '2001'
   Z8N1TMIAAAAJ:M05iB0D1s5AC:
@@ -234,7 +234,7 @@ papers:
     title: Ultrasound backscattered power from Cochlodinium polykrikoides, the main red tide species in the Southern Sea of Korea
     year: '2010'
   Z8N1TMIAAAAJ:M3ejUd6NZC8C:
-    citations: 28
+    citations: 29
     title: 'Ultrasonic observation of blood disturbance in a stenosed tube: Effects of flow acceleration and turbulence downstream'
     year: '2008'
   Z8N1TMIAAAAJ:MXK_kJrjxJIC:
@@ -310,7 +310,7 @@ papers:
     title: Determination of thermal dose threshold for brain tissue lesioning via transcranial MR-guided focused ultrasound in a porcine model
     year: '2018'
   Z8N1TMIAAAAJ:TQgYirikUcIC:
-    citations: 38
+    citations: 39
     title: "Echogenicity variations from porcine blood II: the \u201Cbright ring\u201D under oscillatory flow"
     year: '2004'
   Z8N1TMIAAAAJ:Tiz5es2fbqcC:
@@ -346,7 +346,7 @@ papers:
     title: High spatial and temporal resolution observations of pulsatile changes in blood echogenicity in the common carotid artery of rats
     year: '2013'
   Z8N1TMIAAAAJ:VL0QpB8kHFEC:
-    citations: 14
+    citations: 21
     title: Numerical simulation of spatiotemporal red blood cell aggregation under sinusoidal pulsatile flow
     year: '2021'
   Z8N1TMIAAAAJ:VLnqNzywnoUC:
@@ -366,7 +366,7 @@ papers:
     title: Measurement of acoustic properties of tofu and acorn curd as potential tissue-mimicking materials
     year: '2005'
   Z8N1TMIAAAAJ:WA5NYHcadZ8C:
-    citations: 5
+    citations: 6
     title: An optically transparent tissue mimicking phantom for monitoring the thermal lesion produced by high intensity focused ultrasound
     year: '2012'
   Z8N1TMIAAAAJ:WF5omc3nYNoC:
@@ -454,11 +454,11 @@ papers:
     title: Parametric array signal generating system using transducer array
     year: '2013'
   Z8N1TMIAAAAJ:a0OBvERweLwC:
-    citations: 46
+    citations: 47
     title: Cyclic and radial variation of the echogenicity of blood in human carotid arteries observed by harmonic imaging
     year: '2010'
   Z8N1TMIAAAAJ:aqlVkmm33-oC:
-    citations: 15
+    citations: 14
     title: Parametric array sonar system based on maximum likelihood detection
     year: '2011'
   Z8N1TMIAAAAJ:b0M2c_1WBrUC:
@@ -470,7 +470,7 @@ papers:
     title: Ultrasound backscattering from erythrocyte aggregation of human, horse and rat blood under rotational flow in a cylindrical chamber
     year: '2006'
   Z8N1TMIAAAAJ:bFI3QPDXJZMC:
-    citations: 9
+    citations: 10
     title: Analysis of surface sound channel by low salinity water and its mid-frequency acoustic characteristics in the East China Sea and the Gulf of Guinea
     year: '2015'
   Z8N1TMIAAAAJ:blknAaTinKkC:
@@ -502,7 +502,7 @@ papers:
     title: The smoking acute effect on the cyclic variation in blood echogenicity from the common carotid artery
     year: '2010'
   Z8N1TMIAAAAJ:eJXPG6dFmWUC:
-    citations: 13
+    citations: 12
     title: "Optimizing computer\u2013brain Interface parameters for non-invasive brain-to-brain Interface"
     year: '2020'
   Z8N1TMIAAAAJ:eMMeJKvmdy0C:
@@ -546,7 +546,7 @@ papers:
     title: Cyclic variation of three-dimensional geometry of the rat carotid artery bifurcation assessed by high-frequency ultrasound imaging
     year: '2013'
   Z8N1TMIAAAAJ:g5m5HwL7SMYC:
-    citations: 24
+    citations: 23
     title: An open-source phase correction toolkit for transcranial focused ultrasound
     year: '2020'
   Z8N1TMIAAAAJ:geHnlv5EZngC:
@@ -554,7 +554,7 @@ papers:
     title: 1P5-12
     year: '2014'
   Z8N1TMIAAAAJ:hC7cP41nSMkC:
-    citations: 48
+    citations: 49
     title: Doppler power variation from porcine blood under steady and pulsatile flow
     year: '2001'
   Z8N1TMIAAAAJ:hFOr9nPyWt4C:
@@ -562,7 +562,7 @@ papers:
     title: Evaluation of synthetic setae pads for dry attachment of an ultrasound transducer
     year: '2019'
   Z8N1TMIAAAAJ:hkOj_22Ku90C:
-    citations: 5
+    citations: 6
     title: Circadian and Tidal Changes in Snapping Shrimp (Alpheus brevicristatus) Sound Observed by a Moored Hydrophone in the Coastal Sea of Western Jeju
     year: '2022'
   Z8N1TMIAAAAJ:hqOjcs7Dif8C:
@@ -650,7 +650,7 @@ papers:
     title: Cyclic variation of the Doppler power from porcine blood under pulsatile flow in tubes of varying compliance
     year: '2000'
   Z8N1TMIAAAAJ:qxL8FJ1GzNcC:
-    citations: 18
+    citations: 19
     title: The acute effects of smoking on the cyclic variations in blood echogenicity of carotid artery
     year: '2011'
   Z8N1TMIAAAAJ:r0BpntZqJG4C:
@@ -667,7 +667,7 @@ papers:
     year: '2021'
   Z8N1TMIAAAAJ:t7zJ5fGR-2UC:
     citations: 1
-    title: 'A Novel Method for Angiographic Contrast-Based Diagnosis of Stenosis in Coronary Artery Disease: In Vivo and In Vitro Analyses'
+    title: 'A novel method for angiographic contrast-based diagnosis of stenosis in coronary artery disease: in vivo and in vitro analyses'
     year: '2024'
   Z8N1TMIAAAAJ:tKAzc9rXhukC:
     citations: 0
@@ -690,7 +690,7 @@ papers:
     title: Acute neuro-biochemical changes induced by nitrogen-tungsten co-doped titanium dioxide nanoparticles
     year: '2023'
   Z8N1TMIAAAAJ:u-x6o8ySG0sC:
-    citations: 5
+    citations: 4
     title: Implementing short baseline acoustic positioning system for small-sized remotely operated vehicle
     year: '2012'
   Z8N1TMIAAAAJ:u5HHmVD_uO8C:
@@ -722,8 +722,8 @@ papers:
     title: Acute neuro-biochemical changes induced by nitrogen-tungsten co-doped titanium dioxide nanoparticles (vol 66, 83, 2023)
     year: '2024'
   Z8N1TMIAAAAJ:ufrVoPGSRksC:
-    citations: 51
-    title: "Echogenicity variations from porcine blood I: the \u201Cbright collapsing ring\u201D under pulsatile flow"
+    citations: 52
+    title: "Echogenicity variations from porcine blood I: The \u201Cbright collapsing ring\u201D under pulsatile flow"
     year: '2004'
   Z8N1TMIAAAAJ:vDijr-p_gm4C:
     citations: 0
