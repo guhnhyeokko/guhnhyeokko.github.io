@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-02-27'
 papers:
   Z8N1TMIAAAAJ:-_dYPAW6P2MC:
     citations: 4
@@ -198,7 +198,7 @@ papers:
     title: Measurements of diel variation of acoustic backscatter power from phytoplankton
     year: '2013'
   Z8N1TMIAAAAJ:JoZmwDi-zQgC:
-    citations: 224
+    citations: 225
     title: A systemic review of available low-cost EEG headsets used for drowsiness detection
     year: '2020'
   Z8N1TMIAAAAJ:K3LRdlH-MEoC:
@@ -502,7 +502,7 @@ papers:
     title: The smoking acute effect on the cyclic variation in blood echogenicity from the common carotid artery
     year: '2010'
   Z8N1TMIAAAAJ:eJXPG6dFmWUC:
-    citations: 12
+    citations: 13
     title: "Optimizing computer\u2013brain Interface parameters for non-invasive brain-to-brain Interface"
     year: '2020'
   Z8N1TMIAAAAJ:eMMeJKvmdy0C:
@@ -546,7 +546,7 @@ papers:
     title: Cyclic variation of three-dimensional geometry of the rat carotid artery bifurcation assessed by high-frequency ultrasound imaging
     year: '2013'
   Z8N1TMIAAAAJ:g5m5HwL7SMYC:
-    citations: 23
+    citations: 24
     title: An open-source phase correction toolkit for transcranial focused ultrasound
     year: '2020'
   Z8N1TMIAAAAJ:geHnlv5EZngC:
