@@ -39,6 +39,6 @@ Our research group focuses on **underwater acoustics**, **diagnosis**, and **the
 
 <!-- TEMPORARY: 임시 이미지 - 제거 시 이 블록 삭제 -->
 <div class="text-center mt-4 mb-4">
-  <img src="assets/img/whistle.jpg" class="img-fluid rounded" alt="Acoustic Signal Analysis" style="max-width: 100%;">
+  <img src="{{ 'assets/img/whistle.jpg' | relative_url }}" class="img-fluid rounded" alt="Acoustic Signal Analysis" style="max-width: 100%;">
 </div>
 <!-- END TEMPORARY -->
