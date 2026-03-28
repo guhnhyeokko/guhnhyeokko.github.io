@@ -38,7 +38,7 @@ projects:
 Our research group focuses on **underwater acoustics**, **diagnosis**, and **therapeutic ultrasound** based on various characteristics of **ultrasound technology**. In **underwater environments** where light usage is limited, we study underwater communication, seabed exploration through sonar, and plankton detection using ultrasonic scattering characteristics. In the field of **diagnostic ultrasound**, we conduct research on cardiovascular diseases such as arteriosclerosis through both in vitro and in vivo experiments, as well as numerical simulations of **red blood cell aggregation**. For **therapeutic applications**, we perform fundamental research on brain lesion treatment using High Intensity Focused Ultrasound (HIFU) technology. By leveraging the diverse properties of ultrasound, our work spans both underwater acoustics and medical applications.
 
 <!-- TEMPORARY: 임시 이미지 - 제거 시 이 블록 삭제 -->
-<div class="mt-4 mb-4" style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.2rem; background: #fafafa;">
+<div class="mt-4 mb-4" style="clear: both; border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.2rem; background: #fafafa;">
   <h3 style="margin: 0 0 0.8rem 0; font-size: 1.05rem;">
     <span style="display: inline-block; background: var(--global-theme-color); color: #fff; font-size: 0.7rem; padding: 2px 8px; border-radius: 4px; margin-right: 8px; vertical-align: middle;">NEW</span>
     <a href="https://doi.org/10.1016/j.ecoinf.2026.103693" style="color: inherit;">Symbolic Encoding of Bottlenose Dolphin Signature Whistles</a>
