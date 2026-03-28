@@ -9,7 +9,7 @@ profile:
   image: prof.jpg
   image_circular: false # crops the image to make it circular
   name: Prof. Dong-Guk Paeng
-  link: /members/dong-guk-paeng/
+  link: /professor/
   more_info: >
     <div style="font-family: 'Noto Sans KR', sans-serif; font-size: 0.9rem; line-height: 1.8; color: #444;">
       <p style="margin: 0; font-weight: 500;"><i class="fa-solid fa-building-columns" style="color: var(--global-theme-color); margin-right: 6px;"></i>Jeju National University</p>
@@ -39,6 +39,6 @@ Our research group focuses on **underwater acoustics**, **diagnosis**, and **the
 
 <!-- TEMPORARY: 임시 이미지 - 제거 시 이 블록 삭제 -->
 <div class="text-center mt-4 mb-4">
-  <img src="/assets/img/whistle.jpg" class="img-fluid rounded" alt="Acoustic Signal Analysis" style="max-width: 100%;">
+  <img src="assets/img/whistle.jpg" class="img-fluid rounded" alt="Acoustic Signal Analysis" style="max-width: 100%;">
 </div>
 <!-- END TEMPORARY -->
