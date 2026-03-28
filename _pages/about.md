@@ -38,7 +38,12 @@ projects:
 Our research group focuses on **underwater acoustics**, **diagnosis**, and **therapeutic ultrasound** based on various characteristics of **ultrasound technology**. In **underwater environments** where light usage is limited, we study underwater communication, seabed exploration through sonar, and plankton detection using ultrasonic scattering characteristics. In the field of **diagnostic ultrasound**, we conduct research on cardiovascular diseases such as arteriosclerosis through both in vitro and in vivo experiments, as well as numerical simulations of **red blood cell aggregation**. For **therapeutic applications**, we perform fundamental research on brain lesion treatment using High Intensity Focused Ultrasound (HIFU) technology. By leveraging the diverse properties of ultrasound, our work spans both underwater acoustics and medical applications.
 
 <!-- TEMPORARY: 임시 이미지 - 제거 시 이 블록 삭제 -->
-<div class="text-center mt-4 mb-4">
-  <img src="{{ 'assets/img/whistle.jpg' | relative_url }}" class="img-fluid rounded" alt="Acoustic Signal Analysis" style="max-width: 100%;">
-</div>
+<figure class="text-center mt-4 mb-4">
+  <img src="{{ 'assets/img/whistle.jpg' | relative_url }}" class="img-fluid rounded" alt="Signature whistle patterns of Indo-Pacific bottlenose dolphins in Jeju Island" style="max-width: 100%;">
+  <figcaption class="mt-2" style="font-size: 0.85rem; color: #666;">
+    The signature whistle patterns of the Indo-Pacific bottlenose dolphin (<em>Tursiops aduncus</em>) in Jeju Island (SW01–SW61). The frequency and temporal scale are illustrated in the bottom right corner.
+    <br>
+    <a href="https://doi.org/10.1016/j.ecoinf.2026.103693" style="color: var(--global-theme-color);">Kim & Paeng (2026), <em>Ecological Informatics</em></a>
+  </figcaption>
+</figure>
 <!-- END TEMPORARY -->
