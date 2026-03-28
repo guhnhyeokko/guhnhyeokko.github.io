@@ -6,4 +6,4 @@ related_posts: false
 title: New Publication in Ecological Informatics
 ---
 
-**New Paper Published** — Our paper _"Symbolic encoding of bottlenose dolphin signature whistles: A lightweight method for representation and comparison"_ by Changsoo Kim and Dong-Guk Paeng has been published in **Ecological Informatics**. This study presents the first report of signature whistles from the Jeju Island dolphin population using a novel symbolic contour encoding method (DAS). [Read more](https://doi.org/10.1016/j.ecoinf.2026.103693)
+<span style="display:inline-block; background:var(--global-theme-color); color:#fff; font-size:0.7rem; font-weight:600; padding:2px 8px; border-radius:4px; vertical-align:middle; margin-right:6px;">NEW PAPER</span> **Symbolic encoding of bottlenose dolphin signature whistles** — Kim & Paeng, _Ecological Informatics_ (2026). First report of signature whistles from the Jeju Island dolphin population using the novel DAS encoding method. <a href="https://doi.org/10.1016/j.ecoinf.2026.103693">DOI →</a>
