@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-10'
 papers:
   Z8N1TMIAAAAJ:-_dYPAW6P2MC:
     citations: 4
@@ -106,11 +106,11 @@ papers:
     title: Characteristics of Backscattering of Harmful Algae Using Underwater Ultrasound
     year: '2005'
   Z8N1TMIAAAAJ:8k81kl-MbHgC:
-    citations: 4
+    citations: 5
     title: Ultrasonic Doppler measurements of blood flow velocity of rabbit retinal vessels using a 45-MHz needle transducer
     year: '2010'
   Z8N1TMIAAAAJ:9Nmd_mFXekcC:
-    citations: 9
+    citations: 10
     title: "Effects of Mucuna pruriens (L.) DC. and Levodopa in Improving Parkinson\u2019s Disease in Rotenone Intoxicated Mice"
     year: '2024'
   Z8N1TMIAAAAJ:9ZlFYXVOiuMC:
@@ -198,7 +198,7 @@ papers:
     title: Measurements of diel variation of acoustic backscatter power from phytoplankton
     year: '2013'
   Z8N1TMIAAAAJ:JoZmwDi-zQgC:
-    citations: 227
+    citations: 228
     title: A systemic review of available low-cost EEG headsets used for drowsiness detection
     year: '2020'
   Z8N1TMIAAAAJ:K3LRdlH-MEoC:
@@ -286,7 +286,7 @@ papers:
     title: 3P5-5 Ultrasonic observation of 3 dimensional arterial bifurcation geometry using a chick chorioallantoic membrane model
     year: '2015'
   Z8N1TMIAAAAJ:RGFaLdJalmkC:
-    citations: 7
+    citations: 8
     title: Depletion-model-based numerical simulation of the kinetics of red blood cell aggregation under sinusoidal pulsatile flow
     year: '2018'
   Z8N1TMIAAAAJ:RHpTSmoSYBkC:
@@ -346,7 +346,7 @@ papers:
     title: High spatial and temporal resolution observations of pulsatile changes in blood echogenicity in the common carotid artery of rats
     year: '2013'
   Z8N1TMIAAAAJ:VL0QpB8kHFEC:
-    citations: 25
+    citations: 27
     title: Numerical simulation of spatiotemporal red blood cell aggregation under sinusoidal pulsatile flow
     year: '2021'
   Z8N1TMIAAAAJ:VLnqNzywnoUC:
@@ -590,7 +590,7 @@ papers:
     title: Influence of cell packing by centrifugation on 40-MHz ultrasound backscatter
     year: '2011'
   Z8N1TMIAAAAJ:kzcrU_BdoSEC:
-    citations: 8
+    citations: 10
     title: 'Axial shear rate: A hemorheological factor for erythrocyte aggregation under Womersley flow in an elastic vessel based on numerical simulation'
     year: '2023'
   Z8N1TMIAAAAJ:lSLTfruPkqcC:
@@ -615,7 +615,7 @@ papers:
     year: '2014'
   Z8N1TMIAAAAJ:nb7KW1ujOQ8C:
     citations: 3
-    title: Feature extraction algorithm for underwater transient signal using cepstral coefficients based on wavelet packet
+    title: Feature Extraction Algorithm for Underwater Transient Signal Using Cepstral Coefficients Based on Wavelet Packet
     year: '2014'
   Z8N1TMIAAAAJ:nrtMV_XWKgEC:
     citations: 0
@@ -686,7 +686,7 @@ papers:
     title: "SECTION 15-BIO & MEDICAL NDE-Characterization of the Harmonic Generation from Cavitating Bubbles Interacted with a Diagnostic Ultrasound in the Focal Region of High Intensity \u2026"
     year: '2006'
   Z8N1TMIAAAAJ:tzM49s52ZIMC:
-    citations: 7
+    citations: 8
     title: Acute neuro-biochemical changes induced by nitrogen-tungsten co-doped titanium dioxide nanoparticles
     year: '2023'
   Z8N1TMIAAAAJ:u-x6o8ySG0sC:
@@ -762,7 +762,7 @@ papers:
     title: Moored measurement of the ambient noise and analysis with environmental factors in the coastal sea of Jeju Island
     year: '2020'
   Z8N1TMIAAAAJ:zLWjf1WUPmwC:
-    citations: 1
+    citations: 2
     title: 'Spatiotemporal blood viscosity by local hematocrit under pulsatile flow: Whole blood experiments and computational analysis'
     year: '2025'
   Z8N1TMIAAAAJ:zYLM7Y9cAGgC:
