@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-13'
 papers:
   Z8N1TMIAAAAJ:-_dYPAW6P2MC:
     citations: 4
@@ -110,7 +110,7 @@ papers:
     title: Ultrasonic Doppler measurements of blood flow velocity of rabbit retinal vessels using a 45-MHz needle transducer
     year: '2010'
   Z8N1TMIAAAAJ:9Nmd_mFXekcC:
-    citations: 10
+    citations: 12
     title: "Effects of Mucuna pruriens (L.) DC. and Levodopa in Improving Parkinson\u2019s Disease in Rotenone Intoxicated Mice"
     year: '2024'
   Z8N1TMIAAAAJ:9ZlFYXVOiuMC:
@@ -198,7 +198,7 @@ papers:
     title: Measurements of diel variation of acoustic backscatter power from phytoplankton
     year: '2013'
   Z8N1TMIAAAAJ:JoZmwDi-zQgC:
-    citations: 228
+    citations: 231
     title: A systemic review of available low-cost EEG headsets used for drowsiness detection
     year: '2020'
   Z8N1TMIAAAAJ:K3LRdlH-MEoC:
@@ -274,7 +274,7 @@ papers:
     title: Fabrication of a 40 MHz single element ultrasonic transducer using a PMN-PT single crystal
     year: '2006'
   Z8N1TMIAAAAJ:PR6Y55bgFSsC:
-    citations: 30
+    citations: 32
     title: Semantic segmentation-based whistle extraction of Indo-Pacific Bottlenose Dolphin residing at the coast of Jeju island
     year: '2022'
   Z8N1TMIAAAAJ:QIV2ME_5wuYC:
@@ -346,7 +346,7 @@ papers:
     title: High spatial and temporal resolution observations of pulsatile changes in blood echogenicity in the common carotid artery of rats
     year: '2013'
   Z8N1TMIAAAAJ:VL0QpB8kHFEC:
-    citations: 26
+    citations: 27
     title: Numerical simulation of spatiotemporal red blood cell aggregation under sinusoidal pulsatile flow
     year: '2021'
   Z8N1TMIAAAAJ:VLnqNzywnoUC:
@@ -502,7 +502,7 @@ papers:
     title: The smoking acute effect on the cyclic variation in blood echogenicity from the common carotid artery
     year: '2010'
   Z8N1TMIAAAAJ:eJXPG6dFmWUC:
-    citations: 16
+    citations: 17
     title: "Optimizing computer\u2013brain Interface parameters for non-invasive brain-to-brain Interface"
     year: '2020'
   Z8N1TMIAAAAJ:eMMeJKvmdy0C:
@@ -518,7 +518,7 @@ papers:
     title: Ultrasonic backscatter response to blood flow disturbance by a severe eccentric stenosis
     year: '2004'
   Z8N1TMIAAAAJ:epqYDVWIO7EC:
-    citations: 5
+    citations: 7
     title: Principles of Doppler ultrasound and emerging blood flow imaging
     year: '2025'
   Z8N1TMIAAAAJ:eq2jaN3J8jMC:
