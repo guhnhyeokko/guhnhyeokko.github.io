@@ -20,17 +20,14 @@ Using porcine models that better approximate human brain anatomy than small-anim
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/therapeutic_bbb_opening_concept.png" title="FUS-induced BBB opening concept" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/therapeutic_bbb_opening_concept.png" title="FUS-induced BBB opening concept" caption="Microbubble-assisted BBB opening concept adapted from Ohta et al., Scientific Reports 10, 18220 (2020), doi:10.1038/s41598-020-75253-9." class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/therapeutic_navigation_interface.png" title="Navigation interface for FUS targeting" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/therapeutic_registration_concept.jpg" title="Registration concept for image-guided targeting" class="img-fluid rounded z-depth-1" %}
-  </div>
 </div>
 <div class="caption">
-    Key components of the workflow: FUS-induced BBB opening, in-house navigation, and image-to-procedure registration.
+  Key components of the workflow: FUS-induced BBB opening and in-house navigation for image-guided targeting.
 </div>
 
 ## Research Fields
