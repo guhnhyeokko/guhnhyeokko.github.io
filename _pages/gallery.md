@@ -18,7 +18,7 @@ HOW TO ADD A PHOTO
 4. `zoomable=true` makes each photo click-to-enlarge. Photos flow 3 per row (col-4),
    wrapping to new rows automatically as you add more.
    Commit & push, or just send me the photos and I'll add them.
-{% endcomment %}
+   {% endcomment %}
 
 <div class="row">
   <div class="col-4 mt-3" id="istu2026-junbin">
