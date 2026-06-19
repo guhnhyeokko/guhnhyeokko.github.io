@@ -1606,6 +1606,22 @@ mjx-container[jax="CHTML"][display="true"] {
   cursor: pointer;
 }
 
+// Placeholder box for members without a photo
+.member-no-photo {
+  width: 150px;
+  min-height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--global-bg-color);
+  border: 1px dashed var(--global-divider-color);
+  color: var(--global-divider-color);
+
+  i {
+    font-size: 2.5rem;
+  }
+}
+
 .projects .card {
   border: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);

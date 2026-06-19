@@ -9,7 +9,7 @@ area: underwater
 profile:
   name: Jiah Son
   position: MS Student
-  image: 11.jpg
+  image:
   email:
   github:
   address:

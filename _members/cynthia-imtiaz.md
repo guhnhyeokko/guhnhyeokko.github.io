@@ -9,7 +9,7 @@ area: therapeutic
 profile:
   name: Cynthia Imtiaz
   position: Researcher
-  image: 11.jpg
+  image:
   email: cynthiaimtiaz@stu.jejunu.ac.kr
   github:
   address:

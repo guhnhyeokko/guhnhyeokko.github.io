@@ -9,7 +9,7 @@ area: underwater
 profile:
   name: Seungju Jeong
   position: Undergraduate Student
-  image: 11.jpg
+  image:
   email: seungju834@gmail.com
   github:
   address:
