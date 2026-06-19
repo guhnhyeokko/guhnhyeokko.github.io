@@ -6,6 +6,7 @@
 {%- endcomment -%}
 {%- assign areas = 'underwater,diagnostic,therapeutic' | split: ',' -%}
 {%- assign area_labels = 'Underwater Acoustics,Diagnostic Ultrasound,Therapeutic Ultrasound' | split: ',' -%}
+{%- assign group_rank = 'Postdoctoral Researcher,Researcher,PhD Student,Master Student,Undergraduate Student' | split: ',' -%}
 
 {%- assign pis = site.members | where: 'group', 'Principal Investigator' -%}
 {%- if pis.size > 0 -%}
@@ -19,12 +20,15 @@
 
 {%- for area in areas -%}
   {%- assign area_label = area_labels[forloop.index0] -%}
-  {%- assign members_in_area = site.members | where: 'area', area | sort: 'lastname' -%}
+  {%- assign members_in_area = site.members | where_exp: 'm', 'm.area contains area' -%}
   {%- if members_in_area.size > 0 -%}
     <h5 class="mt-4 mb-3">{{ area_label }}</h5>
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-      {%- for member in members_in_area -%}
-        {% include team_home_card.liquid member=member %}
+      {%- for grp in group_rank -%}
+        {%- assign grp_members = members_in_area | where: 'group', grp | sort: 'lastname' -%}
+        {%- for member in grp_members -%}
+          {% include team_home_card.liquid member=member %}
+        {%- endfor -%}
       {%- endfor -%}
     </div>
   {%- endif -%}
