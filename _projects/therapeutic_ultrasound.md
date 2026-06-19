@@ -20,16 +20,22 @@ Using porcine models that better approximate human brain anatomy than small-anim
 
 Beyond stem cells, the same FUS-mediated BBB opening platform can ferry neuroprotective drugs into the brain. In a recent proof-of-concept study from our group, FUS-mediated BBB opening enhanced delivery of Rg3 ginseng nanoparticles in a Parkinson's disease mouse model, increasing nanoparticle accumulation in the brain and supporting mitochondrial function alongside improvements in motor performance ([Imtiaz, Kim & Paeng, _International Journal of Pharmaceutics: X_, 2026](https://doi.org/10.1016/j.ijpx.2026.100583)).
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/therapeutic_bbb_opening_concept.png" title="FUS-induced BBB opening concept" caption="Microbubble-assisted BBB opening concept adapted from Ohta et al., Scientific Reports 10, 18220 (2020), doi:10.1038/s41598-020-75253-9." class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/1-s2.0-S2590156726001039-ga1_lrg.jpg" title="Ultrasound-mediated ginseng nanoparticle delivery" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm mt-3 mt-md-0">
+</div>
+<div class="caption">
+  Graphical abstract of FUS-mediated BBB opening for ginseng (Rg3) nanoparticle delivery in a Parkinson's disease mouse model, with improved mitochondrial and motor function. From Imtiaz, Kim &amp; Paeng, <em>International Journal of Pharmaceutics: X</em>, 2026 (doi:10.1016/j.ijpx.2026.100583).
+</div>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-7 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/therapeutic_navigation_interface.png" title="Navigation interface for FUS targeting" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-  Key components of the workflow: FUS-induced BBB opening and in-house navigation for image-guided targeting.
+  In-house navigation interface for image-guided FUS targeting.
 </div>
 
 ## Research Fields
