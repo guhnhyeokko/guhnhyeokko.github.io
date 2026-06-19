@@ -34,7 +34,7 @@ to evaluate therapeutic delivery and efficacy.
 
 **Focused ultrasound-mediated blood-brain barrier opening enhances delivery of Rg3 ginseng nanoparticles in a Parkinson's disease mouse model**
 Cynthia Imtiaz, Changsoo Kim, Dong-Guk Paeng.
-*International Journal of Pharmaceutics: X*, 12 (2026) 100583.
+_International Journal of Pharmaceutics: X_, 12 (2026) 100583.
 [doi:10.1016/j.ijpx.2026.100583](https://doi.org/10.1016/j.ijpx.2026.100583)
 
 The blood–brain barrier (BBB) blocks most neuroprotective compounds from reaching
