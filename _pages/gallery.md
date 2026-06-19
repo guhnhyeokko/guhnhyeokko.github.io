@@ -38,4 +38,4 @@ HOW TO ADD AN ALBUM
     {% include figure.liquid path="assets/img/ASK-guhnhyeok.jpeg" class="gallery-thumb rounded z-depth-1" zoomable=true %}
   </div>
 </div>
-<div class="caption">GuhnHyeok Ko presenting at the 2026 Spring Conference of the Acoustical Society of Korea (41st Underwater Acoustics Symposium), Jeju.</div>
+<div class="caption">GuhnHyeok Ko presenting at the 2026 Spring Conference of the Acoustical Society of Korea (41st Underwater Acoustics Symposium), Jungmun, Jeju.</div>
