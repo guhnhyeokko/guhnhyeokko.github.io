@@ -7,4 +7,4 @@ related_posts: false
 title: Poster and oral presentation at ISTU 2026 (Trondheim)
 ---
 
-**Cynthia Imtiaz** gave a poster and an oral presentation — _Mitochondrial and motor function recovery of the PD mice by Rg3 nanoparticle delivery through focused ultrasound_ (Imtiaz, Kim & Paeng) — at the 2026 International Symposium for Therapeutic Ultrasound (ISTU), Trondheim, Norway.
+**Cynthia Imtiaz** gave a poster and an oral presentation — _Mitochondrial and motor function recovery of the PD mice by Rg3 nanoparticle delivery through focused ultrasound_ (Imtiaz, Kim & Paeng) — at the 2026 International Symposium for Therapeutic Ultrasound (ISTU), Trondheim, Norway. <a href="/gallery/#istu2026-cynthia">📷 Photos →</a>
