@@ -4,6 +4,7 @@ group: Master Student
 title: Sanghyeok Jang
 lastname: Jang
 description:
+area: therapeutic
 
 profile:
   name: Sanghyeok Jang

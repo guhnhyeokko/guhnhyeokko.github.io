@@ -9,9 +9,10 @@
 
 {%- assign pis = site.members | where: 'group', 'Principal Investigator' -%}
 {%- if pis.size > 0 -%}
-  <div class="row row-cols-1 row-cols-md-2 g-4 mb-2">
+  <h5 class="mt-4 mb-3">Principal Investigator</h5>
+  <div class="row row-cols-1 row-cols-md-2 g-4">
     {%- for member in pis -%}
-      {% include team_home_card.liquid member=member badge="Principal Investigator" %}
+      {% include team_home_card.liquid member=member %}
     {%- endfor -%}
   </div>
 {%- endif -%}
