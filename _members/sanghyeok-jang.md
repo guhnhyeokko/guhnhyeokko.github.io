@@ -3,7 +3,7 @@ layout: member
 group: Master Student
 title: Sanghyeok Jang
 lastname: Jang
-description: ~~
+description:
 
 profile:
   name: Sanghyeok Jang
@@ -14,10 +14,4 @@ profile:
   address:
 ---
 
-## About
-
-... will be added
-
-## Research Interests
-
-- ... will be added
+Profile coming soon.

@@ -1,0 +1,41 @@
+{%- comment -%}
+  Compact member card for the home-page team preview.
+  Parameters:
+    member - a _members document
+    badge  - optional label rendered as a pill (e.g. the role or research area)
+{%- endcomment -%}
+{%- assign m = include.member -%}
+{%- if m.redirect -%}
+  {%- assign member_link = m.redirect | relative_url -%}
+{%- else -%}
+  {%- assign member_link = m.url | relative_url -%}
+{%- endif -%}
+<div class="col">
+  <div class="card h-100 hoverable">
+    <div class="card-body d-flex align-items-center gap-3">
+      {%- if m.profile.image -%}
+        {%- assign member_image_path = m.profile.image | prepend: 'assets/img/' | relative_url -%}
+        <a href="{{ member_link }}" class="flex-shrink-0">
+          <img
+            src="{{ member_image_path }}"
+            alt="{{ m.profile.name }}"
+            class="rounded"
+            style="width: 64px; height: 64px; object-fit: cover;"
+            loading="lazy"
+          >
+        </a>
+      {%- endif -%}
+      <div class="flex-grow-1">
+        <h6 class="card-title mb-1">
+          <a href="{{ member_link }}">{{ m.profile.name }}</a>
+        </h6>
+        <p class="card-subtitle text-muted mb-0" style="font-size: 0.85rem;">{{ m.profile.position }}</p>
+        {%- if include.badge -%}
+          <span class="badge rounded-pill mt-1" style="background-color: var(--global-theme-color); color: #fff; font-size: 0.7rem;">
+            {{- include.badge -}}
+          </span>
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+</div>

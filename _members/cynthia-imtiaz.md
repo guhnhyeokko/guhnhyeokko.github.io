@@ -4,6 +4,7 @@ group: Researcher
 title: Cynthia Imtiaz
 lastname: Imtiaz
 description: Focused ultrasound–mediated drug delivery and neurodegenerative disease models
+area: therapeutic
 
 profile:
   name: Cynthia Imtiaz

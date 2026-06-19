@@ -5,6 +5,7 @@ description: Focused ultrasound-mediated stem-cell delivery for dementia therapy
 img: assets/img/therapeutic_fus_guidance_main.png
 importance: 1
 category: work
+area: therapeutic
 related_publications: false
 ---
 

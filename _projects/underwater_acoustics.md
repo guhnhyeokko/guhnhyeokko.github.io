@@ -5,6 +5,7 @@ description: Marine bioacoustics and underwater sound source localization
 img: assets/img/underwater-acou.jpg
 importance: 1
 category: work
+area: underwater
 related_publications: true
 ---
 
