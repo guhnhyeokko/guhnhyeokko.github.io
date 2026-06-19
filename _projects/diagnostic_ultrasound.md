@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biomedical Ultrasound
+title: Diagnostic Ultrasound
 description: RBC aggregation analysis for circulatory disease diagnosis
 img: assets/img/hemodynamics-main.png
 importance: 2
