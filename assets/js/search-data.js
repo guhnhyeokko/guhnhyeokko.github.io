@@ -105,8 +105,8 @@ ninja.data = [{
         section: "News",},{id: "news-new-paper-published-in-international-journal-of-pharmaceutics-x-focused-ultrasound-mediated-blood-brain-barrier-opening-enhances-delivery-of-rg3-ginseng-nanoparticles-in-a-parkinson-s-disease-mouse-model-by-imtiaz-kim-amp-amp-paeng-2026-read",
     title: 'New paper published in International Journal of Pharmaceutics: X — Focused ultrasound-mediated blood-brain...',
       description: "",
-        section: "News",},{id: "projects-biomedical-ultrasound",
-    title: 'Biomedical Ultrasound',
+        section: "News",},{id: "projects-diagnostic-ultrasound",
+    title: 'Diagnostic Ultrasound',
       description: "RBC aggregation analysis for circulatory disease diagnosis",
         section: "Projects",handler: () => {
   window.location.href = "/projects/diagnostic_ultrasound/";
