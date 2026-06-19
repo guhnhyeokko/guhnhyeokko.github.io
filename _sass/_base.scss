@@ -1598,6 +1598,14 @@ mjx-container[jax="CHTML"][display="true"] {
   }
 }
 
+// Gallery thumbnails: uniform boxed grid (3 per row)
+.gallery-thumb {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  cursor: pointer;
+}
+
 .projects .card {
   border: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
