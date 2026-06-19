@@ -4,6 +4,7 @@ group: Undergraduate Student
 title: Seungju Jeong
 lastname: Jeong
 description:
+area: underwater
 
 profile:
   name: Seungju Jeong

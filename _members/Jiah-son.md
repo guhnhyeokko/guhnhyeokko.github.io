@@ -4,6 +4,7 @@ group: Master Student
 title: Jiah Son
 lastname: Son
 description:
+area: underwater
 
 profile:
   name: Jiah Son

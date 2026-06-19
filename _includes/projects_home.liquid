@@ -20,19 +20,6 @@
               %}
             {% endif %}
             <div class="card-body">
-              {% if project.area %}
-                {% case project.area %}
-                  {% when 'underwater' -%}
-                    {%- assign area_label = 'Underwater Acoustics' %}
-                  {% when 'diagnostic' -%}
-                    {%- assign area_label = 'Diagnostic Ultrasound' %}
-                  {% when 'therapeutic' -%}
-                    {%- assign area_label = 'Therapeutic Ultrasound' %}
-                  {% else -%}
-                    {%- assign area_label = project.area %}
-                {% endcase %}
-                <span class="badge rounded-pill mb-2" style="background-color: var(--global-theme-color); color: #fff;">{{ area_label }}</span>
-              {% endif %}
               <h5 class="card-title">{{ project.title }}</h5>
               <p class="card-text">{{ project.description }}</p>
             </div>
