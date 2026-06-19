@@ -3,7 +3,7 @@ layout: member
 group: Undergraduate Student
 title: Seungju Jeong
 lastname: Jeong
-description: ~~
+description:
 
 profile:
   name: Seungju Jeong
@@ -14,10 +14,4 @@ profile:
   address:
 ---
 
-## About
-
-...
-
-## Research Interests
-
-- ...
+Profile coming soon.

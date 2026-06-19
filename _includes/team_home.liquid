@@ -1,0 +1,30 @@
+{%- comment -%}
+  Home-page team preview. The PI is shown first, then current members grouped by
+  research area (mirroring the Projects section) so visitors can see who works on
+  each area. Members without an `area` (e.g. incoming students) appear on the full
+  /team/ page rather than here.
+{%- endcomment -%}
+{%- assign areas = 'underwater,diagnostic,therapeutic' | split: ',' -%}
+{%- assign area_labels = 'Underwater Acoustics,Diagnostic Ultrasound,Therapeutic Ultrasound' | split: ',' -%}
+
+{%- assign pis = site.members | where: 'group', 'Principal Investigator' -%}
+{%- if pis.size > 0 -%}
+  <div class="row row-cols-1 row-cols-md-2 g-4 mb-2">
+    {%- for member in pis -%}
+      {% include team_home_card.liquid member=member badge="Principal Investigator" %}
+    {%- endfor -%}
+  </div>
+{%- endif -%}
+
+{%- for area in areas -%}
+  {%- assign area_label = area_labels[forloop.index0] -%}
+  {%- assign members_in_area = site.members | where: 'area', area | sort: 'lastname' -%}
+  {%- if members_in_area.size > 0 -%}
+    <h5 class="mt-4 mb-3">{{ area_label }}</h5>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      {%- for member in members_in_area -%}
+        {% include team_home_card.liquid member=member %}
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+{%- endfor -%}

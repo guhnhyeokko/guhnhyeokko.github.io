@@ -4,6 +4,7 @@ group: PhD Student
 title: JunBin Ko
 lastname: Ko
 description: Therapeutic Ultrasound
+area: therapeutic
 
 profile:
   name: JunBin Ko
@@ -16,8 +17,8 @@ profile:
 
 ## About
 
-PhD student
+PhD student working on therapeutic ultrasound.
 
 ## Research Interests
 
--
+- Therapeutic ultrasound

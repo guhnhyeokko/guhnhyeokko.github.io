@@ -3,21 +3,15 @@ layout: member
 group: Master Student
 title: Jiah Son
 lastname: Son
-description: ~~
+description:
 
 profile:
   name: Jiah Son
   position: MS Student
   image: 11.jpg
-  email: ...
+  email:
   github:
   address:
 ---
 
-## About
-
-...
-
-## Research Interests
-
-- ...
+Profile coming soon.

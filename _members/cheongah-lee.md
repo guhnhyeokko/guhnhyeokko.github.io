@@ -4,6 +4,7 @@ group: Postdoctoral Researcher
 title: Cheong-Ah Lee
 lastname: Lee
 description: Hemodynamics, Numerical simulation of RBC kinetics
+area: diagnostic
 
 profile:
   name: Cheong-Ah Lee

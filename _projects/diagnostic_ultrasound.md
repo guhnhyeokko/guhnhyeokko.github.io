@@ -5,6 +5,7 @@ description: RBC aggregation analysis for circulatory disease diagnosis
 img: assets/img/hemodynamics-main.png
 importance: 2
 category: work
+area: diagnostic
 related_publications: true
 ---
 

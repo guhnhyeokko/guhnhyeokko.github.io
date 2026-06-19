@@ -79,6 +79,20 @@ layout: default
           <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Projects</a>
         </h2>
         {% include projects_home.liquid limit=page.projects.limit %}
+        <p class="mt-2 mb-0">
+          <a href="{{ '/projects/' | relative_url }}">View all projects →</a>
+        </p>
+      {% endif %}
+
+      <!-- Team -->
+      {% if page.team_preview and page.team_preview.enabled %}
+        <h2 class="section-header">
+          <a href="{{ '/team/' | relative_url }}" style="color: inherit">Team</a>
+        </h2>
+        {% include team_home.liquid %}
+        <p class="mt-2 mb-0">
+          <a href="{{ '/team/' | relative_url }}">View full team →</a>
+        </p>
       {% endif %}
 
       <!-- Selected papers -->
@@ -87,6 +101,9 @@ layout: default
           <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
         </h2>
         {% include selected_papers.liquid %}
+        <p class="mt-2 mb-0">
+          <a href="{{ '/publications/' | relative_url }}">View all publications →</a>
+        </p>
       {% endif %}
 
       <!-- Social -->
