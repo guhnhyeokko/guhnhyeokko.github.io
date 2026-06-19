@@ -156,7 +156,6 @@ layout: page
         <tr>
           <th scope="col">Name</th>
           <th scope="col">Role / Affiliation</th>
-          <th scope="col">Email</th>
         </tr>
       </thead>
       <tbody>
@@ -166,13 +165,6 @@ layout: page
             <td>
               {% if alumnus.role %}
                 {{ alumnus.role }}
-              {% else %}
-                -
-              {% endif %}
-            </td>
-            <td>
-              {% if alumnus.email %}
-                <a href="mailto:{{ alumnus.email }}">{{ alumnus.email }}</a>
               {% else %}
                 -
               {% endif %}
