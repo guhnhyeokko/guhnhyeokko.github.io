@@ -9,7 +9,7 @@ area: underwater
 profile:
   name: GuhnHyeok Ko
   position: PhD Student
-  image: rhino.png
+  image:
   email: guhnhyeokko@stu.jejunu.ac.kr
   github:
   address:

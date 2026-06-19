@@ -43,15 +43,15 @@ layout: page
       {% for member in members_in_group %}
         <div class="col mb-4">
           <div class="d-flex gap-3 h-100">
-            {% if member.profile.image %}
-              <div class="flex-shrink-0">
-                {% assign member_image_path = member.profile.image | prepend: 'assets/img/' %}
-                {% if member.redirect %}
-                  {% assign member_link = member.redirect | relative_url %}
-                {% else %}
-                  {% assign member_link = member.url | relative_url %}
-                {% endif %}
-                <a href="{{ member_link }}" class="d-block h-100">
+            {% if member.redirect %}
+              {% assign member_link = member.redirect | relative_url %}
+            {% else %}
+              {% assign member_link = member.url | relative_url %}
+            {% endif %}
+            <div class="flex-shrink-0">
+              <a href="{{ member_link }}" class="d-block h-100">
+                {% if member.profile.image %}
+                  {% assign member_image_path = member.profile.image | prepend: 'assets/img/' %}
                   <img
                     src="{{ member_image_path | relative_url }}"
                     alt="{{ member.profile.name }}"
@@ -59,9 +59,13 @@ layout: page
                     style="width: 150px; object-fit: cover;"
                     loading="lazy"
                   >
-                </a>
-              </div>
-            {% endif %}
+                {% else %}
+                  <div class="member-no-photo rounded h-100" style="width: 150px;" aria-label="No photo available">
+                    <i class="fa-solid fa-user"></i>
+                  </div>
+                {% endif %}
+              </a>
+            </div>
             <div class="card flex-grow-1 hoverable h-100 d-flex flex-column">
               <div class="card-body d-flex flex-column">
                 <h5 class="card-title">
