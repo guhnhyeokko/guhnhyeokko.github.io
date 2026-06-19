@@ -1564,6 +1564,38 @@ mjx-container[jax="CHTML"][display="true"] {
   .news-content {
     font-size: 1rem;
   }
+
+  .news-tag {
+    display: inline-block;
+    font-size: 0.62rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 1.4;
+    padding: 0.05rem 0.4rem;
+    margin-right: 0.5rem;
+    border-radius: 3px;
+    vertical-align: middle;
+    border: 1px solid var(--global-divider-color);
+    color: #777;
+    background-color: transparent;
+    white-space: nowrap;
+  }
+
+  .news-tag-publication {
+    color: #1565c0;
+    border-color: rgba(21, 101, 192, 0.35);
+  }
+
+  .news-tag-conference {
+    color: #2e7d32;
+    border-color: rgba(46, 125, 50, 0.35);
+  }
+
+  .news-tag-member {
+    color: #6a1b9a;
+    border-color: rgba(106, 27, 154, 0.35);
+  }
 }
 
 .projects .card {

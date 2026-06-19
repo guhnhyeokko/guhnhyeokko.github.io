@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2026-01-16 09:00:00-0900
+tag: News
 inline: true
 related_posts: false
 title: Homepage Launch

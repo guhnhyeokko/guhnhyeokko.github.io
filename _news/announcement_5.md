@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2026-03-28 09:00:00-0900
+tag: Publication
 inline: true
 related_posts: false
 title: New Publication in Ecological Informatics

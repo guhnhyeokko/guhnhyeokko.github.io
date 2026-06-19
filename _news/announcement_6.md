@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2026-06-11 09:00:00-0900
+tag: Publication
 inline: true
 related_posts: false
 title: "New Publication in International Journal of Pharmaceutics: X"

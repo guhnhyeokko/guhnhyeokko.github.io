@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2026-05-22 09:00:00-0900
+tag: Conference
 inline: true
 related_posts: false
 title: Talk at the Acoustical Society of Korea Spring Conference 2026
