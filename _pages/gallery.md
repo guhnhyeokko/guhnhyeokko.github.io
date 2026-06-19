@@ -23,10 +23,10 @@ HOW TO ADD AN ALBUM
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/gallery/istu2026-junbin.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/ISTU2026-junbin.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/gallery/istu2026-cynthia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/ISTU2026-cynthia.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 <div class="caption">2026 International Symposium for Therapeutic Ultrasound (ISTU). Left: JunBin Ko (in vivo pig FUS-BBBo). Right: Cynthia Imtiaz (Rg3 nanoparticle delivery for PD mice).</div>
@@ -35,7 +35,7 @@ HOW TO ADD AN ALBUM
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/gallery/ask2026-guhnhyeok.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/ASK-guhnhyeok.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 <div class="caption">GuhnHyeok Ko presenting at the 2026 Spring Conference of the Acoustical Society of Korea (41st Underwater Acoustics Symposium), Jeju.</div>
