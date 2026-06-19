@@ -18,6 +18,8 @@ A current focus is an optical tracking-guided FUS system for large-animal experi
 
 Using porcine models that better approximate human brain anatomy than small-animal models, we are building a translational workflow from treatment planning and fiducial registration to MRI- and fluorescence-based confirmation of stem-cell delivery. This work supports future therapeutic strategies for dementia, including Alzheimer's disease.
 
+Beyond stem cells, the same FUS-mediated BBB opening platform can ferry neuroprotective drugs into the brain. In a recent proof-of-concept study from our group, FUS-mediated BBB opening enhanced delivery of Rg3 ginseng nanoparticles in a Parkinson's disease mouse model, increasing nanoparticle accumulation in the brain and supporting mitochondrial function alongside improvements in motor performance ([Imtiaz, Kim & Paeng, _International Journal of Pharmaceutics: X_, 2026](https://doi.org/10.1016/j.ijpx.2026.100583)).
+
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/therapeutic_bbb_opening_concept.png" title="FUS-induced BBB opening concept" caption="Microbubble-assisted BBB opening concept adapted from Ohta et al., Scientific Reports 10, 18220 (2020), doi:10.1038/s41598-020-75253-9." class="img-fluid rounded z-depth-1" %}
@@ -36,3 +38,4 @@ Using porcine models that better approximate human brain anatomy than small-anim
 - Optical tracking-guided navigation and transcranial FUS targeting
 - Large-animal models for translational therapeutic ultrasound research
 - FUS-assisted stem-cell delivery strategies for dementia therapy
+- FUS-mediated nanoparticle delivery of neuroprotective agents in Parkinson's disease models
