@@ -18,6 +18,7 @@
           <div class="news-item mb-3">
             <div class="news-date mr-2" style="font-size: 0.8rem; color: #999; min-width: 80px;">{{ item.date | date: '%b %d, %Y' }}</div>
             <div class="news-content d-inline-block align-middle">
+              {% if item.tag %}<span class="news-tag news-tag-{{ item.tag | slugify }}">{{ item.tag }}</span>{% endif %}
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}

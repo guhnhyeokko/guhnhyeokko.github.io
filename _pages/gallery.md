@@ -19,17 +19,23 @@ HOW TO ADD AN ALBUM
    The "Sample Album" below uses placeholder images — replace it with a real event.
    {% endcomment %}
 
-## Sample Album — replace with your event (e.g. ICA 2026)
+## ISTU 2026 — Trondheim, Norway
 
 <div class="row">
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/gallery/sample-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/ISTU2026-junbin.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/gallery/sample-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/gallery/sample-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/ISTU2026-cynthia.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
-<div class="caption">Sample album — replace these with your conference / lab photos.</div>
+<div class="caption">2026 International Symposium for Therapeutic Ultrasound (ISTU). Left: JunBin Ko (in vivo pig FUS-BBBo). Right: Cynthia Imtiaz (Rg3 nanoparticle delivery for PD mice).</div>
+
+## Acoustical Society of Korea Spring Conference 2026
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/ASK-guhnhyeok.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+<div class="caption">GuhnHyeok Ko presenting at the 2026 Spring Conference of the Acoustical Society of Korea (41st Underwater Acoustics Symposium), Jeju.</div>
