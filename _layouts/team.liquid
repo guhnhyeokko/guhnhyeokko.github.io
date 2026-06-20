@@ -76,6 +76,9 @@ layout: page
                   <a href="{{ member_link }}">{{ member.profile.name }}</a>
                 </h5>
                 <p class="card-subtitle mb-2 text-muted">{{ member.profile.position }}</p>
+                {% if member.profile.education %}
+                  <p class="text-muted member-card-edu mb-2"><i class="fa-solid fa-graduation-cap"></i> {{ member.profile.education }}</p>
+                {% endif %}
                 {% if member.description %}
                   <p class="card-text">{{ member.description }}</p>
                 {% endif %}
