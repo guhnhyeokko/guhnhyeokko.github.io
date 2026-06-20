@@ -38,6 +38,94 @@ body.sticky-bottom-footer {
   }
 }
 
+// About page header row: title + intro text on one side, profile photo + info on
+// the other. On wide screens this becomes a two-column block where the photo
+// column stretches to the full height of the title and body text, so the photo's
+// top lines up with the title and its bottom lines up with the end of the text.
+.about-header-row {
+  .profile {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+  }
+}
+
+@media (min-width: 576px) {
+  .about-header-row {
+    display: grid;
+    grid-template-columns: 1fr 30%;
+    grid-template-rows: auto 1fr;
+    column-gap: 1.5rem;
+    align-items: stretch;
+
+    > .post-header {
+      grid-column: 1;
+      grid-row: 1;
+      margin-bottom: 0;
+    }
+
+    > .about-body {
+      grid-column: 1;
+      grid-row: 2;
+
+      // Drop the trailing margin so the column ends exactly at the last line.
+      > :last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    > .profile {
+      grid-column: 2;
+      grid-row: 1 / span 2;
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
+
+      // The figure grows to fill the space left over by the name + info block,
+      // and the image covers it (cropping slightly) to match the text height.
+      figure {
+        flex: 1 1 auto;
+        min-height: 0;
+        margin: 0;
+      }
+
+      picture {
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+
+      img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        object-fit: cover;
+        object-position: center 25%;
+      }
+
+      .profile-name,
+      .more-info {
+        flex: 0 0 auto;
+      }
+    }
+  }
+
+  // Mirror the columns when the profile is configured on the left.
+  .about-header-row.profile-left {
+    grid-template-columns: 30% 1fr;
+
+    > .post-header,
+    > .about-body {
+      grid-column: 2;
+    }
+
+    > .profile {
+      grid-column: 1;
+    }
+  }
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************
