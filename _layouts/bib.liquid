@@ -46,6 +46,10 @@
             alt=entry.preview
           %}
         {% endif %}
+      {% else %}
+        <div class="pub-no-preview rounded{% if entry.area %} pub-no-preview-{{ entry.area }}{% endif %}" aria-hidden="true">
+          <i class="fa-solid fa-wave-square"></i>
+        </div>
       {% endif %}
     </div>
   {% endif %}
