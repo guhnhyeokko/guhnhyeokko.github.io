@@ -9,6 +9,7 @@ area: therapeutic
 profile:
   name: Sanghyeok Jang
   position: MS Student
+  education: B.S., Ocean System Engineering, Jeju National University
   image: sanghyeok.jpg
   email: tkdwkdgur@gmail.com
   github:

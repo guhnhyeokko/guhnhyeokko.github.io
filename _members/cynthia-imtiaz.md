@@ -9,6 +9,7 @@ area: therapeutic
 profile:
   name: Cynthia Imtiaz
   position: Researcher
+  education: M.S., Ocean System Engineering, Jeju National University
   image:
   email: cynthiaimtiaz@stu.jejunu.ac.kr
   github:

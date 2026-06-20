@@ -9,6 +9,7 @@ area: diagnostic
 profile:
   name: Cheong-Ah Lee
   position: Postdoc
+  education: Ph.D., Ocean System Engineering, Jeju National University
   image: drlee.jpg
   email: cjddk7467@stu.jejunu.ac.kr
   github:

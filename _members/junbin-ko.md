@@ -9,6 +9,7 @@ area: therapeutic
 profile:
   name: JunBin Ko
   position: PhD Student
+  education: M.S., Ocean System Engineering, Jeju National University
   image: kjb.jpg
   email: kojb1982@jejunu.ac.kr
   github:
