@@ -1,12 +1,14 @@
 ---
 ---
-<div class="row">
+<div class="row" data-area="{{ entry.area }}">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.area -%}
         {%- assign area_project = site.projects | where: 'area', entry.area | first -%}
         {%- if area_project -%}
           <a class="project-tag project-tag-{{ entry.area }}" href="{{ area_project.url | relative_url }}">{{ entry.area | capitalize }}</a>
+        {%- else -%}
+          <span class="project-tag project-tag-{{ entry.area }}">{{ entry.area | capitalize }}</span>
         {%- endif -%}
       {%- elsif entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
