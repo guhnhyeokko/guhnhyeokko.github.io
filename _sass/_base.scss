@@ -1723,6 +1723,46 @@ mjx-container[jax="CHTML"][display="true"] {
   border-color: rgba(142, 36, 170, 0.4);
 }
 
+.project-tag-other {
+  color: #666;
+  border-color: var(--global-divider-color);
+}
+
+// Research-area filter buttons on the publications pages.
+.pub-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.pub-filter-btn {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  padding: 0.3rem 0.85rem;
+  border-radius: 5px;
+  border: 1px solid var(--global-divider-color);
+  background-color: transparent;
+  color: var(--global-text-color);
+  cursor: pointer;
+  transition:
+    color 0.15s ease-in-out,
+    background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+
+  &:hover {
+    border-color: var(--global-theme-color);
+    color: var(--global-theme-color);
+  }
+
+  &.active {
+    background-color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+    color: #fff;
+  }
+}
+
 // Subtle placeholder thumbnail for publications with no preview image,
 // so the left column doesn't sit empty. Faintly tinted by research area.
 .pub-no-preview {
