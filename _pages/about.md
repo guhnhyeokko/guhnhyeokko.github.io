@@ -45,4 +45,6 @@ Our research group explores the diverse characteristics of **ultrasound technolo
 
 **Diagnostic ultrasound.** We investigate cardiovascular diseases such as arteriosclerosis through both in vitro and in vivo experiments, alongside numerical simulations of **red blood cell aggregation**.
 
-**Therapeutic ultrasound.** We carry out fundamental research on brain lesion treatment using High Intensity Focused Ultrasound (HIFU).
+**Therapeutic ultrasound.** We carry out fundamental research on brain lesion treatment using High Intensity Focused Ultrasound (HIFU), including focused ultrasound–mediated **blood–brain barrier opening (BBBO)** for non-invasive, targeted drug delivery to the brain.
+
+Our members regularly share this work at conferences at home and abroad — most recently the [International Symposium for Therapeutic Ultrasound (ISTU 2026)](/gallery/#istu2026-cynthia) in Trondheim, Norway, and the [Acoustical Society of Korea Spring Conference 2026](/gallery/#ask2026-guhnhyeok).
