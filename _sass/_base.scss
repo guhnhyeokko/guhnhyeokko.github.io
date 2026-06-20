@@ -1544,6 +1544,10 @@ mjx-container[jax="CHTML"][display="true"] {
   margin-top: 3rem;
   margin-bottom: 2rem;
   color: var(--global-text-color);
+
+  a {
+    color: inherit;
+  }
 }
 
 .news-item {
@@ -1559,6 +1563,7 @@ mjx-container[jax="CHTML"][display="true"] {
     text-align: center;
     vertical-align: middle;
     display: inline-block;
+    color: #6c757d;
   }
 
   .news-content {
@@ -1577,7 +1582,7 @@ mjx-container[jax="CHTML"][display="true"] {
     border-radius: 3px;
     vertical-align: middle;
     border: 1px solid var(--global-divider-color);
-    color: #777;
+    color: #666;
     background-color: transparent;
     white-space: nowrap;
   }
@@ -1606,6 +1611,19 @@ mjx-container[jax="CHTML"][display="true"] {
   cursor: pointer;
 }
 
+// Member photos on the full /team/ page
+.member-avatar {
+  width: 150px;
+  object-fit: cover;
+}
+
+// Compact member photos in the home-page team preview
+.member-avatar--sm {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+
 // Placeholder box for members without a photo
 .member-no-photo {
   width: 150px;
@@ -1620,6 +1638,46 @@ mjx-container[jax="CHTML"][display="true"] {
   i {
     font-size: 2.5rem;
   }
+
+  // Compact variant used by the home-page team preview
+  &.member-no-photo--sm {
+    width: 64px;
+    min-height: 64px;
+
+    i {
+      font-size: 1.5rem;
+    }
+  }
+}
+
+// Pill badge (e.g. role/area) on home-page member cards
+.member-badge {
+  background-color: var(--global-theme-color);
+  color: #fff;
+  font-size: 0.7rem;
+}
+
+// Compact subtitle on home-page member cards
+.member-card-position {
+  font-size: 0.85rem;
+}
+
+// Member name under the home-page profile image
+.profile-name-link {
+  color: var(--global-text-color);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.profile-name-text {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+// Spacing between cards in the home-page team preview
+.member-card .card-body {
+  gap: 2rem;
 }
 
 .projects .card {

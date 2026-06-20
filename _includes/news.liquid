@@ -4,7 +4,7 @@
     <div
       class="table-responsive"
       {% if include.limit and page.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
+        style="max-height: 18rem"
       {% endif %}
     >
       <div class="news-list">
@@ -16,7 +16,7 @@
         {% endif %}
         {% for item in news limit: news_limit %}
           <div class="news-item mb-3">
-            <div class="news-date mr-2" style="font-size: 0.8rem; color: #999; min-width: 80px;">{{ item.date | date: '%b %d, %Y' }}</div>
+            <div class="news-date mr-2">{{ item.date | date: '%b %d, %Y' }}</div>
             <div class="news-content d-inline-block align-middle">
               {% if item.tag -%}
                 <span class="news-tag news-tag-{{ item.tag | slugify }}">{{ item.tag }}</span>

@@ -38,14 +38,9 @@ layout: default
           {% if page.profile.name %}
             <div class="profile-name text-center mt-3 mb-2">
               {% if page.profile.link %}
-                <a
-                  href="{{ page.profile.link | relative_url }}"
-                  style="color: var(--global-text-color); text-decoration: none; font-weight: 600; font-size: 1.1rem;"
-                >
-                  {{ page.profile.name }}
-                </a>
+                <a href="{{ page.profile.link | relative_url }}" class="profile-name-link">{{ page.profile.name }}</a>
               {% else %}
-                <div style="font-weight: 600; font-size: 1.1rem;">{{ page.profile.name }}</div>
+                <div class="profile-name-text">{{ page.profile.name }}</div>
               {% endif %}
             </div>
           {% endif %}
@@ -60,7 +55,7 @@ layout: default
       <!-- News -->
       {% if page.announcements and page.announcements.enabled %}
         <h2 class="section-header">
-          <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+          <a href="{{ '/news/' | relative_url }}">News</a>
         </h2>
         {% include news.liquid limit=true %}
       {% endif %}
@@ -68,7 +63,7 @@ layout: default
       <!-- Latest posts -->
       {% if page.latest_posts and page.latest_posts.enabled %}
         <h2 class="section-header">
-          <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest Posts</a>
+          <a href="{{ '/blog/' | relative_url }}">Latest Posts</a>
         </h2>
         {% include latest_posts.liquid %}
       {% endif %}
@@ -76,7 +71,7 @@ layout: default
       <!-- Projects -->
       {% if page.projects and page.projects.enabled %}
         <h2 class="section-header">
-          <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Projects</a>
+          <a href="{{ '/projects/' | relative_url }}">Projects</a>
         </h2>
         {% include projects_home.liquid limit=page.projects.limit %}
         <p class="mt-2 mb-0">
@@ -87,7 +82,7 @@ layout: default
       <!-- Team -->
       {% if page.team_preview and page.team_preview.enabled %}
         <h2 class="section-header">
-          <a href="{{ '/team/' | relative_url }}" style="color: inherit">Team</a>
+          <a href="{{ '/team/' | relative_url }}">Team</a>
         </h2>
         {% include team_home.liquid %}
         <p class="mt-2 mb-0">
@@ -98,7 +93,7 @@ layout: default
       <!-- Selected papers -->
       {% if page.selected_papers %}
         <h2 class="section-header">
-          <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
+          <a href="{{ '/publications/' | relative_url }}">Selected Publications</a>
         </h2>
         {% include selected_papers.liquid %}
         <p class="mt-2 mb-0">

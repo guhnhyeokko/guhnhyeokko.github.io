@@ -1,0 +1,12 @@
+{%- comment -%}
+  One gallery photo cell, flowing 3 per row. Parameters:
+    path    - image path under the repo root (e.g. assets/img/foo.jpg)
+    id      - anchor id, so news items can deep-link to a photo
+    caption - full caption shown on tablet and desktop
+    short   - short caption shown on mobile (falls back to `caption` if omitted)
+{%- endcomment -%}
+<div class="col-4 mt-3" id="{{ include.id }}">
+  {% include figure.liquid path=include.path class="gallery-thumb rounded z-depth-1" zoomable=true %}
+  <div class="caption d-none d-md-block">{{ include.caption }}</div>
+  <div class="caption d-md-none">{{ include.short | default: include.caption }}</div>
+</div>
