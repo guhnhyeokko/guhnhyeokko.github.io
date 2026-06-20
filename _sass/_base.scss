@@ -1680,6 +1680,43 @@ mjx-container[jax="CHTML"][display="true"] {
   gap: 2rem;
 }
 
+// Research-area tag shown above a publication (replaces the journal abbr badge).
+// Minimal outlined pill, tinted per area, consistent with the news tags.
+.project-tag {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  line-height: 1.35;
+  padding: 0.15rem 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 4px;
+  border: 1px solid var(--global-divider-color);
+  background-color: transparent;
+  color: #666;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+    border-color: currentColor;
+  }
+}
+
+.project-tag-underwater {
+  color: #1565c0;
+  border-color: rgba(21, 101, 192, 0.4);
+}
+
+.project-tag-diagnostic {
+  color: #00796b;
+  border-color: rgba(0, 121, 107, 0.4);
+}
+
+.project-tag-therapeutic {
+  color: #8e24aa;
+  border-color: rgba(142, 36, 170, 0.4);
+}
+
 .projects .card {
   border: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
