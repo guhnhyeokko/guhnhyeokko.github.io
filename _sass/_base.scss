@@ -1699,9 +1699,8 @@ mjx-container[jax="CHTML"][display="true"] {
   background-color: transparent;
   color: #666;
   text-decoration: none;
-  // Keep each word whole so two-word labels stay within two lines
-  word-break: keep-all;
-  hyphens: none;
+  // Single-word area labels stay on one line
+  white-space: nowrap;
 
   &:hover {
     text-decoration: none;
