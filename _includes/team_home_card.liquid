@@ -28,9 +28,6 @@
           <a href="{{ member_link }}">{{ m.profile.name }}</a>
         </h6>
         <p class="card-subtitle text-muted mb-0 member-card-position">{{ m.profile.position }}</p>
-        {%- if m.profile.education -%}
-          <p class="text-muted mb-0 member-card-edu"><i class="fa-solid fa-graduation-cap"></i> {{ m.profile.education }}</p>
-        {%- endif -%}
         {%- if include.badge -%}
           <span class="badge rounded-pill mt-1 member-badge">{{- include.badge -}}</span>
         {%- endif -%}
