@@ -11,6 +11,7 @@ area:
 profile:
   name: Changsoo Kim
   position: Postdoc
+  education: Ph.D., Ocean System Engineering, Jeju National University
   image: drkim.jpg
   email: yustchangjnu@jejunu.ac.kr
   github:

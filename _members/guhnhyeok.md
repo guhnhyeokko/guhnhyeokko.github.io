@@ -9,6 +9,7 @@ area: underwater
 profile:
   name: GuhnHyeok Ko
   position: PhD Student
+  education: M.S., Ocean System Engineering, Jeju National University
   image:
   email: guhnhyeokko@stu.jejunu.ac.kr
   github:

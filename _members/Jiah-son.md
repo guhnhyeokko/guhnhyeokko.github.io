@@ -9,6 +9,7 @@ area: underwater
 profile:
   name: Jiah Son
   position: MS Student
+  education: B.S., Nanophysics, Gachon University
   image:
   email:
   github:
