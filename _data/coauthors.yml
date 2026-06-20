@@ -40,3 +40,9 @@
 "ko":
   - firstname: ["GuhnHyeok", "G.-H.", "G. H."]
     url: /members/guhnhyeok-ko/
+
+# Early papers under the romanization "Jin, Changzhu" are Changsoo Kim;
+# keep the printed name but link it to his current team page.
+"jin":
+  - firstname: ["Changzhu", "C.", "C"]
+    url: /members/changsoo-kim/
