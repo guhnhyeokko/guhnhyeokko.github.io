@@ -39,4 +39,10 @@ team_preview:
   enabled: true # includes a team preview (grouped by research area) on the home page
 ---
 
-Our research group focuses on **underwater acoustics**, **diagnosis**, and **therapeutic ultrasound** based on various characteristics of **ultrasound technology**. In **underwater environments** where light usage is limited, we study underwater communication, seabed exploration through sonar, and plankton detection using ultrasonic scattering characteristics. In the field of **diagnostic ultrasound**, we conduct research on cardiovascular diseases such as arteriosclerosis through both in vitro and in vivo experiments, as well as numerical simulations of **red blood cell aggregation**. For **therapeutic applications**, we perform fundamental research on brain lesion treatment using High Intensity Focused Ultrasound (HIFU) technology. By leveraging the diverse properties of ultrasound, our work spans both underwater acoustics and medical applications.
+Our research group explores the diverse characteristics of **ultrasound technology** across three areas — **underwater acoustics**, **diagnostic ultrasound**, and **therapeutic ultrasound** — spanning both ocean and medical applications.
+
+**Underwater acoustics.** Where light is of limited use underwater, we study underwater communication, seabed exploration through sonar, and plankton detection using ultrasonic scattering.
+
+**Diagnostic ultrasound.** We investigate cardiovascular diseases such as arteriosclerosis through both in vitro and in vivo experiments, alongside numerical simulations of **red blood cell aggregation**.
+
+**Therapeutic ultrasound.** We carry out fundamental research on brain lesion treatment using High Intensity Focused Ultrasound (HIFU).

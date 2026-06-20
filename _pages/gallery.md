@@ -13,27 +13,16 @@ Photos from our conferences, fieldwork, and lab activities.
 HOW TO ADD A PHOTO
 
 1. Put your photo in assets/img/ (or assets/img/gallery/) and note its path.
-2. Copy one column block below, then change the image `path` and the caption text.
-3. Each photo is independent with its own title underneath — no need to group by event.
-4. `zoomable=true` makes each photo click-to-enlarge. Photos flow 3 per row (col-4),
-   wrapping to new rows automatically as you add more.
+2. Copy one `gallery_photo` line below and update `path`, `id`, `caption`, and `short`.
+   - caption: full description shown on tablet/desktop
+   - short: brief label shown on mobile (omit it to reuse the full caption)
+3. Each photo is independent — no need to group by event. Photos flow 3 per row,
+   wrapping automatically, and each is click-to-enlarge.
    Commit & push, or just send me the photos and I'll add them.
    {% endcomment %}
 
 <div class="row">
-  <div class="col-4 mt-3" id="istu2026-junbin">
-    {% include figure.liquid path="assets/img/ISTU2026-junbin.jpeg" class="gallery-thumb rounded z-depth-1" zoomable=true %}
-    <div class="caption d-none d-md-block">JunBin Ko presenting his poster on optical-tracking–guided focused ultrasound for blood–brain barrier opening at ISTU 2026, Trondheim, Norway.</div>
-    <div class="caption d-md-none">JunBin Ko — ISTU 2026</div>
-  </div>
-  <div class="col-4 mt-3" id="istu2026-cynthia">
-    {% include figure.liquid path="assets/img/ISTU2026-cynthia.jpeg" class="gallery-thumb rounded z-depth-1" zoomable=true %}
-    <div class="caption d-none d-md-block">Cynthia Imtiaz presenting her work on focused-ultrasound delivery of Rg3 nanoparticles for Parkinson's disease at ISTU 2026, Trondheim, Norway.</div>
-    <div class="caption d-md-none">Cynthia Imtiaz — ISTU 2026</div>
-  </div>
-  <div class="col-4 mt-3" id="ask2026-guhnhyeok">
-    {% include figure.liquid path="assets/img/ASK-guhnhyeok.jpeg" class="gallery-thumb rounded z-depth-1" zoomable=true %}
-    <div class="caption d-none d-md-block">GuhnHyeok Ko presenting underwater radiated-noise measurement of a small unmanned surface vehicle at the Acoustical Society of Korea Spring Conference 2026, Jungmun, Jeju.</div>
-    <div class="caption d-md-none">GuhnHyeok Ko — ASK Spring 2026</div>
-  </div>
+  {% include gallery_photo.liquid id="istu2026-junbin" path="assets/img/ISTU2026-junbin.jpeg" caption="JunBin Ko presenting his poster on optical-tracking–guided focused ultrasound for blood–brain barrier opening at ISTU 2026, Trondheim, Norway." short="JunBin Ko — ISTU 2026" %}
+  {% include gallery_photo.liquid id="istu2026-cynthia" path="assets/img/ISTU2026-cynthia.jpeg" caption="Cynthia Imtiaz presenting her work on focused-ultrasound delivery of Rg3 nanoparticles for Parkinson's disease at ISTU 2026, Trondheim, Norway." short="Cynthia Imtiaz — ISTU 2026" %}
+  {% include gallery_photo.liquid id="ask2026-guhnhyeok" path="assets/img/ASK-guhnhyeok.jpeg" caption="GuhnHyeok Ko presenting underwater radiated-noise measurement of a small unmanned surface vehicle at the Acoustical Society of Korea Spring Conference 2026, Jungmun, Jeju." short="GuhnHyeok Ko — ASK Spring 2026" %}
 </div>

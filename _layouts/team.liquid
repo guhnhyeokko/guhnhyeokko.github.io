@@ -55,12 +55,11 @@ layout: page
                   <img
                     src="{{ member_image_path | relative_url }}"
                     alt="{{ member.profile.name }}"
-                    class="rounded h-100"
-                    style="width: 150px; object-fit: cover;"
+                    class="rounded h-100 member-avatar"
                     loading="lazy"
                   >
                 {% else %}
-                  <div class="member-no-photo rounded h-100" style="width: 150px;" aria-label="No photo available">
+                  <div class="member-no-photo rounded h-100" aria-label="No photo available">
                     <i class="fa-solid fa-user"></i>
                   </div>
                 {% endif %}
