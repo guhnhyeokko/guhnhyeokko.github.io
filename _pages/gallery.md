@@ -3,7 +3,7 @@ layout: page
 permalink: /gallery/
 title: Gallery
 description: Photos from conferences, fieldwork, and lab activities
-nav: true
+nav: false
 nav_order: 5
 ---
 

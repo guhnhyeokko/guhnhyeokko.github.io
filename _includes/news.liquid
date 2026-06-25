@@ -10,8 +10,8 @@
       {% endif %}
       {% for item in news limit: news_limit %}
         <div class="news-item mb-3">
-          <div class="news-date mr-2">{{ item.date | date: '%b %d, %Y' }}</div>
-          <div class="news-content d-inline-block align-middle">
+          <div class="news-date">{{ item.date | date: '%b %d, %Y' }}</div>
+          <div class="news-content">
             {% if item.tag -%}
               <span class="news-tag news-tag-{{ item.tag | slugify }}">{{ item.tag }}</span>
             {%- endif %}
