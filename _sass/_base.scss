@@ -253,14 +253,14 @@ ul.task-list input[type="checkbox"] {
 // share the plain .post-header class — stay untouched.
 .post-header-section {
   text-align: center;
-  margin-bottom: 2.5rem;
-  padding: 2.75rem 1.5rem;
+  margin-bottom: 2rem;
+  padding: 1.4rem 1.5rem;
   border-radius: 12px;
   border: 1px solid var(--global-divider-color);
   background: linear-gradient(120deg, rgba(var(--global-theme-color-rgb), 0.1) 0%, rgba(var(--global-theme-color-rgb), 0.03) 100%);
 
   .post-title {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.15rem;
   }
 
   .post-description {
@@ -269,7 +269,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   @media (max-width: 576px) {
-    padding: 2rem 1rem;
+    padding: 1.1rem 1rem;
   }
 }
 
@@ -1649,10 +1649,10 @@ mjx-container[jax="CHTML"][display="true"] {
     min-width: 0;
     font-size: 1rem;
     line-height: 1.5;
-    // Keep titles to at most two lines; anything longer is truncated with an
-    // ellipsis so the list stays tidy and rows never run long.
+    // Keep every title to a single line; longer ones are truncated with an
+    // ellipsis so a row never wraps and the list stays tidy.
     display: -webkit-box;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 1;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
