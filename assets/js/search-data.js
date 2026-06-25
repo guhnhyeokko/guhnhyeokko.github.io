@@ -51,14 +51,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-gallery",
+        },{id: "dropdown-news",
+    title: "News",
+      description: "",
+        section: "Dropdown",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+            },{id: "dropdown-gallery",
     title: "Gallery",
-      description: "Photos from conferences, fieldwork, and lab activities",
-        section: "Navigation",
+      description: "",
+        section: "Dropdown",
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "members-jiah-son",
+            },{id: "members-jiah-son",
     title: 'Jiah Son',
       description: "",
         section: "Members",handler: () => {
