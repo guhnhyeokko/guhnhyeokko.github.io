@@ -1,0 +1,23 @@
+{%- comment -%}
+  Renders a news item's title. If the item names a main author/presenter
+  (front-matter `member`) who matches a lab member, that name is linked to
+  their member page and the rest of the title links to the news post.
+  Otherwise the whole title links to the post. Expects `include.item`.
+{%- endcomment -%}
+{%- assign item = include.item -%}
+{%- assign member_url = null -%}
+{%- if item.member -%}
+  {%- for m in site.members -%}
+    {%- if m.title == item.member -%}
+      {%- assign member_url = m.redirect | default: m.url | relative_url -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+{%- if member_url -%}
+  {%- assign title_rest = item.title | remove_first: item.member | strip -%}
+  <a class="news-link-member" href="{{ member_url }}">{{ item.member }}</a>
+  <a class="news-link-title" href="{{ item.url | relative_url }}">{{ title_rest }}</a>
+{%- else -%}
+  <a class="news-link-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+{%- endif -%}

@@ -4,7 +4,8 @@ date: 2026-05-22 09:00:00-0900
 tag: Conference
 inline: true
 related_posts: false
-title: Talk at the Acoustical Society of Korea Spring Conference 2026
+title: GuhnHyeok Ko — Oral presentation at the Acoustical Society of Korea Spring Conference 2026
+member: GuhnHyeok Ko
 ---
 
-**GuhnHyeok Ko** presented _Measurement of underwater radiated noise and source level estimation of a small unmanned surface vehicle_ (Ko, Kim, Kim, Park, Park & Paeng) at the 2026 Spring Conference of the Acoustical Society of Korea (41st Underwater Acoustics Symposium). <a href="/gallery/#ask2026-guhnhyeok">📷 Photos →</a>
+[**GuhnHyeok Ko**](/members/guhnhyeok/) gave an oral presentation — _Measurement of underwater radiated noise and source level estimation of a small unmanned surface vehicle_ (Ko, Kim, Kim, Park, Park & Paeng) — at the 2026 Spring Conference of the Acoustical Society of Korea (41st Underwater Acoustics Symposium). <a href="/gallery/#ask2026-guhnhyeok">📷 Photos →</a>

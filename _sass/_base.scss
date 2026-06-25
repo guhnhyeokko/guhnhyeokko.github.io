@@ -778,7 +778,24 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
+      // Uniform, fixed-size thumbnail regardless of the source image's
+      // dimensions: full column width, fixed 4:3 box, cropped to fill, and
+      // square corners (no rounding).
       .preview {
+        display: block;
+        width: 100%;
+        height: auto;
+        aspect-ratio: 4 / 3;
+        object-fit: cover;
+        border-radius: 0;
+      }
+
+      // The thumbnail sits inside <figure><picture> when rendered via
+      // figure.liquid; strip their default spacing so it fills the column.
+      figure,
+      picture {
+        margin: 0;
+        display: block;
       }
 
       .abbr {
@@ -1549,11 +1566,33 @@ mjx-container[jax="CHTML"][display="true"] {
   }
 }
 
-// Home-page news list (news.liquid): Bootstrap's .table-responsive enables
-// horizontal scrolling (overflow-x: auto). Keep the vertical scroll but drop
-// the horizontal one — overflow-y stays auto because the max-height remains.
-.news .table-responsive {
+// Home-page news list (news.liquid): show every item fully — no horizontal
+// scroll (the hover shift would otherwise overflow the row) and no vertical
+// scroll, so the whole (limited) list is always visible at a glance.
+.news {
   overflow-x: hidden;
+}
+
+// Linked news title (shared by the home-page list and the /news board, via
+// news_title.liquid). The main author/presenter name links to their member
+// page; the rest of the title links to the news post.
+.news-link-title {
+  color: var(--global-text-color);
+  font-weight: 500;
+
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration: none;
+  }
+}
+
+.news-link-member {
+  color: var(--global-theme-color);
+  font-weight: 600;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .news-item {
@@ -1716,16 +1755,6 @@ mjx-container[jax="CHTML"][display="true"] {
       color: var(--global-text-color-light);
       font-size: 0.85rem;
       white-space: nowrap;
-    }
-  }
-
-  .news-board-title {
-    color: var(--global-text-color);
-    font-weight: 500;
-
-    &:hover {
-      color: var(--global-theme-color);
-      text-decoration: none;
     }
   }
 
