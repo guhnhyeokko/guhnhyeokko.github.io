@@ -7,13 +7,15 @@
 
     <!-- Toolbar: total count, classification filter and search -->
     <div class="news-board-toolbar">
-      <div class="news-board-total">Total <span class="news-board-count">{{ news_size }}</span></div>
+      <div class="news-board-total">
+        Total <span class="news-board-count">{{ news_size }}</span>
+      </div>
       <div class="news-board-controls">
         <select class="news-board-filter" aria-label="Filter by classification">
           <option value="all">All</option>
           {% assign tags = site.news | map: 'tag' | uniq | sort %}
           {% for tag in tags %}
-            {% if tag and tag != "" %}
+            {% if tag and tag != '' %}
               <option value="{{ tag | slugify }}">{{ tag }}</option>
             {% endif %}
           {% endfor %}
