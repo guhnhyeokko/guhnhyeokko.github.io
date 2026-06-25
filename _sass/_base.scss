@@ -1549,6 +1549,13 @@ mjx-container[jax="CHTML"][display="true"] {
   }
 }
 
+// Home-page news list (news.liquid): Bootstrap's .table-responsive enables
+// horizontal scrolling (overflow-x: auto). Keep the vertical scroll but drop
+// the horizontal one — overflow-y stays auto because the max-height remains.
+.news .table-responsive {
+  overflow-x: hidden;
+}
+
 .news-item {
   transition: transform 0.2s ease;
 
