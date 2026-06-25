@@ -52,7 +52,7 @@
                 {% endif %}
               </td>
               <td class="nb-col-title">
-                <a class="news-board-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {% include news_title.liquid item=item %}
               </td>
               <td class="nb-col-date">{{ item.date | date: '%Y.%m.%d' }}</td>
             </tr>
