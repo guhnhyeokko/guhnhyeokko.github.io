@@ -1596,6 +1596,11 @@ mjx-container[jax="CHTML"][display="true"] {
 }
 
 .news-item {
+  // Fixed date column on the left, title flowing in its own column so long
+  // titles wrap neatly beside the date instead of dropping onto a new line.
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
   transition: transform 0.2s ease;
 
   &:hover {
@@ -1603,15 +1608,15 @@ mjx-container[jax="CHTML"][display="true"] {
   }
 
   .news-date {
+    flex: 0 0 6.5rem;
     font-size: 0.85rem;
-    min-width: 100px;
-    text-align: center;
-    vertical-align: middle;
-    display: inline-block;
+    text-align: left;
     color: #6c757d;
   }
 
   .news-content {
+    flex: 1 1 auto;
+    min-width: 0;
     font-size: 1rem;
   }
 
