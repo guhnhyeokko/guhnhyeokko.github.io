@@ -246,6 +246,33 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Section/listing-page header (page.liquid): a centered title + subtitle on a
+// soft, theme-tinted gradient band, so pages like Team / News / Projects /
+// Gallery open with a little visual weight instead of a bare left-aligned line.
+// Scoped to .post-header-section so blog posts, member, and CV headers — which
+// share the plain .post-header class — stay untouched.
+.post-header-section {
+  text-align: center;
+  margin-bottom: 2.5rem;
+  padding: 2.75rem 1.5rem;
+  border-radius: 12px;
+  border: 1px solid var(--global-divider-color);
+  background: linear-gradient(120deg, rgba(var(--global-theme-color-rgb), 0.1) 0%, rgba(var(--global-theme-color-rgb), 0.03) 100%);
+
+  .post-title {
+    margin-bottom: 0.5rem;
+  }
+
+  .post-description {
+    margin-bottom: 0;
+    color: var(--global-text-color-light);
+  }
+
+  @media (max-width: 576px) {
+    padding: 2rem 1rem;
+  }
+}
+
 // Navbar customization
 
 .navbar {
@@ -1578,7 +1605,7 @@ mjx-container[jax="CHTML"][display="true"] {
 // page; the rest of the title links to the news post.
 .news-link-title {
   color: var(--global-text-color);
-  font-weight: 500;
+  font-weight: 400;
 
   &:hover {
     color: var(--global-theme-color);
@@ -1588,7 +1615,7 @@ mjx-container[jax="CHTML"][display="true"] {
 
 .news-link-member {
   color: var(--global-theme-color);
-  font-weight: 600;
+  font-weight: 400;
 
   &:hover {
     text-decoration: underline;
@@ -1598,8 +1625,10 @@ mjx-container[jax="CHTML"][display="true"] {
 .news-item {
   // Fixed date column on the left, title flowing in its own column so long
   // titles wrap neatly beside the date instead of dropping onto a new line.
+  // Top-aligned (not baseline) because the clamped title below uses
+  // -webkit-box, whose baseline would otherwise drag the date down.
   display: flex;
-  align-items: baseline;
+  align-items: flex-start;
   gap: 0.5rem;
   transition: transform 0.2s ease;
 
@@ -1610,6 +1639,7 @@ mjx-container[jax="CHTML"][display="true"] {
   .news-date {
     flex: 0 0 6.5rem;
     font-size: 0.85rem;
+    line-height: 1.5;
     text-align: left;
     color: #6c757d;
   }
@@ -1618,6 +1648,13 @@ mjx-container[jax="CHTML"][display="true"] {
     flex: 1 1 auto;
     min-width: 0;
     font-size: 1rem;
+    line-height: 1.5;
+    // Keep titles to at most two lines; anything longer is truncated with an
+    // ellipsis so the list stays tidy and rows never run long.
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
 
   .news-tag {

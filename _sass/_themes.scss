@@ -11,6 +11,9 @@
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$green-color};
+  --global-theme-color-rgb:
+    #{color.channel($green-color, "red", $space: rgb)}, #{color.channel($green-color, "green", $space: rgb)},
+    #{color.channel($green-color, "blue", $space: rgb)};
   --global-hover-color: #{$green-color};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
@@ -83,6 +86,9 @@ html[data-theme="dark"] {
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color};
   --global-theme-color: #{$green-color-bright};
+  --global-theme-color-rgb:
+    #{color.channel($green-color-bright, "red", $space: rgb)}, #{color.channel($green-color-bright, "green", $space: rgb)},
+    #{color.channel($green-color-bright, "blue", $space: rgb)};
   --global-hover-color: #{$green-color-bright};
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-light};
