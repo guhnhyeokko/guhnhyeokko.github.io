@@ -4,7 +4,7 @@ date: 2026-05-22 09:00:00-0900
 tag: Conference
 inline: true
 related_posts: false
-title: GuhnHyeok Ko — Oral presentation at the Acoustical Society of Korea Spring Conference 2026
+title: GuhnHyeok Ko — Oral presentation at the ASK Spring Conference 2026
 member: GuhnHyeok Ko
 ---
 

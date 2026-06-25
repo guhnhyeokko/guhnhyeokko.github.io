@@ -4,7 +4,7 @@ date: 2026-05-20 09:00:00-0900
 tag: Conference
 inline: true
 related_posts: false
-title: Changsoo Kim — Oral presentation at the Acoustical Society of Korea Spring Conference 2026
+title: Changsoo Kim — Oral presentation at the ASK Spring Conference 2026
 member: Changsoo Kim
 ---
 
