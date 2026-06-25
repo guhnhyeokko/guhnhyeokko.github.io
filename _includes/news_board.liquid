@@ -1,0 +1,67 @@
+<!-- Bulletin-board (table) view for the dedicated /news page. -->
+<!-- The home-page news section keeps using news.liquid and is left unchanged. -->
+<div class="news-board">
+  {% if site.news != blank %}
+    {% assign news = site.news | reverse %}
+    {% assign news_size = site.news | size %}
+
+    <!-- Toolbar: total count, classification filter and search -->
+    <div class="news-board-toolbar">
+      <div class="news-board-total">Total <span class="news-board-count">{{ news_size }}</span></div>
+      <div class="news-board-controls">
+        <select class="news-board-filter" aria-label="Filter by classification">
+          <option value="all">All</option>
+          {% assign tags = site.news | map: 'tag' | uniq | sort %}
+          {% for tag in tags %}
+            {% if tag and tag != "" %}
+              <option value="{{ tag | slugify }}">{{ tag }}</option>
+            {% endif %}
+          {% endfor %}
+        </select>
+        <input
+          type="text"
+          class="news-board-search"
+          placeholder="Search by title…"
+          aria-label="Search news by title"
+          spellcheck="false"
+          autocomplete="off"
+        >
+      </div>
+    </div>
+
+    <div class="table-responsive">
+      <table class="news-board-table">
+        <thead>
+          <tr>
+            <th class="nb-col-no">No.</th>
+            <th class="nb-col-class">Classification</th>
+            <th class="nb-col-title">Title</th>
+            <th class="nb-col-date">Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for item in news %}
+            {% assign row_no = news_size | minus: forloop.index0 %}
+            <tr class="news-board-row" data-tag="{{ item.tag | slugify }}">
+              <td class="nb-col-no">{{ row_no }}</td>
+              <td class="nb-col-class">
+                {% if item.tag %}
+                  <span class="news-tag news-tag-{{ item.tag | slugify }}">{{ item.tag }}</span>
+                {% endif %}
+              </td>
+              <td class="nb-col-title">
+                <a class="news-board-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              </td>
+              <td class="nb-col-date">{{ item.date | date: '%Y.%m.%d' }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <p class="news-board-empty" hidden>No news matches your search.</p>
+    </div>
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}
+</div>
+
+<script src="{{ '/assets/js/news-board.js' | relative_url | bust_file_cache }}"></script>

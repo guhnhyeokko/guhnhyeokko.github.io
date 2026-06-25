@@ -2,7 +2,7 @@
 ---
 <div class="row" data-area="{{ entry.area }}">
   {% if site.enable_publication_thumbnails %}
-    <div class="col col-sm-2 abbr">
+    <div class="col col-sm-2 abbr order-sm-last ml-sm-auto">
       {%- if entry.area -%}
         {%- assign area_project = site.projects | where: 'area', entry.area | first -%}
         {%- if area_project -%}

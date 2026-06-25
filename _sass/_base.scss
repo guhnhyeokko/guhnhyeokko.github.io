@@ -1602,6 +1602,158 @@ mjx-container[jax="CHTML"][display="true"] {
   }
 }
 
+// News board: bulletin-board (table) view used on the dedicated /news page.
+// The home-page news list (news.liquid) is intentionally left untouched.
+.news-board {
+  margin-top: 1.5rem;
+
+  .news-board-toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 0.85rem;
+  }
+
+  .news-board-total {
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+
+    .news-board-count {
+      font-weight: 600;
+      color: var(--global-theme-color);
+    }
+  }
+
+  .news-board-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .news-board-filter,
+  .news-board-search {
+    font-size: 0.85rem;
+    padding: 0.35rem 0.6rem;
+    color: var(--global-text-color);
+    background-color: var(--global-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 4px;
+
+    &:focus {
+      outline: none;
+      border-color: var(--global-theme-color);
+    }
+  }
+
+  .news-board-search {
+    min-width: 13rem;
+  }
+
+  table.news-board-table {
+    width: 100%;
+    margin-bottom: 0;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+
+    thead th {
+      padding: 0.6rem 0.75rem;
+      text-align: center;
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      color: var(--global-text-color-light);
+      border-top: 2px solid var(--global-text-color-light);
+      border-bottom: 1px solid var(--global-divider-color);
+      white-space: nowrap;
+    }
+
+    tbody td {
+      padding: 0.75rem;
+      text-align: center;
+      vertical-align: middle;
+      border-bottom: 1px solid var(--global-divider-color);
+    }
+
+    .news-board-row {
+      transition: background-color 0.15s ease;
+
+      &:hover {
+        background-color: var(--global-code-bg-color);
+      }
+    }
+
+    .nb-col-no {
+      width: 4.5rem;
+      color: var(--global-text-color-light);
+      font-size: 0.85rem;
+    }
+
+    .nb-col-class {
+      width: 9rem;
+
+      // Center the tag cleanly in the cell (the base style adds a right margin).
+      .news-tag {
+        margin-right: 0;
+      }
+    }
+
+    .nb-col-title {
+      text-align: left;
+    }
+
+    .nb-col-date {
+      width: 8rem;
+      color: var(--global-text-color-light);
+      font-size: 0.85rem;
+      white-space: nowrap;
+    }
+  }
+
+  .news-board-title {
+    color: var(--global-text-color);
+    font-weight: 500;
+
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+
+  .news-board-empty {
+    padding: 2rem 0;
+    margin: 0;
+    text-align: center;
+    color: var(--global-text-color-light);
+  }
+
+  // Narrow screens: drop the No. column and tighten things up.
+  @media (max-width: 576px) {
+    .news-board-controls {
+      width: 100%;
+    }
+
+    .news-board-search {
+      flex: 1 1 auto;
+      min-width: 0;
+    }
+
+    table.news-board-table {
+      font-size: 0.88rem;
+    }
+
+    .nb-col-no {
+      display: none;
+    }
+
+    .nb-col-class {
+      width: auto;
+    }
+  }
+}
+
 // Gallery thumbnails: uniform boxed grid (3 per row)
 .gallery-thumb {
   width: 100%;
