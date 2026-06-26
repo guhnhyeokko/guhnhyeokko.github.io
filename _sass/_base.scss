@@ -246,6 +246,23 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// "Back" link shown above news detail pages (post.liquid), so readers who
+// clicked into a news item have an obvious way out — it steps back through
+// browser history, falling back to the /news board on a direct visit.
+.post-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration: none;
+  }
+}
+
 // Section/listing-page header (page.liquid): a centered title + subtitle on a
 // soft, theme-tinted gradient band, so pages like Team / News / Projects /
 // Gallery open with a little visual weight instead of a bare left-aligned line.
