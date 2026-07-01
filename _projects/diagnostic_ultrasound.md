@@ -29,7 +29,7 @@ hematocrit during the acceleration phase of the pulsatile cycle
 {% cite lee_spatiotemporal_2025 %}.
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-12 mt-3 mt-md-0">
+  <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/diagnostic_spatiotemporal_viscosity.jpg" class="img-fluid rounded z-depth-1" title="Linking microscopic hemorheology (RBC aggregation and local hematocrit) with arterial hemodynamics: spatiotemporal RBC dynamics and local blood viscosity under pulsatile flow." %}
   </div>
 </div>

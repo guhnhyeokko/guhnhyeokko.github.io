@@ -11,7 +11,11 @@ related_publications: false
 
 ## Overview
 
-{% include figure.liquid loading="eager" path="assets/img/therapeutic_fus_guidance_main.png" title="Optical tracking-guided focused ultrasound system for BBB opening" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/therapeutic_fus_guidance_main.png" title="Optical tracking-guided focused ultrasound system for BBB opening" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 Our therapeutic ultrasound research develops focused ultrasound (FUS) platforms for non-invasive brain targeting and blood-brain barrier (BBB) opening. By combining ultrasound sonication with circulating microbubbles, the BBB can be opened locally and temporarily, creating a route for stem-cell delivery to targeted brain regions for dementia therapy.
 
@@ -22,7 +26,7 @@ Using porcine models that better approximate human brain anatomy than small-anim
 Beyond stem cells, the same FUS-mediated BBB opening platform can ferry neuroprotective drugs into the brain. In a recent proof-of-concept study from our group, FUS-mediated BBB opening enhanced delivery of Rg3 ginseng nanoparticles in a Parkinson's disease mouse model, increasing nanoparticle accumulation in the brain and supporting mitochondrial function alongside improvements in motor performance ([Imtiaz, Kim & Paeng, _International Journal of Pharmaceutics: X_, 2026](https://doi.org/10.1016/j.ijpx.2026.100583)).
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-10 mt-3 mt-md-0">
+  <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/1-s2.0-S2590156726001039-ga1_lrg.jpg" title="Ultrasound-mediated ginseng nanoparticle delivery" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
@@ -31,7 +35,7 @@ Beyond stem cells, the same FUS-mediated BBB opening platform can ferry neuropro
 </div>
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-7 mt-3 mt-md-0">
+  <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/therapeutic_navigation_interface.png" title="Navigation interface for FUS targeting" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
