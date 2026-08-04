@@ -10,7 +10,7 @@ profile:
   name: Cynthia Imtiaz
   position: Researcher
   education: M.S., Ocean System Engineering, Jeju National University
-  image:
+  image: cynthia.jpg
   email: cynthiaimtiaz@stu.jejunu.ac.kr
   github:
   address:
