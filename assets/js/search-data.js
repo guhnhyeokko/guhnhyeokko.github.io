@@ -105,11 +105,6 @@ ninja.data = [{
       description: "",
         section: "Members",handler: () => {
   window.location.href = "/members/sanghyeok-jang/";
-},},{id: "members-seungju-jeong",
-    title: 'Seungju Jeong',
-      description: "",
-        section: "Members",handler: () => {
-  window.location.href = "/members/seungju-jeong/";
 },},{id: "news-homepage-launch-we-are-excited-to-announce-the-launch-of-our-new-homepage-please-take-a-look-around-to-learn-more-about-our-research-member-and-projects",
     title: 'Homepage Launch - We are excited to announce the launch of our new...',
       description: "",
