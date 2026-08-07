@@ -161,13 +161,27 @@ layout: page
       <thead>
         <tr>
           <th scope="col">Name</th>
-          <th scope="col">Role / Affiliation</th>
+          <th scope="col">Degree / Last Position at OBUS Lab</th>
+          <th scope="col">Current Position / Affiliation</th>
         </tr>
       </thead>
       <tbody>
         {% for alumnus in site.data.alumni %}
           <tr>
             <td>{{ alumnus.name }}</td>
+            <td>
+              {% if alumnus.degree %}
+                {{ alumnus.degree }}
+                {% if alumnus.last_role %}
+                  <br>
+                  {{ alumnus.last_role }}
+                {% endif %}
+              {% elsif alumnus.last_role %}
+                {{ alumnus.last_role }}
+              {% else %}
+                -
+              {% endif %}
+            </td>
             <td>
               {% if alumnus.role %}
                 {{ alumnus.role }}

@@ -1,38 +1,50 @@
+- name: Seungju Jeong
+  degree: B.S. in Ocean System Engineering, Jeju National University
+  email: seungju834@gmail.com
+
 - name: SeungUk Im
   email: sklim1013@stu.jejunu.ac.kr
 
-- name: Dr. Jooho Lee
+- name: Jooho Lee
+  degree: Ph.D.
   email: ljooho@jejunu.ac.kr
 
-- name: Dr. Soo-hong Min
+- name: Soo-hong Min
+  degree: Ph.D.
   email: tnghd337@jejunu.ac.kr
 
 - name: Inyoung Jeong
+  degree: M.S.
   email: iyjeong@office.jejunu.ac.kr
 
 - name: Sheher Bano Zaigham
+  degree: M.S.
   email: sheherbano7339@stu.jejunu.ac.kr
 
 - name: Woongbin Kang
+  degree: M.S.
   email: ubin1021@jejunu.ac.kr
 
-- name: Dr. Hansoo Kim
-  role: Korea Institute of ocean science and technology (KIOST), Researcher
+- name: Hansoo Kim
+  degree: Ph.D.
+  role: Korea Institute of Ocean Science and Technology (KIOST), Researcher
   email: hskim@kiost.ac.kr
 
-- name: Dr. GwanSuk Kang
+- name: Gwansuk Kang
+  degree: Ph.D.
   role: Stanford University, School of Medicine, Postdoctoral Research Fellow (Gastroenterology)
   email: gwansuk@stanford.edu
 
-- name: Dr. Taehoon Bok
+- name: Taehoon Bok
+  degree: Ph.D.
   role: Ryerson University, Canada
   email: tbok@ryerson.ca
 
 - name: Hafiz Muhammad Umer Farooqi
-  role: PostDoc (2021~2022)
+  last_role: Postdoctoral Researcher (2021–2022)
 
 - name: John LaRocco
-  role: PostDoc (2018~2019)
+  last_role: Postdoctoral Researcher (2018–2019)
 
 - name: Kweon-Ho Nam
   role: CEO, Biophysics lab
