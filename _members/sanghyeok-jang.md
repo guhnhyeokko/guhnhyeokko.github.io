@@ -1,6 +1,6 @@
 ---
 layout: member
-group: Master Student
+group: PhD Student
 title: Sanghyeok Jang
 lastname: Jang
 description:
@@ -8,7 +8,7 @@ area: therapeutic
 
 profile:
   name: Sanghyeok Jang
-  position: MS Student
+  position: Integrated MS–PhD Student
   education: B.S., Ocean System Engineering, Jeju National University
   image: sanghyeok.jpg
   email: tkdwkdgur@gmail.com

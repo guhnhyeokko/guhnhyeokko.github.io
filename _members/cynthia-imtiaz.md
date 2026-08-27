@@ -1,6 +1,6 @@
 ---
 layout: member
-group: Researcher
+group: PhD Student
 title: Cynthia Imtiaz
 lastname: Imtiaz
 description: Focused ultrasound–mediated drug delivery and neurodegenerative disease models
@@ -8,7 +8,7 @@ area: therapeutic
 
 profile:
   name: Cynthia Imtiaz
-  position: Researcher
+  position: PhD Student
   education: M.S., Ocean System Engineering, Jeju National University
   image: cynthia.jpg
   email: cynthiaimtiaz@stu.jejunu.ac.kr
@@ -18,7 +18,7 @@ profile:
 
 ## About
 
-Cynthia Imtiaz is a researcher at Jeju National University working on
+Cynthia Imtiaz is a PhD student at Jeju National University working on
 **focused ultrasound (FUS)–mediated blood–brain barrier (BBB) opening** for
 targeted, non-invasive drug delivery to the brain. Her research applies this
 approach to neurodegenerative disease models such as Parkinson's and Alzheimer's
